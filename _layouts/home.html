@@ -11,11 +11,16 @@ layout: default
   {% for post in site.posts %}
     <div class="post-preview">
       {% if post.thumbnail %}
+        <!-- Small thumbnail for homepage -->
         <a href="{{ post.url }}">
           <img src="{{ post.thumbnail }}" alt="Thumbnail for {{ post.title }}" class="post-thumbnail" />
         </a>
       {% endif %}
+
+      <!-- Post title -->
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+      <!-- Post excerpt -->
       <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
     </div>
   {% endfor %}
