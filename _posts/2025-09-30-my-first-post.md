@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "🍜 My Food Adventure in Bangkok"
+title: "🍜 Placeholder"
 date: 2025-09-30
-categories: travel food
+categories: placeholdercategory
 ---
 
-I spent 3 days exploring Bangkok’s street food stalls — pad thai, mango sticky rice,  
-and boat noodles! The night markets were the highlight of my trip.
+Placeholder content
 
-![Bangkok food](https://via.placeholder.com/1000x500)
+![Placeholder](https://via.placeholder.com/1000x500)
