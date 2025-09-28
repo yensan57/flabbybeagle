@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Shop"
-permalink: /shop/
+title: "placeholdertab"
+permalink: /placeholdertab/
 ---
 
-# Shop Coming Soon 🛒
+# Coming Soon 🏖️
 
-This is a placeholder. Later, we’ll add a shop powered by Stripe or another checkout system.
+This is a placeholder. 
+
