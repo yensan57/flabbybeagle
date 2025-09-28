@@ -37,4 +37,13 @@ img {
   height: auto;                   /* Keeps aspect ratio */
 }
 
+/* ===== Mobile-specific styles ===== */
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 16px; /* Slightly larger font for mobile readability */
+  }
+  nav {
+    font-size: 14px; /* Slightly larger nav links on mobile */
+  }
+}
 
