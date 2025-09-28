@@ -1,8 +1,13 @@
-title: FlabbyBeagle
-description: Placeholder description
-baseurl: "" # keep empty for custom domain
-url: "https://flabbybeagle.com"
-theme: minima
+# ===== Site Settings =====
+title: FlabbyBeagle                 # Your site name (shows in header and browser tab).
+description: Placeholder description # Tagline/description for search engines and feeds.
+baseurl: ""                          # Keep empty since you're using a custom domain.
+url: "https://flabbybeagle.com"      # Your live site URL.
 
+# ===== Theme Settings =====
+theme: minima                        # Jekyll theme you are using (built-in: minima).
+
+# ===== Plugins =====
 plugins:
-  - jekyll-feed
+  - jekyll-feed                      # Generates an RSS feed (used for "Subscribe via RSS").
+# 👉 You can add more plugins later, but GitHub Pages only supports certain ones.
