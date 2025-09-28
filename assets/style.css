@@ -4,6 +4,8 @@ body {
   line-height: 1.6;               /* Spacing between lines */
   background-color: #fafafa;      /* Background color of site */
   color: #333;                     /* Default text color */
+  margin: 0;
+  padding: 0;
 }
 
 /* ===== Header & Footer ===== */
@@ -41,21 +43,33 @@ img {
 .post-preview {
   margin-bottom: 2rem;
   overflow: hidden;               /* Clears floated thumbnails */
+  padding: 0.5rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.post-preview h2 {
+  margin-top: 0;
 }
 
 .post-thumbnail {
-  width: 50px !important;       /* Exact thumbnail width */
-  height: auto;                  /* Maintain aspect ratio */
+  width: 50px !important;         /* Force thumbnail size */
+  height: auto;
   margin-right: 1rem;
   float: left;
   border-radius: 4px;
-  object-fit: cover;             /* Crop image nicely */
+  object-fit: cover;               /* Crop nicely without distortion */
 }
 
 /* ===== Mobile-specific styles ===== */
 @media only screen and (max-width: 600px) {
+  body {
+    font-size: 16px;              /* Larger font for mobile */
+  }
+  nav {
+    font-size: 14px;              /* Slightly larger nav links */
+  }
   .post-thumbnail {
-    width: 40px !important;     /* Smaller thumbnails on mobile */
+    width: 40px !important;       /* Smaller thumbnails on mobile */
     margin-right: 0.5rem;
     float: none;
     display: block;
