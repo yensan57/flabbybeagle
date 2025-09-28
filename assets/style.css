@@ -36,6 +36,18 @@ img {
   max-width: 100%;                /* Image never exceeds screen width */
   height: auto;                   /* Keeps aspect ratio */
 }
+.post-preview {
+  margin-bottom: 2rem;
+}
+
+.post-thumbnail {
+  max-width: 200px; /* thumbnail size */
+  height: auto;
+  margin-right: 1rem;
+  float: left;
+  border-radius: 4px;
+}
+
 
 /* ===== Mobile-specific styles ===== */
 @media only screen and (max-width: 600px) {
