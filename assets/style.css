@@ -33,7 +33,7 @@ header, footer {
   text-decoration: underline;
 }
 
-/* ===== General Images ===== */
+/* ===== Images ===== */
 img {
   max-width: 100%;
   height: auto;
@@ -46,14 +46,13 @@ img {
   padding: 0.5rem;
   border-bottom: 1px solid #ddd;
 }
-
 .post-preview h2 {
   margin-top: 0;
 }
 
-/* ===== Homepage Thumbnail Styling ===== */
+/* ===== Thumbnail Styling ===== */
 .post-thumbnail {
-  width: 80px;               /* <-- homepage thumbnail size */
+  width: 80px; /* Change this to adjust thumbnail size */
   max-width: 80px;
   height: auto;
   margin-right: 1rem;
@@ -62,13 +61,14 @@ img {
   object-fit: cover;
 }
 
-/* ===== Post Content Image Styling ===== */
+/* ===== Post Content Styling ===== */
 .post-content img {
-  width: 400px;              /* <-- post image size */
+  width: auto;
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 1rem auto;         /* center in post */
+  margin: 1rem auto; /* Center image in post */
+  cursor: pointer;
 }
 
 /* ===== Mobile-specific styles ===== */
@@ -89,6 +89,8 @@ img {
     margin-right: auto;
   }
   .post-content img {
-    width: 100%;
+    width: auto;
+    max-width: 100%;
+    height: auto;
   }
 }
