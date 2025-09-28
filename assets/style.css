@@ -33,7 +33,7 @@ header, footer {
   text-decoration: underline;
 }
 
-/* ===== Images ===== */
+/* ===== General Images ===== */
 img {
   max-width: 100%;
   height: auto;
@@ -51,9 +51,9 @@ img {
   margin-top: 0;
 }
 
-/* ===== Thumbnail Styling ===== */
+/* ===== Homepage Thumbnail Styling ===== */
 .post-thumbnail {
-  width: 80px;               /* <-- change this number to adjust size */
+  width: 80px;               /* <-- homepage thumbnail size */
   max-width: 80px;
   height: auto;
   margin-right: 1rem;
@@ -62,5 +62,33 @@ img {
   object-fit: cover;
 }
 
-/* Ensure thumbnails in Minima are targeted */
-.post-preview img.post-thumbnai
+/* ===== Post Content Image Styling ===== */
+.post-content img {
+  width: 400px;              /* <-- post image size */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;         /* center in post */
+}
+
+/* ===== Mobile-specific styles ===== */
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+  nav {
+    font-size: 14px;
+  }
+  .post-thumbnail {
+    width: 50px !important;
+    max-width: 50px !important;
+    margin-right: 0.5rem;
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .post-content img {
+    width: 100%;
+  }
+}
