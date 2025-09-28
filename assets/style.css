@@ -44,7 +44,7 @@ img {
 }
 
 .post-thumbnail {
-  max-width: 200px !important;    /* Thumbnail width */
+  max-width: 50px !important;    /* Thumbnail width */
   height: auto;
   margin-right: 1rem;
   float: left;
@@ -60,7 +60,7 @@ img {
     font-size: 14px;              /* Slightly larger nav links */
   }
   .post-thumbnail {
-    max-width: 100px !important;  /* Smaller thumbnails on mobile */
+    max-width: 50px !important;  /* Smaller thumbnails on mobile */
     margin-right: 0.5rem;
     float: none;                  /* Remove float on mobile */
     display: block;
