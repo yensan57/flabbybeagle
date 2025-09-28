@@ -52,12 +52,12 @@ img {
 }
 
 .post-thumbnail {
-  width: 10px !important;         /* Force thumbnail size */
-  height: auto;
+  width: 10px !important;   /* Change this number to adjust thumbnail size */
+  height: auto !important;
   margin-right: 1rem;
   float: left;
   border-radius: 4px;
-  object-fit: cover;               /* Crop nicely without distortion */
+  object-fit: cover;
 }
 
 /* ===== Mobile-specific styles ===== */
