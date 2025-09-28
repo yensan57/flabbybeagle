@@ -1,48 +1,48 @@
 /* ===== General Page Styling ===== */
 body {
-  font-family: Arial, sans-serif; /* Main font */
-  line-height: 1.6;               /* Spacing between lines */
-  background-color: #fafafa;      /* Background color of site */
-  color: #333;                     /* Default text color */
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #fafafa;
+  color: #333;
   margin: 0;
   padding: 0;
 }
 
 /* ===== Header & Footer ===== */
 header, footer {
-  background: #f4a261;            /* Orange background */
-  color: white;                   /* White text */
-  padding: 1rem;                  /* Space around text */
-  text-align: center;             /* Centered text */
+  background: #f4a261;
+  color: white;
+  padding: 1rem;
+  text-align: center;
 }
 
 /* ===== Navigation Menu ===== */
 .nav-links {
-  list-style: none;               /* Removes bullet points */
-  padding: 0;                      /* Removes default padding */
+  list-style: none;
+  padding: 0;
 }
 .nav-links li {
-  display: inline;                /* Puts menu items side-by-side */
-  margin: 0 1rem;                 /* Space between links */
+  display: inline;
+  margin: 0 1rem;
 }
 .nav-links a {
-  color: white;                   /* Link color */
-  text-decoration: none;          /* Removes underline */
+  color: white;
+  text-decoration: none;
 }
 .nav-links a:hover {
-  text-decoration: underline;     /* Adds underline when hovered */
+  text-decoration: underline;
 }
 
 /* ===== Images ===== */
 img {
-  max-width: 100%;                /* Image never exceeds container width */
-  height: auto;                   /* Keeps aspect ratio */
+  max-width: 100%;
+  height: auto;
 }
 
 /* ===== Post Previews (Homepage) ===== */
 .post-preview {
   margin-bottom: 2rem;
-  overflow: hidden;               /* Clears floated thumbnails */
+  overflow: hidden;
   padding: 0.5rem;
   border-bottom: 1px solid #ddd;
 }
@@ -51,29 +51,16 @@ img {
   margin-top: 0;
 }
 
+/* ===== Thumbnail Styling ===== */
 .post-thumbnail {
-  width: 10px !important;   /* Change this number to adjust thumbnail size */
-  height: auto !important;
+  width: 80px;               /* <-- change this number to adjust size */
+  max-width: 80px;
+  height: auto;
   margin-right: 1rem;
   float: left;
   border-radius: 4px;
   object-fit: cover;
 }
 
-/* ===== Mobile-specific styles ===== */
-@media only screen and (max-width: 600px) {
-  body {
-    font-size: 16px;              /* Larger font for mobile */
-  }
-  nav {
-    font-size: 14px;              /* Slightly larger nav links */
-  }
-  .post-thumbnail {
-    width: 10px !important;       /* Smaller thumbnails on mobile */
-    margin-right: 0.5rem;
-    float: none;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
+/* Ensure thumbnails in Minima are targeted */
+.post-preview img.post-thumbnai
