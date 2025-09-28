@@ -1,5 +1,8 @@
 title: Flabby Beagle
 description: My travels and food exploits
-baseurl: "" # leave empty for custom domain
+baseurl: "" # keep empty for custom domain
 url: "https://flabbybeagle.com"
 theme: minima
+
+plugins:
+  - jekyll-feed
