@@ -7,4 +7,4 @@ categories: placeholdercategory
 
 Placeholder content
 
-![Placeholder](https://via.placeholder.com/1000x500)
+![Placeholder](/assets/images/cat_placeholder.jpg)
