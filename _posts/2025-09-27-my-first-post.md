@@ -8,7 +8,7 @@ categories: placeholdercategory     # You can group posts with categories.
 Placeholder content
 
 <a href="/assets/images/cat_placeholder.jpg" target="_blank">
-  <img src="/assets/images/cat_placeholder.jpg" alt="Placeholder" style="max-width:600px; height:auto;">
+  <img src="/assets/images/cat_placeholder.jpg" alt="Placeholder" style="max-width:300px; height:auto;">
 </a>
 
 <!-- # 👉 To add more images, upload them to assets/images and reference like:
