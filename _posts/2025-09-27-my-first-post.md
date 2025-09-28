@@ -9,6 +9,8 @@ thumbnail: /assets/images/cat_placeholder.jpg
 <div class="post-content">
 Placeholder content
 
-![Placeholder](/assets/images/cat_placeholder.jpg)
+<a href="/assets/images/cat_placeholder.jpg" target="_blank">
+  ![Placeholder](/assets/images/cat_placeholder.jpg)
+</a>
 
 </div>
