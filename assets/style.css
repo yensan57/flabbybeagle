@@ -36,3 +36,9 @@ img {
   max-width: 100%;                /* Image never exceeds screen width */
   height: auto;                   /* Keeps aspect ratio */
 }
+.post-content img {
+  max-width: 600px;  /* Adjust display size */
+  height: auto;
+  cursor: pointer;   /* Makes it look clickable */
+}
+
