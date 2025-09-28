@@ -9,7 +9,7 @@ Placeholder content
 
 ![Placeholder](/assets/images/cat_placeholder.jpg)
 
-# 👉 To add more images, upload them to assets/images and reference like:
-# ![Alt text](/assets/images/your-image-name.jpg)
+<!-- # 👉 To add more images, upload them to assets/images and reference like:
+![Alt text](/assets/images/your-image-name.jpg)  -->
 
 
