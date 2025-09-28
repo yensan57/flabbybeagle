@@ -1,31 +1,38 @@
+/* ===== General Page Styling ===== */
 body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background-color: #fafafa;
-  color: #333;
+  font-family: Arial, sans-serif; /* Main font */
+  line-height: 1.6;               /* Spacing between lines */
+  background-color: #fafafa;      /* Background color of site */
+  color: #333;                    /* Default text color */
 }
+
+/* ===== Header & Footer ===== */
 header, footer {
-  background: #f4a261;
-  color: white;
-  padding: 1rem;
-  text-align: center;
+  background: #f4a261;            /* Orange background */
+  color: white;                   /* White text */
+  padding: 1rem;                  /* Space around text */
+  text-align: center;             /* Centered text */
 }
+
+/* ===== Navigation Menu ===== */
 .nav-links {
-  list-style: none;
-  padding: 0;
+  list-style: none;               /* Removes bullet points */
+  padding: 0;                     /* Removes default padding */
 }
 .nav-links li {
-  display: inline;
-  margin: 0 1rem;
+  display: inline;                /* Puts menu items side-by-side */
+  margin: 0 1rem;                 /* Space between links */
 }
 .nav-links a {
-  color: white;
-  text-decoration: none;
+  color: white;                   /* Link color */
+  text-decoration: none;          /* Removes underline */
 }
 .nav-links a:hover {
-  text-decoration: underline;
+  text-decoration: underline;     /* Adds underline when hovered */
 }
+
+/* ===== Images ===== */
 img {
-  max-width: 100%;
-  height: auto;
+  max-width: 100%;                /* Image never exceeds screen width */
+  height: auto;                   /* Keeps aspect ratio */
 }
