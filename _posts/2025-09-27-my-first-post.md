@@ -8,9 +8,8 @@ thumbnail: /assets/images/cat_placeholder.jpg  # <-- thumbnail image path
 
 Placeholder content
 
-<a href="/assets/images/cat_placeholder.jpg" target="_blank">
-  <img src="/assets/images/cat_placeholder.jpg" alt="Placeholder" style="max-width:300px; height:auto;">
-</a>
+![Placeholder](/assets/images/cat_placeholder.jpg)
+
 
 <!-- # 👉 To add more images, upload them to assets/images and reference like:
 ![Alt text](/assets/images/your-image-name.jpg)  -->
