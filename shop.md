@@ -7,4 +7,4 @@ permalink: /placeholdertab/    # This is the URL path (example: https://flabbybe
 # Coming Soon 🏖️
 This is a placeholder.  
 
-# 👉 Later, replace this with actual shop code or embed a payment system like Stripe.
+<!-- # 👉 Later, replace this with actual shop code or embed a payment system like Stripe. -->
