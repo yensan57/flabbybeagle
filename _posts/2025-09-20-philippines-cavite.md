@@ -11,17 +11,17 @@ PHP60 (S$1.4) per kg, PHP240 (S$5.5) for 2 very ripe fruits.
 <a href="/assets/images/2025-09-20/20250920_132437.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_132437_small.jpg" 
        alt="cavite_stall"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 <a href="/assets/images/2025-09-20/20250920_132445(0).jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_132445(0)_small.jpg" 
        alt="cavite_stall"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 <a href="/assets/images/2025-09-20/20250920_132901.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_132901_small.jpg" 
        alt="cavite_stall"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 
 Very creamy, with 60% bitter with some bruising fermentation in 1st fruit, and 20% bitter in 2nd fruit.
@@ -33,31 +33,31 @@ The dogs there eat durian 😂.
 <a href="/assets/images/2025-09-20/20250920_135411.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_135411_small.jpg" 
        alt="cavite_durian"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 <a href="/assets/images/2025-09-20/20250920_132957.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_132957_small.jpg" 
        alt="cavite_durian"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 <a href="/assets/images/2025-09-20/20250920_133127.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_133127_small.jpg" 
        alt="cavite_durian"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 <a href="/assets/images/2025-09-20/20250920_133131.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_133131_small.jpg" 
        alt="cavite_durian"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 <a href="/assets/images/2025-09-20/20250920_133813.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_133813_small.jpg" 
        alt="cavite_durian"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 <a href="/assets/images/2025-09-20/20250920_134556.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_134556_small.jpg" 
        alt="cavite_durian"
-       style="width:100%; max-width:100px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
 </a>
 
