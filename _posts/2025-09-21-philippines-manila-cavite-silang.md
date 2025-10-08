@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Philippines Cavite Silang"
+title: "Philippines Manila Cavite Silang"
 date: 2025-09-21
 thumbnail: /assets/images/2025-09-21/20250921_154635_small.jpg
 ---
