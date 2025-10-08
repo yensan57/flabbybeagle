@@ -2,14 +2,26 @@
 layout: default
 ---
 
+<!-- ===== Site Banner with Sticky Navigation ===== -->
 <header class="site-banner">
-  <h1>{{ site.title }}</h1>
-  <p>{{ site.description }}</p>
+  <div class="banner-inner">
+    <div class="site-title">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+    </div>
+    <nav class="site-nav">
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/shop' | relative_url }}">Shop</a></li>
+        <li><a href="{{ '/about' | relative_url }}">About</a></li>
+      </ul>
+    </nav>
+  </div>
 </header>
 
+<!-- ===== Main Grid for Posts ===== -->
 <main class="post-grid">
-  {% assign posts_to_show = paginator.posts | default: site.posts %}
-  {% for post in posts_to_show %}
+  {% for post in paginator.posts %}
     <div class="post-card">
       <a href="{{ post.url | relative_url }}">
         {% if post.thumbnail %}
@@ -26,6 +38,7 @@ layout: default
   {% endfor %}
 </main>
 
+<!-- ===== Pagination ===== -->
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
