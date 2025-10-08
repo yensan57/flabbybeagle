@@ -22,3 +22,11 @@ During durian season (Sep onwards), there will be random popup events at malls a
 
 We immediately headed over to the main famous touristy street called Magsaysay where durian sellers are arranged in a single row right beside the road.
 
+Almost all were unripe, again, but at least we found one fruit that had a bit of a smell. It was unevenly ripe.
+
+<img src="/assets/images/2025-08-29/xxx_small.jpg" class="small-img" alt="magsaysay_durian">
+
+
+<u>Bankerohan Public Market</u>
+
+Next day, we checked out another 
