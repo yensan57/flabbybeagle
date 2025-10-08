@@ -1,16 +1,16 @@
 ---
-layout: post
-title: "🍜 Placeholder"
+title: "🍜 Placeholder Post"
 date: 2025-09-27
-categories: placeholdercategory
+categories: blog
 thumbnail: /assets/images/cat_placeholder.jpg
 ---
 
-<div class="post-content">
-Placeholder content
+Welcome to **FlabbyBeagle.com**!  
+This is your first sample post.
 
-<a href="/assets/images/cat_placeholder.jpg" target="_blank">
-  ![Placeholder](/assets/images/cat_placeholder.jpg)
-</a>
+Here’s an example of how an image will look inside a post:
 
-</div>
+![Placeholder](/assets/images/cat_placeholder.jpg)
+
+You can add more posts by creating new files in the `_posts/` folder using this naming format:
+
