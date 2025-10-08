@@ -11,9 +11,9 @@ Php200 (S$4.5) for 1 ripe fruit, but it tasted quite bland; poor tree quality un
 
 Still cool to see more roadside durian supply.
 
-<img src="/assets/images/2025-09-21/20250921_154635_small.jpg" alt="silang_stall">
-<img src="/assets/images/2025-09-21/20250921_154903_small.jpg" alt="silang_stall">
-<img src="/assets/images/2025-09-21/20250921_155218_small.jpg" alt="silang_stall">
-<img src="/assets/images/2025-09-21/20250921_155915_small.jpg" alt="silang_stall">
+<img src="/assets/images/2025-09-21/20250921_154635_small.jpg" class="small-img" alt="silang_stall">
+<img src="/assets/images/2025-09-21/20250921_154903_small.jpg" class="small-img" alt="silang_stall">
+<img src="/assets/images/2025-09-21/20250921_155218_small.jpg" class="small-img" alt="silang_stall">
+<img src="/assets/images/2025-09-21/20250921_155915_small.jpg" class="small-img" alt="silang_stall">
 
 
