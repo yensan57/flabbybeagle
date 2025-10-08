@@ -28,41 +28,67 @@
       justify-content: space-between;
       align-items: center;
       background-color: #fff59d;
-      padding: 1rem;
+      padding: 0.6rem 1rem; /*  slightly reduced padding for better fit */
       position: relative;
     }
+
+    /*  Added: flex container for logo + site name */
     .nav-brand {
+      display: flex;
+      align-items: center;
       font-weight: bold;
-      font-size: 1.2rem;
+      font-size: 1.3rem;
+      text-decoration: none;
+      color: #333;
     }
+
+    /*  Added: logo styling */
+    .nav-brand img {
+      height: 42px;
+      width: auto;
+      margin-right: 10px;
+      border-radius: 6px;
+      transition: transform 0.2s ease;
+    }
+
+    .nav-brand img:hover {
+      transform: scale(1.05);
+    }
+
     .nav-menu {
       list-style: none;
       display: flex;
       margin: 0;
       padding: 0;
     }
+
     .nav-menu li {
       margin-left: 1rem;
     }
+
     .nav-menu li a {
       text-decoration: none;
       color: #333;
       font-weight: bold;
     }
+
     .nav-menu li a:hover {
       color: #000;
     }
+
     .nav-toggle {
       display: none;
-      font-size: 1.5rem;
+      font-size: 1.8rem; /*  slightly larger for touchscreens */
       background: none;
       border: none;
       cursor: pointer;
     }
+
     @media (max-width: 768px) {
       .nav-toggle {
         display: block;
       }
+
       .nav-menu {
         flex-direction: column;
         display: none;
@@ -72,13 +98,26 @@
         top: 60px;
         left: 0;
         padding: 0;
+        border-radius: 0 0 8px 8px; /*  smoother dropdown look */
+        box-shadow: 0 2px 5px rgba(0,0,0,0.15);
       }
+
       .nav-menu.active {
         display: flex;
       }
+
       .nav-menu li {
         margin: 1rem 0;
         text-align: center;
+      }
+
+      /*  Responsive logo and text adjustments */
+      .nav-brand img {
+        height: 32px;
+      }
+
+      .nav-brand {
+        font-size: 1.1rem;
       }
     }
 
@@ -95,8 +134,15 @@
 <body>
   <header>
     <nav class="navbar">
-      <div class="nav-brand">{{ site.title }}</div>
+      <!--  CHANGED: Added logo + linked brand -->
+      <a href="{{ '/' | relative_url }}" class="nav-brand">
+        <img src="/assets/images/logo.png" alt="FlabbyBeagle Logo">  <!-- your logo path -->
+        {{ site.title }}
+      </a>
+
+      <!--  CHANGED: Hamburger toggle button -->
       <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+
       <ul class="nav-menu">
         <li><a href="{{ '/' | relative_url }}">Blog</a></li>
         <li><a href="{{ '/comingsoon' | relative_url }}">Coming Soon</a></li>
@@ -108,6 +154,7 @@
     {{ content }}
   </div>
 
+  <!--  CHANGED: Moved JS to bottom, cleaner toggle -->
   <script>
     document.addEventListener("DOMContentLoaded", function() {
       const toggle = document.querySelector(".nav-toggle");
