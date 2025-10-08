@@ -137,6 +137,30 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.05);
     }
 
+    /*  NEW: Lightbox styles */
+    .lightbox {
+      display: none;
+      position: fixed;
+      z-index: 9999;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.85);
+      justify-content: center;
+      align-items: center;
+    }
+
+    .lightbox img {
+      max-width: 90%;
+      max-height: 90%;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(255,255,255,0.2);
+      user-select: none;
+      -webkit-user-drag: none;
+      pointer-events: none; /* Prevent right-click / save */
+    }
+    
     /* Footer styling */
     footer {
       background-color: #fff59d;
@@ -180,6 +204,11 @@
     {{ content }}
   </div>
 
+  <!--  Lightbox container -->
+  <div class="lightbox" id="lightbox">
+    <img src="" alt="Expanded image">
+  </div>
+  
   <!-- === COPYRIGHT FOOTER START === -->
   <footer>
     © {{ "now" | date: "%Y" }} FlabbyBeagle. All rights reserved.
@@ -190,15 +219,38 @@
   
   <!--  CHANGED: Moved JS to bottom, cleaner toggle -->
   <script>
+
+    // Mobile nav toggle
     document.addEventListener("DOMContentLoaded", function() {
       const toggle = document.querySelector(".nav-toggle");
       const menu = document.querySelector(".nav-menu");
-
       toggle.addEventListener("click", function() {
         menu.classList.toggle("active");
       });
     });
 
+    //  Lightbox logic
+    document.addEventListener("DOMContentLoaded", function() {
+      const lightbox = document.getElementById("lightbox");
+      const lightboxImg = lightbox.querySelector("img");
+
+      // Find all post images
+      document.querySelectorAll(".content img").forEach(img => {
+        img.addEventListener("click", e => {
+          lightboxImg.src = img.src.replace("_small", ""); // optional if you use _small pattern
+          lightbox.style.display = "flex";
+        });
+      });
+
+      // Close when clicking outside
+      lightbox.addEventListener("click", () => {
+        lightbox.style.display = "none";
+      });
+
+      // Prevent right-click on lightbox image
+      lightboxImg.addEventListener("contextmenu", e => e.preventDefault());
+    });
+    
     // (Optional) Disable right-click and drag
     document.addEventListener('contextmenu', e => e.preventDefault());
     document.addEventListener('dragstart', e => e.preventDefault());
