@@ -3,7 +3,8 @@ layout: default
 title: "Coming Soon"
 ---
 
-# Shop
+# Coming Soon
 
 Stay tuned 
+
 
