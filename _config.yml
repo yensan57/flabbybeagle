@@ -5,7 +5,7 @@ baseurl: ""           # Leave empty for custom domain
 url: "https://flabbybeagle.com"
 
 # ===== Theme & Plugins =====
-theme: minima
+theme: null
 
 plugins:
   - jekyll-feed
