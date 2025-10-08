@@ -147,14 +147,17 @@
   box-shadow: 0 0 5px rgba(0,0,0,0.05);
 }
 
-/* 🟥 Custom image size classes */
-.small-img {
-  width: 150px;
-  height: auto;
-  display: inline-block;   /* 🟥 allows multiple images per row */
-  margin: 0.5rem;          /* 🟥 add some spacing between them */
-  vertical-align: middle;  /* optional: aligns them nicely */
+/* 🟥 Specific rule for small images: allow side-by-side layout */
+.content img.small-img {
+  display: inline-block;     /* allows multiple images per row */
+  width: 150px;              /* fixed width you wanted */
+  height: auto;              /* preserve aspect ratio */
+  margin: 0.5rem;            /* space between images */
+  vertical-align: middle;    /* aligns them nicely on the baseline */
+  box-shadow: 0 0 5px rgba(0,0,0,0.05);
+  border-radius: 8px;
 }
+    
 
 
     
