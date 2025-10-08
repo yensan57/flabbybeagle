@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Shop"
+title: "Coming Soon"
 ---
 
 # Shop
 
 Stay tuned 
+
