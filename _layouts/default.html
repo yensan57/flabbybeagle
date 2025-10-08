@@ -5,6 +5,9 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Canonical tag: tells search engines this is the original source -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  
   <!-- ===== GOOGLE ANALYTICS TAG START ===== -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-X4EE6M6EF3"></script>
   <script>
@@ -15,6 +18,9 @@
     gtag('config', 'G-X4EE6M6EF3');
   </script>
   <!-- ===== GOOGLE ANALYTICS TAG END ===== -->
+
+  <!-- (Optional) Discourage AI/data scraping -->
+  <meta name="robots" content="index,follow,noai,noimageai">
   
   <style>
     body {
@@ -122,6 +128,7 @@
     }
 
     .content {
+      flex: 1; /* ensures footer sticks to bottom */
       max-width: 800px;
       margin: 2rem auto;
       padding: 0 1rem;
@@ -129,6 +136,25 @@
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0,0,0,0.05);
     }
+
+    /* Footer styling */
+    footer {
+      background-color: #fff59d;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #555;
+      border-top: 1px solid #eee;
+    }
+    footer a {
+      color: #555;
+      text-decoration: none;
+      margin-left: 0.5rem;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    
   </style>
 </head>
 <body>
@@ -154,6 +180,14 @@
     {{ content }}
   </div>
 
+  <!-- === COPYRIGHT FOOTER START === -->
+  <footer>
+    © {{ "now" | date: "%Y" }} FlabbyBeagle. All rights reserved.
+    <a href="{{ '/copyright' | relative_url }}">Copyright Notice</a>
+  </footer>
+  <!-- === COPYRIGHT FOOTER END === -->
+
+  
   <!--  CHANGED: Moved JS to bottom, cleaner toggle -->
   <script>
     document.addEventListener("DOMContentLoaded", function() {
@@ -164,6 +198,13 @@
         menu.classList.toggle("active");
       });
     });
+
+    // (Optional) Disable right-click and drag
+    document.addEventListener('contextmenu', e => e.preventDefault());
+    document.addEventListener('dragstart', e => e.preventDefault());
+    
   </script>
+
+  
 </body>
 </html>
