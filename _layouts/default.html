@@ -173,6 +173,7 @@
       background-color: rgba(0, 0, 0, 0.85);
       justify-content: center;
       align-items: center;
+      position: relative; /* 🟥 Added: allows overlay pseudo-element positioning */
     }
 
     .lightbox img {
@@ -184,6 +185,18 @@
       -webkit-user-drag: none;
       pointer-events: none; /* Prevent right-click / save */
     }
+
+    /* 🟥 NEW: Invisible overlay blocks long-press saving on iOS */
+    .lightbox::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      pointer-events: auto; /* intercepts taps and long-presses */
+    }
+
     
     /* Footer styling */
     footer {
