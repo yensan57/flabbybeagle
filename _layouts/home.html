@@ -2,26 +2,36 @@
 layout: default
 ---
 
-<header>
+<header class="site-banner">
   <h1>{{ site.title }}</h1>
   <p>{{ site.description }}</p>
 </header>
 
-<main>
-  {% for post in site.posts %}
-    <div class="post-preview">
-      {% if post.thumbnail %}
-        <!-- Small thumbnail for homepage -->
-        <a href="{{ post.url }}">
-          <img src="{{ post.thumbnail }}" alt="Thumbnail for {{ post.title }}" class="post-thumbnail" />
-        </a>
-      {% endif %}
-
-      <!-- Post title -->
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-
-      <!-- Post excerpt -->
-      <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+<main class="post-grid">
+  {% for post in paginator.posts %}
+    <div class="post-card">
+      <a href="{{ post.url | relative_url }}">
+        {% if post.thumbnail %}
+          <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+        {% else %}
+          <img src="/assets/images/default.jpg" alt="Default thumbnail">
+        {% endif %}
+      </a>
+      <div class="post-content">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+      </div>
     </div>
   {% endfor %}
 </main>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">← Newer</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="next">Older →</a>
+  {% endif %}
+</div>
+{% endif %}
