@@ -5,16 +5,18 @@ date: 2025-08-29
 thumbnail: /assets/images/2025-08-29/20250829_175911_small.jpg
 ---
 
+Davao City durian hunting spanned 3 locations: 1) SM Lanang popup event, 2) Magsaysay, 3) Bankerohan Public Market
+
 <u>SM Lanang Special Popup Event</u>
 
 During durian season (Sep onwards), there will be random popup events at malls around Davao City. In this particular event at SM Lanang, all the durians seemed unripe, hence were skipped.
 
-<img src="/assets/images/2025-08-29/20250829_175911_small.jpg" alt="sm_lanang_durian_popup">
-<img src="/assets/images/2025-08-29/20250829_175951_small.jpg" alt="sm_lanang_durian_popup">
-<img src="/assets/images/2025-08-29/20250829_180124_small.jpg" alt="sm_lanang_durian_popup">
-<img src="/assets/images/2025-08-29/20250829_175945_small.jpg" alt="sm_lanang_durian_popup">
-<img src="/assets/images/2025-08-29/20250829_180054_small.jpg" alt="sm_lanang_durian_popup">
-<img src="/assets/images/2025-08-29/20250829_180421_small.jpg" alt="sm_lanang_durian_popup">
+<img src="/assets/images/2025-08-29/20250829_175911_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
+<img src="/assets/images/2025-08-29/20250829_175951_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
+<img src="/assets/images/2025-08-29/20250829_180124_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
+<img src="/assets/images/2025-08-29/20250829_175945_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
+<img src="/assets/images/2025-08-29/20250829_180054_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
+<img src="/assets/images/2025-08-29/20250829_180421_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
 
 <u>Magsaysay</u>
 
