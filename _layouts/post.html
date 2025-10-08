@@ -2,21 +2,9 @@
 layout: default
 ---
 
-<article class="post-page">
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
-  </header>
-
-  {% if page.thumbnail %}
-    <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" class="post-featured-image">
-  {% endif %}
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
-  <footer class="post-footer">
-    <a href="{{ '/' | relative_url }}">← Back to Home</a>
-  </footer>
+<article>
+  <h1>{{ page.title }}</h1>
+  <p><small>{{ page.date | date: "%B %d, %Y" }}</small></p>
+  <img src="{{ page.thumbnail }}" alt="" style="width:100%; max-height:300px; object-fit:cover; border-radius:8px;">
+  {{ content }}
 </article>
