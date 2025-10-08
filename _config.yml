@@ -1,13 +1,24 @@
 # ===== Site Settings =====
-title: FlabbyBeagle                 # Your site name (shows in header and browser tab).
-description: Placeholder description # Tagline/description for search engines and feeds.
-baseurl: ""                          # Keep empty since you're using a custom domain.
-url: "https://flabbybeagle.com"      # Your live site URL.
+title: FlabbyBeagle
+description: "A blog about stuff 🍈🐶"
+baseurl: ""           # Leave empty for custom domain
+url: "https://flabbybeagle.com"
 
-# ===== Theme Settings =====
-theme: minima                        # Jekyll theme you are using (built-in: minima).
+# ===== Theme & Plugins =====
+theme: minima
 
-# ===== Plugins =====
 plugins:
-  - jekyll-feed                      # Generates an RSS feed (used for "Subscribe via RSS").
-# 👉 You can add more plugins later, but GitHub Pages only supports certain ones.
+  - jekyll-feed
+  - jekyll-paginate
+
+# ===== Pagination =====
+paginate: 9
+paginate_path: "/page:num/"
+
+# ===== Defaults =====
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
