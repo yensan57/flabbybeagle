@@ -2,50 +2,15 @@
 layout: default
 ---
 
-<!-- ===== Site Banner with Sticky Navigation ===== -->
-<header class="site-banner">
-  <div class="banner-inner">
-    <div class="site-title">
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <p>{{ site.description }}</p>
-    </div>
-    <nav class="site-nav">
-      <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/shop' | relative_url }}">Shop</a></li>
-        <li><a href="{{ '/about' | relative_url }}">About</a></li>
-      </ul>
-    </nav>
-  </div>
-</header>
+<h1>Blog</h1>
 
-<!-- ===== Main Grid for Posts ===== -->
-<main class="post-grid">
-  {% for post in paginator.posts %}
-    <div class="post-card">
-      <a href="{{ post.url | relative_url }}">
-        {% if post.thumbnail %}
-          <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
-        {% else %}
-          <img src="/assets/images/default.jpg" alt="Default thumbnail">
-        {% endif %}
-      </a>
-      <div class="post-content">
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
-      </div>
-    </div>
+<ul style="list-style:none; padding:0;">
+  {% for post in site.posts %}
+    <li style="margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 1rem;">
+      <img src="{{ post.thumbnail }}" alt="Thumbnail" style="width:100%; max-height:250px; object-fit:cover; border-radius:8px;">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      <p>{{ post.excerpt }}</p>
+    </li>
   {% endfor %}
-</main>
-
-<!-- ===== Pagination ===== -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}" class="prev">← Newer</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}" class="next">Older →</a>
-  {% endif %}
-</div>
-{% endif %}
+</ul>
