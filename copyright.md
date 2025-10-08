@@ -20,6 +20,9 @@ You may **not**, without prior written permission:
 - Modify or reuse graphics, logos, or other branded assets.  
 - Use this site’s content for AI training, scraping, or automated data gathering.
 
+If you wish to reuse or collaborate on any materials here, drop us a message on 
+**TikTok or Instagram**
+
 ---
 
 _Last updated: {{ "now" | date: "%B %d, %Y" }}_
