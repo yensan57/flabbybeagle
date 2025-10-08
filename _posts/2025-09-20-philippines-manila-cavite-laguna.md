@@ -19,7 +19,7 @@ Very creamy, with 60% bitter with some bruising fermentation in 1st fruit, and 2
 
 Unfortunately unfamiliar with what varieties they are...didn't video all around the outside of each fruit also
 
-The dogs there eat durian 😂.
+The dogs there eat durian 😂
 
 <img src="/assets/images/2025-09-20/20250920_135411_small.jpg" class="small-img" alt="cavite_stall">
 <img src="/assets/images/2025-09-20/20250920_132957_small.jpg" class="small-img" alt="cavite_stall">
