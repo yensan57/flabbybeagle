@@ -1,24 +1,7 @@
-# ===== Site Settings =====
-title: FlabbyBeagle
-description: "A blog about stuff 🍈🐶"
-baseurl: ""           # Leave empty for custom domain
+title: "FlabbyBeagle"
+description: "A blog about stuff"
+baseurl: "" 
 url: "https://flabbybeagle.com"
-
-# ===== Theme & Plugins =====
-theme: null
-
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-
-# ===== Pagination =====
-paginate: 9
-paginate_path: "/page:num/"
-
-# ===== Defaults =====
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post
