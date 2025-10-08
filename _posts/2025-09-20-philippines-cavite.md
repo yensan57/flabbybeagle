@@ -58,6 +58,6 @@ The dogs there eat durian 😂.
 <a href="/assets/images/2025-09-20/20250920_134556.jpg" target="_blank">
   <img src="/assets/images/2025-09-20/20250920_134556_small.jpg" 
        alt="cavite_durian"
-       style="width:100%; max-width:200px; border-radius:8px; cursor:zoom-in;">
+       style="width:100%; max-width:150px; border-radius:8px; cursor:zoom-in;">
 </a>
 
