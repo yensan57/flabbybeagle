@@ -26,7 +26,7 @@ PHP60 (S$1.4) per kg, PHP240 (S$5.5) for 2 very ripe fruits.
 
 Very creamy, with 60% bitter with some bruising fermentation in 1st fruit, and 20% bitter in 2nd fruit.
 
-Unfortunately unfamiliar with what varieties they are...didnt video all around the outside of each fruit also
+Unfortunately unfamiliar with what varieties they are...didn't video all around the outside of each fruit also
 
 The dogs there eat durian 😂.
 
