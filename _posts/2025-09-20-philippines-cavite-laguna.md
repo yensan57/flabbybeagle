@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Philippines Cavite"
+title: "Philippines Cavite Laguna"
 date: 2025-09-20
 thumbnail: /assets/images/2025-09-20/20250920_135411_small.jpg
 ---
