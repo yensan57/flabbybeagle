@@ -7,4 +7,8 @@ thumbnail: /assets/images/cat_placeholder.jpg
 
 This was the day I discovered the magic.
 
-![Placeholder](/assets/images/cat_placeholder.jpg)
+<a href="/assets/images/cat_placeholder.jpg" target="_blank">
+  <img src="/assets/images/cat_placeholder_small.jpg" 
+       alt="Placeholder"
+       style="width:100%; max-width:700px; border-radius:8px; cursor:zoom-in;">
+</a>
