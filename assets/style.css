@@ -1,96 +1,129 @@
-/* ===== General Page Styling ===== */
+/* ====== Base Reset ====== */
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   line-height: 1.6;
-  background-color: #fafafa;
+  background-color: #fffbe6; /* light yellow tone */
   color: #333;
   margin: 0;
   padding: 0;
 }
 
-/* ===== Header & Footer ===== */
-header, footer {
-  background: #f4a261;
-  color: white;
-  padding: 1rem;
+/* ====== Banner ====== */
+.site-banner {
+  background-color: #fff0b3;
   text-align: center;
+  padding: 3rem 1rem;
+  color: #333;
 }
 
-/* ===== Navigation Menu ===== */
-.nav-links {
-  list-style: none;
-  padding: 0;
+.site-banner h1 {
+  margin: 0;
+  font-size: 2.2rem;
 }
-.nav-links li {
-  display: inline;
-  margin: 0 1rem;
+
+.site-banner p {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
 }
-.nav-links a {
-  color: white;
+
+/* ====== Grid Layout for Homepage ====== */
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+.post-card {
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.12);
+}
+
+.post-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+.post-content {
+  padding: 1rem;
+}
+
+.post-content h3 {
+  margin-top: 0.3rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-content p {
+  color: #555;
+  font-size: 0.95rem;
+}
+
+/* ====== Post Page ====== */
+.post-page {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
+}
+
+.post-featured-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.post-date {
+  color: #888;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.post-footer {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* ====== Pagination ====== */
+.pagination {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.pagination a {
+  color: #333;
+  padding: 0.5rem 1rem;
+  margin: 0 0.3rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
   text-decoration: none;
 }
-.nav-links a:hover {
-  text-decoration: underline;
+
+.pagination a:hover {
+  background-color: #f4a261;
+  color: white;
+  border-color: #f4a261;
 }
 
-/* ===== Images ===== */
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* ===== Post Previews (Homepage) ===== */
-.post-preview {
-  margin-bottom: 2rem;
-  overflow: hidden;
-  padding: 0.5rem;
-  border-bottom: 1px solid #ddd;
-}
-.post-preview h2 {
-  margin-top: 0;
-}
-
-/* ===== Thumbnail Styling ===== */
-.post-thumbnail {
-  width: 80px; /* Change this to adjust thumbnail size */
-  max-width: 80px;
-  height: auto;
-  margin-right: 1rem;
-  float: left;
-  border-radius: 4px;
-  object-fit: cover;
-}
-
-/* ===== Post Content Styling ===== */
-.post-content img {
-  width: auto;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 1rem auto; /* Center image in post */
-  cursor: pointer;
-}
-
-/* ===== Mobile-specific styles ===== */
-@media only screen and (max-width: 600px) {
-  body {
-    font-size: 16px;
+/* ====== Responsive ====== */
+@media (max-width: 600px) {
+  .post-card img {
+    height: 160px;
   }
-  nav {
-    font-size: 14px;
-  }
-  .post-thumbnail {
-    width: 50px !important;
-    max-width: 50px !important;
-    margin-right: 0.5rem;
-    float: none;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .post-content img {
-    width: auto;
-    max-width: 100%;
-    height: auto;
+
+  .site-banner {
+    padding: 2rem 1rem;
   }
 }
