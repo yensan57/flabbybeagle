@@ -9,7 +9,7 @@ Davao City durian hunting spanned 3 locations: 1) SM Lanang popup event, 2) Mags
 
 <u>SM Lanang Special Popup Event</u>
 
-During durian season (Sep onwards), there will be random popup events at malls around Davao City. In this particular event at SM Lanang, all the durians seemed unripe, hence were skipped.
+During durian season (Aug onwards), there will be random popup events at malls around Davao City. In this particular event at SM Lanang, all the durians seemed unripe, hence were skipped.
 
 <img src="/assets/images/2025-08-29/20250829_175911_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
 <img src="/assets/images/2025-08-29/20250829_175951_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
@@ -40,4 +40,7 @@ We didn't buy anything, because most seemed unripe again, and we were heading to
 
 But prices looked much better than Magsaysay.
 
+<img src="/assets/images/2025-08-29/20250830_103311_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
+<img src="/assets/images/2025-08-29/20250830_103311(1)_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
+<img src="/assets/images/2025-08-29/20250830_103425_small.jpg" class="small-img" alt="sm_lanang_durian_popup">
 
