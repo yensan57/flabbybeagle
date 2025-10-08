@@ -8,7 +8,8 @@ layout: default
 </header>
 
 <main class="post-grid">
-{% for post in site.posts %}
+  {% assign posts_to_show = paginator.posts | default: site.posts %}
+  {% for post in posts_to_show %}
     <div class="post-card">
       <a href="{{ post.url | relative_url }}">
         {% if post.thumbnail %}
