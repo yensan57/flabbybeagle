@@ -1,8 +1,10 @@
 ---
-title: "🍜 Placeholder Post"
+layout: post
+title: "🍜 Placeholder"
 date: 2025-09-27
-categories: blog
+categories: placeholdercategory
 thumbnail: /assets/images/cat_placeholder.jpg
+excerpt: "Placeholder content"   # 👈 Add this line if missing
 ---
 
 Welcome to **FlabbyBeagle.com**!  
