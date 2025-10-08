@@ -2,7 +2,7 @@
 layout: post
 title: "Belviz Farms in Davao"
 date: 2025-08-30
-thumbnail: /assets/images/2025-08-30/20250830_131846_small.jpg
+thumbnail: /assets/images/2025-08-30/IMG-20250830-WA0277_small.jpg
 ---
 
 First time visiting the famous Belviz Farms in Davao. Initially hung around the main visitor plot and ate durians, before taking a short drive to another plot with a real-time MSW durian tree drop.
