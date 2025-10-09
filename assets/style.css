@@ -36,8 +36,8 @@ body {
 }
 
 
+/* Mobile layout */
 @media (max-width: 768px) {
-  /* Mobile layout */
   .search-form {
     display: flex; /* Make search bar a flex container */
     align-items: center;
