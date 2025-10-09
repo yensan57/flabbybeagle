@@ -39,15 +39,27 @@ body {
 /* Display Search Bar only on desktop and inside hamburger menu on mobile */
 @media (max-width: 768px) {
   /* Hide desktop search bar */
-  .desktop-search-form {
-    display: none;
-  }
+    .desktop-search-form {
+      display: flex;
+      align-items: center;
+      margin-left: 1rem;
+    }
 
-  /* Show mobile search bar inside hamburger menu */
-  .search-bar-mobile {
-    display: block;
-  }
-}
+    /* Hide the mobile search bar outside the hamburger menu */
+    .search-bar-mobile {
+      display: none; /* Hide by default */
+    }
+    
+    /* Show mobile search bar inside hamburger menu */
+    @media (max-width: 768px) {
+      .search-bar-mobile {
+        display: block; /* Show inside hamburger */
+      }
+    
+      .desktop-search-form {
+        display: none; /* Hide the desktop search bar */
+      }
+    }
 
 /* Optional: Adjust hamburger menu for mobile */
 @media (max-width: 768px) {
