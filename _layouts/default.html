@@ -4,24 +4,8 @@
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <!-- Canonical tag: tells search engines this is the original source -->
   <link rel="canonical" href="{{ page.url | absolute_url }}">
-  
-  <!-- ===== GOOGLE ANALYTICS TAG START ===== -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-X4EE6M6EF3"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
 
-    gtag('config', 'G-X4EE6M6EF3');
-  </script>
-  <!-- ===== GOOGLE ANALYTICS TAG END ===== -->
-
-  <!-- (Optional) Discourage AI/data scraping -->
-  <meta name="robots" content="index,follow,noai,noimageai">
-  
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -34,11 +18,10 @@
       justify-content: space-between;
       align-items: center;
       background-color: #fff59d;
-      padding: 0.6rem 1rem; /*  slightly reduced padding for better fit */
+      padding: 0.6rem 1rem;
       position: relative;
     }
 
-    /*  Added: flex container for logo + site name */
     .nav-brand {
       display: flex;
       align-items: center;
@@ -48,7 +31,6 @@
       color: #333;
     }
 
-    /*  Added: logo styling */
     .nav-brand img {
       height: 42px;
       width: auto;
@@ -84,12 +66,13 @@
 
     .nav-toggle {
       display: none;
-      font-size: 1.8rem; /*  slightly larger for touchscreens */
+      font-size: 1.8rem;
       background: none;
       border: none;
       cursor: pointer;
     }
 
+    /* Mobile Layout */
     @media (max-width: 768px) {
       .nav-toggle {
         display: block;
@@ -104,7 +87,7 @@
         top: 60px;
         left: 0;
         padding: 0;
-        border-radius: 0 0 8px 8px; /*  smoother dropdown look */
+        border-radius: 0 0 8px 8px;
         box-shadow: 0 2px 5px rgba(0,0,0,0.15);
       }
 
@@ -117,7 +100,6 @@
         text-align: center;
       }
 
-      /*  Responsive logo and text adjustments */
       .nav-brand img {
         height: 32px;
       }
@@ -125,67 +107,55 @@
       .nav-brand {
         font-size: 1.1rem;
       }
+
+      /* HIGHLIGHTED: Hide the search bar outside the hamburger menu on mobile */
+      .desktop-search {
+        display: none;
+      }
+
+      /* HIGHLIGHTED: Show the search bar inside the hamburger menu */
+      .mobile-search {
+        display: block;
+      }
     }
 
-    .content {
-      flex: 1; /* ensures footer sticks to bottom */
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      background-color: white;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    /* Desktop Layout */
+    @media (min-width: 769px) {
+      .desktop-search {
+        display: flex; /* Show search bar on desktop */
+        align-items: center;
+        margin-left: 1rem;
+      }
+
+      .mobile-search {
+        display: none; /* Hide search bar on desktop */
+      }
     }
 
-/*  Responsive images inside posts */
-.content img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 1rem auto;
-  border-radius: 8px;
-  box-shadow: 0 0 5px rgba(0,0,0,0.05);
-}
-
-/* 🟥 Specific rule for small images: allow side-by-side layout */
-.content img.small-img {
-  display: inline-block;     /* allows multiple images per row */
-  width: 150px;              /* fixed width you wanted */
-  height: auto;              /* preserve aspect ratio */
-  margin: 0.5rem;            /* space between images */
-  vertical-align: middle;    /* aligns them nicely on the baseline */
-  box-shadow: 0 0 5px rgba(0,0,0,0.05);
-  border-radius: 8px;
-}
-    
-
-
-    
-    /*  NEW: Lightbox styles */
-    .lightbox {
-      display: none;
-      position: fixed;
-      z-index: 9999;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background-color: rgba(0, 0, 0, 0.85);
-      justify-content: center;
+    .search-form {
+      display: flex;
       align-items: center;
+      margin-left: 1rem;
     }
 
-    .lightbox img {
-      max-width: 90%;
-      max-height: 90%;
-      border-radius: 10px;
-      box-shadow: 0 0 20px rgba(255,255,255,0.2);
-      user-select: none;
-      -webkit-user-drag: none;
-      pointer-events: none; /* Prevent right-click / save */
+    .search-input {
+      padding: 0.5rem;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      width: 200px;
     }
-    
-    /* Footer styling */
+
+    .search-button {
+      background-color: #fff59d;
+      border: none;
+      padding: 0.5rem;
+      cursor: pointer;
+      font-size: 1.2rem;
+      margin-left: 0.5rem;
+      border-radius: 4px;
+    }
+
     footer {
       background-color: #fff59d;
       text-align: center;
@@ -194,21 +164,11 @@
       color: #555;
       border-top: 1px solid #eee;
     }
-    footer a {
-      color: #555;
-      text-decoration: none;
-      margin-left: 0.5rem;
-    }
-    footer a:hover {
-      text-decoration: underline;
-    }
-    
   </style>
 </head>
 <body>
 <header>
   <nav class="navbar">
-    <!-- Logo and Site Name -->
     <a href="{{ '/' | relative_url }}" class="nav-brand">
       <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">
       {{ site.title }}
@@ -247,22 +207,12 @@
     {{ content }}
   </div>
 
-  <!--  Lightbox container -->
-  <div class="lightbox" id="lightbox">
-    <img src="" alt="Expanded image">
-  </div>
-  
-  <!-- === COPYRIGHT FOOTER START === -->
   <footer>
     © {{ "now" | date: "%Y" }} FlabbyBeagle. All rights reserved.
     <a href="{{ '/copyright' | relative_url }}">Copyright Notice</a>
   </footer>
-  <!-- === COPYRIGHT FOOTER END === -->
 
-  
-  <!--  CHANGED: Moved JS to bottom, cleaner toggle -->
   <script>
-
     // Mobile nav toggle
     document.addEventListener("DOMContentLoaded", function() {
       const toggle = document.querySelector(".nav-toggle");
@@ -271,51 +221,7 @@
         menu.classList.toggle("active");
       });
     });
-
-    //  Lightbox logic
-    document.addEventListener("DOMContentLoaded", function() {
-      const lightbox = document.getElementById("lightbox");
-      const lightboxImg = lightbox.querySelector("img");
-
-      // Find all post images
-      document.querySelectorAll(".content img").forEach(img => {
-        img.addEventListener("click", e => {
-          lightboxImg.src = img.src.replace("_small", ""); // optional if you use _small pattern
-          lightbox.style.display = "flex";
-        });
-      });
-
-      // Close when clicking outside
-      lightbox.addEventListener("click", () => {
-        lightbox.style.display = "none";
-      });
-
-      // Prevent right-click on lightbox image
-      lightboxImg.addEventListener("contextmenu", e => e.preventDefault());
-    });
-    
-    // (Optional) Disable right-click and drag
-    document.addEventListener('contextmenu', e => e.preventDefault());
-    document.addEventListener('dragstart', e => e.preventDefault());
-    
   </script>
 
-  <script>
-  document.querySelector(".search-form").addEventListener("submit", function(e) {
-    e.preventDefault();
-    const query = document.querySelector(".search-input").value.toLowerCase();
-    const posts = document.querySelectorAll(".content h2 a"); // Adjust to match your content
-    posts.forEach(post => {
-      const postTitle = post.textContent.toLowerCase();
-      if (postTitle.includes(query)) {
-        post.closest("li").style.display = "";
-      } else {
-        post.closest("li").style.display = "none";
-      }
-    });
-  });
-</script>
-
-  
 </body>
 </html>
