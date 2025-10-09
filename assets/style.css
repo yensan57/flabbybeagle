@@ -10,11 +10,18 @@ body {
 
 /* ====== Searchbar ====== */
 /* Desktop */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.6rem 1rem;
+}
+
 .search-form {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
-  margin-left: auto;
+  margin-left: 1rem; /* Adjust spacing from logo */
+  margin-right: 2rem; /* Optional: Add space between search bar and navigation */
 }
 
 .search-input {
@@ -22,7 +29,7 @@ body {
   font-size: 1rem;
   border: 1px solid #ccc;
   border-radius: 4px;
-  width: 200px; /* Adjust for desktop */
+  width: 200px; /* Adjust width */
 }
 
 .search-button {
@@ -33,6 +40,28 @@ body {
   font-size: 1.2rem;
   margin-left: 0.5rem;
   border-radius: 4px;
+}
+
+/* Navigation styling */
+.nav-menu {
+  list-style: none;
+  display: flex;
+  margin-left: auto; /* Push navigation items to the right */
+  padding: 0;
+}
+
+.nav-menu li {
+  margin-left: 1rem;
+}
+
+.nav-menu li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.nav-menu li a:hover {
+  color: #000;
 }
 
 
