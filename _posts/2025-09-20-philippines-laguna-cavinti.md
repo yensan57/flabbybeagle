@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cavinti Laguna, Philippines"
+title: "Roadside durians at Cavinti Laguna, Philippines"
 date: 2025-09-20
 thumbnail: /assets/images/2025-09-20/20250920_135411_small.jpg
 ---
