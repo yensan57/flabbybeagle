@@ -29,49 +29,13 @@
       background-color: #fff8dc; /* light yellow tint */
     }
 
-    /* Make sure html and body take up the full height */
-    body, html {
-      margin: 0;
-      padding: 0;
-      height: 100%;  /* Ensures content and sticky navbar function properly */
-      overflow-x: hidden;
-    }
-
-    /* Sticky navbar */
     .navbar {
       display: flex;
       justify-content: space-between;
       align-items: center;
       background-color: #fff59d;
-      padding: 0.6rem 1rem; /* slightly reduced padding for better fit */
-      position: sticky; /* Make the navbar sticky */
-      top: 0;  /* Stick it to the top */
-      z-index: 1000;  /* Ensure the navbar stays above other content */
-      width: 100%; /* Ensure navbar is full width */
-      height: 60px; /* Set a height */
-    }
-
-    /* Mobile-specific sticky navbar adjustments */
-    @media (max-width: 768px) {
-      .navbar {
-        position: sticky;
-        top: 0;
-        z-index: 1000;
-        height: 60px;  /* Set height for mobile */
-      }
-
-      .nav-toggle {
-        font-size: 1.8rem;
-      }
-
-      .nav-menu {
-        display: flex;
-        flex-direction: column;
-        background-color: #fff59d;
-        padding: 1rem;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.15);
-        border-radius: 0 0 8px 8px;
-      }
+      padding: 0.6rem 1rem; /*  slightly reduced padding for better fit */
+      position: relative;
     }
 
     /*  Added: flex container for logo + site name */
@@ -136,6 +100,7 @@
         display: none;
         width: 100%;
         background-color: #fff59d;
+        position: absolute;
         top: 60px;
         left: 0;
         padding: 0;
