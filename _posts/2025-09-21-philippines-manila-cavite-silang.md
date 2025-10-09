@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Philippines Manila Cavite Silang"
+title: "Silang Cavite, Philippines"
 date: 2025-09-21
 thumbnail: /assets/images/2025-09-21/20250921_154635_small.jpg
 ---
 
-More roadside stalls, at another town now, near Kuya BadBoy Bulaluhan (purok 5, litlit, eastwest road, Silang, Cavite, Philippines), but not many tree dropped. Stallowner said they buy the supply from elsewhere.
+Roadside stalls, at another town, near Kuya BadBoy Bulaluhan (purok 5, litlit, eastwest road, Silang, Cavite, Philippines), but not many tree dropped. Stallowner said they buy the supply from elsewhere.
 
 Php200 (S$4.5) for 1 ripe fruit, but it tasted quite bland; poor tree quality unfortunately.
 
