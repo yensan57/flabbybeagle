@@ -29,32 +29,6 @@
       background-color: #fff8dc; /* light yellow tint */
     }
 
-
-/* Style the search bar */
-.search-bar input {
-  padding: 0.5rem;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-  font-size: 1rem;
-  width: 200px; /* Default width on desktop */
-}
-
-/* Mobile menu */
-@media (max-width: 768px) {
-  .search-bar input {
-    width: 120px; /* Reduced width for mobile */
-    padding: 0.5rem;
-    font-size: 1rem;
-    border-radius: 8px;
-    border: 1px solid #ccc;
-  }
-
-  .nav-menu.active .search-bar {
-    display: block; /* Ensure it's displayed when menu is active */
-    margin-top: 10px;
-  }
-}
-    
     .navbar {
       display: flex;
       justify-content: space-between;
@@ -232,30 +206,23 @@
   </style>
 </head>
 <body>
-
   <header>
-  <nav class="navbar">
-    <a href="{{ '/' | relative_url }}" class="nav-brand">
-      <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">
-      {{ site.title }}
-    </a>
+    <nav class="navbar">
+      <!--  CHANGED: Added logo + linked brand -->
+      <a href="{{ '/' | relative_url }}" class="nav-brand">
+        <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">  <!-- your logo path -->
+        {{ site.title }}
+      </a>
 
-    <!-- Desktop Search Bar -->
-    <div class="search-bar">
-      <input type="text" id="search-input" placeholder="Search..." onkeyup="performSearch()">
-    </div>
-    
-    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+      <!--  CHANGED: Hamburger toggle button -->
+      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
 
-    <ul class="nav-menu">
-      <li><a href="{{ '/' | relative_url }}">Blog</a></li>
-      <li><a href="{{ '/about' | relative_url }}">About</a></li>
-    </ul>
-  </nav>
-</header>
-
-<!-- Search results container -->
-<div id="search-results" class="search-results"></div>
+      <ul class="nav-menu">
+        <li><a href="{{ '/' | relative_url }}">Blog</a></li>
+        <li><a href="{{ '/comingsoon' | relative_url }}">Coming Soon</a></li>
+      </ul>
+    </nav>
+  </header>
 
   <div class="content">
     {{ content }}
@@ -311,51 +278,8 @@
     // (Optional) Disable right-click and drag
     document.addEventListener('contextmenu', e => e.preventDefault());
     document.addEventListener('dragstart', e => e.preventDefault());
-
-  // 🟥  Load the search index
-let searchIndex = [];
-fetch("/search.json")
-  .then(response => response.json())
-  .then(data => {
-    searchIndex = data;
-  });
-
-function performSearch() {
-  const query = document.getElementById("search-input").value.trim();
-  if (!query) {
-    document.getElementById("search-results").innerHTML = ""; // Clear results if query is empty
-    return;
-  }
-
-  const fuse = new Fuse(searchIndex, {
-    keys: ["title", "content"],
-    includeScore: true,
-    threshold: 0.3 // Adjust threshold if needed
-  });
-
-  const results = fuse.search(query);
-  const resultDiv = document.getElementById("search-results");
-  resultDiv.innerHTML = ""; // Clear previous results
-
-  console.log(results); // Debugging: Check if Fuse is returning any results
-
-  if (results.length > 0) {
-    results.forEach(result => {
-      const post = result.item;
-      const postLink = `<a href="${post.url}" class="search-result-item">${post.title}</a>`;
-      resultDiv.innerHTML += postLink + "<br>";
-    });
-  } else {
-    resultDiv.innerHTML = "No results found."; // Display message if no results found
-  }
-}
-
-    
     
   </script>
-
-<!-- 🟥 Include Fuse.js CDN -->
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
 
   
 </body>
