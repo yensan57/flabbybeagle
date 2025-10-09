@@ -291,6 +291,21 @@
     
   </script>
 
+  <script>
+  document.querySelector(".search-form").addEventListener("submit", function(e) {
+    e.preventDefault();
+    const query = document.querySelector(".search-input").value.toLowerCase();
+    const posts = document.querySelectorAll(".content h2 a"); // Adjust to match your content
+    posts.forEach(post => {
+      const postTitle = post.textContent.toLowerCase();
+      if (postTitle.includes(query)) {
+        post.closest("li").style.display = "";
+      } else {
+        post.closest("li").style.display = "none";
+      }
+    });
+  });
+  </script>
   
 </body>
 </html>
