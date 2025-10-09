@@ -8,91 +8,65 @@ body {
   padding: 0;
 }
 
-/* ====== Searchbar ====== */
-/* Desktop */
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0.6rem 1rem;
-}
-
-.search-form {
+/* ====== Search Bar ====== */
+/* Desktop Search Bar */
+.desktop-search-form {
   display: flex;
   align-items: center;
-  margin-left: 1rem; /* Adjust spacing from logo */
-  margin-right: 2rem; /* Optional: Add space between search bar and navigation */
-}
-
-.search-input {
-  padding: 0.5rem;
-  font-size: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  width: 200px; /* Adjust width */
-}
-
-.search-button {
-  background-color: #fff59d;
-  border: none;
-  padding: 0.5rem;
-  cursor: pointer;
-  font-size: 1.2rem;
-  margin-left: 0.5rem;
-  border-radius: 4px;
-}
-
-/* Navigation styling */
-.nav-menu {
-  list-style: none;
-  display: flex;
-  margin-left: auto; /* Push navigation items to the right */
-  padding: 0;
-}
-
-.nav-menu li {
   margin-left: 1rem;
 }
 
-.nav-menu li a {
-  text-decoration: none;
-  color: #333;
-  font-weight: bold;
+.desktop-search-input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px; /* Adjust width as necessary */
 }
 
-.nav-menu li a:hover {
-  color: #000;
+/* Mobile Search Bar (hidden by default) */
+.search-bar-mobile {
+  display: none;
+  padding: 0.5rem;
 }
 
-/* ====== Mobile layout ====== */
+.search-bar-mobile form input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+/* Display Search Bar only on desktop and inside hamburger menu on mobile */
 @media (max-width: 768px) {
-  /* HIGHLIGHTED: Hide desktop search bar on mobile */
-  .desktop-search {
+  /* Hide desktop search bar */
+  .desktop-search-form {
     display: none;
   }
 
-  /* HIGHLIGHTED: Show search bar inside the hamburger menu */
-  .mobile-search {
+  /* Show mobile search bar inside hamburger menu */
+  .search-bar-mobile {
     display: block;
   }
+}
 
-  .search-form {
-    display: flex;
-    align-items: center;
-    margin: 0.5rem 0;
+/* Optional: Adjust hamburger menu for mobile */
+@media (max-width: 768px) {
+  .nav-menu {
+    flex-direction: column;
+    background-color: #fff59d;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    display: none;  /* Initially hidden */
   }
 
-  .search-input {
-    width: 120px; /* Adjust width for mobile */
-    font-size: 0.9rem;
-    padding: 0.4rem;
-    margin
-
-
-
-
-
-
+  .nav-menu.active {
+    display: flex;  /* Display when active */
+  }
+}
 
 
 /* ====== Sticky Banner ====== */
