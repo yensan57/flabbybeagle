@@ -14,8 +14,11 @@ Belviz Durian Farms is a farm that does tree ripe and tree dropped durians. Feat
 Very friendly growers, Emmanuel and Mary Grace Belviz, manage multiple plots and host informative tours of their place.
 
 Varieties fruiting while we were visiting:
+
 PH: Duyaya, Nanam, Sulit, GD69, Arancillo, many more
+
 MY: Musang King, (growing Black Thorn seedlings!), kampung
+
 TH: Monthong, etc
 
 But not many varieties were ripe on that day itself sadly.
