@@ -66,18 +66,18 @@ body {
 
 /* ====== Mobile layout ====== */
 @media (max-width: 768px) {
-  /* Hide desktop search bar on mobile */
+  /* HIGHLIGHTED: Hide desktop search bar on mobile */
   .desktop-search {
     display: none;
   }
 
-  /* Mobile: Show search bar inside the hamburger menu */
+  /* HIGHLIGHTED: Show search bar inside the hamburger menu */
   .mobile-search {
-    display: none;
+    display: block;
   }
 
   .search-form {
-    display: flex; /* Make search bar a flex container */
+    display: flex;
     align-items: center;
     margin: 0.5rem 0;
   }
@@ -86,69 +86,13 @@ body {
     width: 120px; /* Adjust width for mobile */
     font-size: 0.9rem;
     padding: 0.4rem;
-    margin-right: 0.5rem; /* Space between input and button */
-  }
+    margin
 
-  .search-button {
-    padding: 0.4rem;
-    font-size: 1rem;
-    background-color: #fff59d;
-    border: none;
-    cursor: pointer;
-    border-radius: 4px;
-  }
 
-  /* Adjust hamburger menu layout */
-  .nav-menu {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    background-color: #fff59d;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    padding: 1rem;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
-    border-radius: 0 0 8px 8px;
-  }
 
-  /* Make hamburger menu items stack vertically */
-  .nav-menu li {
-    margin: 1rem 0;
-  }
 
-  /* Ensure search item stays inside the menu */
-  .search-item {
-    margin-top: 1rem; /* Add space before search item */
-  }
 
-  /* Show search bar inside hamburger */
-  .mobile-search {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    background-color: #fff59d;
-    position: absolute;
-    top: 60px;
-    left: 0;
-    padding: 1rem;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
-    border-radius: 0 0 8px 8px;
-  }
 
-  .mobile-search li {
-    margin: 1rem 0;
-    text-align: center;
-  }
-
-  .search-item {
-    margin-top: 1rem; /* Add space before search item */
-  }
-
-  .nav-toggle {
-    font-size: 1.8rem;
-  }
-}
 
 
 /* ====== Sticky Banner ====== */
