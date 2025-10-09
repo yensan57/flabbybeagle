@@ -64,9 +64,18 @@ body {
   color: #000;
 }
 
-
-/* Mobile layout */
+/* ====== Mobile layout ====== */
 @media (max-width: 768px) {
+  /* Hide desktop search bar on mobile */
+  .desktop-search {
+    display: none;
+  }
+
+  /* Mobile: Show search bar inside the hamburger menu */
+  .mobile-search {
+    display: none;
+  }
+
   .search-form {
     display: flex; /* Make search bar a flex container */
     align-items: center;
@@ -113,7 +122,29 @@ body {
     margin-top: 1rem; /* Add space before search item */
   }
 
-  /* Add some padding and spacing adjustments for better alignment */
+  /* Show search bar inside hamburger */
+  .mobile-search {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #fff59d;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    border-radius: 0 0 8px 8px;
+  }
+
+  .mobile-search li {
+    margin: 1rem 0;
+    text-align: center;
+  }
+
+  .search-item {
+    margin-top: 1rem; /* Add space before search item */
+  }
+
   .nav-toggle {
     font-size: 1.8rem;
   }
