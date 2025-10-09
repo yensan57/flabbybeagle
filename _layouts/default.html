@@ -29,6 +29,25 @@
       background-color: #fff8dc; /* light yellow tint */
     }
 
+
+/* 🟥 Style the search bar */
+.search-bar input {
+  padding: 0.5rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  width: 200px;
+}
+
+@media (max-width: 768px) {
+  .search-bar {
+    display: none; /* Hidden on mobile */
+  }
+  .nav-menu.active .search-bar {
+    display: block; /* Show in mobile menu */
+  }
+}
+    
     .navbar {
       display: flex;
       justify-content: space-between;
@@ -214,6 +233,11 @@
         {{ site.title }}
       </a>
 
+    <!-- 🟥 Desktop Search Bar -->
+    <div class="search-bar">
+      <input type="text" id="search-input" placeholder="Search..." onkeyup="performSearch()">
+    </div>
+      
       <!--  CHANGED: Hamburger toggle button -->
       <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
 
@@ -278,10 +302,34 @@
     // (Optional) Disable right-click and drag
     document.addEventListener('contextmenu', e => e.preventDefault());
     document.addEventListener('dragstart', e => e.preventDefault());
+
+  // 🟥  Load the search index
+  let searchIndex = [];
+  fetch("/search.json")
+    .then(response => response.json())
+    .then(data => {
+      searchIndex = data;
+    });
+
+  // Perform the search
+  function performSearch() {
+    const query = document.getElementById("search-input").value;
+    const fuse = new Fuse(searchIndex, {
+      keys: ["title", "content"],
+      includeScore: true,
+      threshold: 0.3 // Higher means more strict matching
+    });
+    
+    const results = fuse.search(query);
+    
+    // Display results (for now, just log them)
+    console.log(results);
+    // Here, you can insert results into the page dynamically
+  }
     
   </script>
 
-<!-- Include Fuse.js CDN -->
+<!-- 🟥 Include Fuse.js CDN -->
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
 
   
