@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Davao City Durian Hunting Locations"
+title: "Davao City, Philippines - Durian Hunting Locations"
 date: 2025-08-29
 thumbnail: /assets/images/2025-08-29/20250829_175911_small.jpg
 ---
