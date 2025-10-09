@@ -220,10 +220,16 @@
           <button type="submit" class="search-button">🔍</button>
         </form>
       
-        <!-- Navigation menu -->
+        <!-- In the mobile version, move this inside the hamburger menu -->
         <ul class="nav-menu">
           <li><a href="{{ '/' | relative_url }}">Blog</a></li>
           <li><a href="{{ '/about' | relative_url }}">About</a></li>
+          <li class="search-item">
+            <form action="/search" method="get" class="search-form">
+              <input type="text" name="q" placeholder="Search..." class="search-input">
+              <button type="submit" class="search-button">🔍</button>
+            </form>
+          </li>
         </ul>
       
         <!-- Hamburger menu toggle -->
