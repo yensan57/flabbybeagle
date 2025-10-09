@@ -7,7 +7,7 @@ thumbnail: /assets/images/2025-09-20/20250920_135411_small.jpg
 
 Many roadside durian stalls with tree dropped fruits near Katà kape (7F6Q+H47, Cavinti, Laguna, Philippines). 
 
-Background from the stall vendor is that people that moved here from Davao brought seeds with them. 
+Background from the stall vendor is that people who moved here from Davao brought seeds with them. 
 
 PHP60 (S$1.4) per kg, PHP240 (S$5.5) for 2 very ripe fruits.
 
