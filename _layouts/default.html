@@ -321,13 +321,18 @@ fetch("/search.json")
   });
 
 function performSearch() {
-  const query = document.getElementById("search-input").value;
+  const query = document.getElementById("search-input").value.trim(); // Added trim to clean up the query
+  if (!query) {
+    document.getElementById("search-results").innerHTML = ""; // Clear results if query is empty
+    return;
+  }
+
   const fuse = new Fuse(searchIndex, {
     keys: ["title", "content"],
     includeScore: true,
     threshold: 0.3
   });
-  
+
   const results = fuse.search(query);
   const resultDiv = document.getElementById("search-results");
   resultDiv.innerHTML = ""; // Clear previous results
@@ -339,9 +344,10 @@ function performSearch() {
       resultDiv.innerHTML += postLink + "<br>";
     });
   } else {
-    resultDiv.innerHTML = "No results found.";
+    resultDiv.innerHTML = "No results found."; // Display message if no results found
   }
 }
+
     
     
   </script>
