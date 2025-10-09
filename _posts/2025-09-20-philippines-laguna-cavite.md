@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Philippines Manila Cavite Laguna"
+title: "Cavite Laguna, Philippines"
 date: 2025-09-20
 thumbnail: /assets/images/2025-09-20/20250920_135411_small.jpg
 ---
 
-Many roadside durian stalls with tree dropped near Katà kape (7F6Q+H47, Cavinti, Laguna, Philippines). 
+Many roadside durian stalls with tree dropped fruits near Katà kape (7F6Q+H47, Cavinti, Laguna, Philippines). 
 
-Background is people that moved from Davao brought seeds with them. 
+Background from the stall vendor is that people that moved here from Davao brought seeds with them. 
 
 PHP60 (S$1.4) per kg, PHP240 (S$5.5) for 2 very ripe fruits.
 
@@ -17,7 +17,7 @@ PHP60 (S$1.4) per kg, PHP240 (S$5.5) for 2 very ripe fruits.
 
 Very creamy, with 60% bitter with some bruising fermentation in 1st fruit, and 20% bitter in 2nd fruit.
 
-Unfortunately unfamiliar with what varieties they are...didn't video all around the outside of each fruit also
+Unfortunately unfamiliar with what varieties they are. Forgot to video all around the outside of each fruit also.
 
 The dogs there eat durian 😂
 
