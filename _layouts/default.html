@@ -206,34 +206,38 @@
   </style>
 </head>
 <body>
-<header>
-  <nav class="navbar">
-    <a href="{{ '/' | relative_url }}" class="nav-brand">
-      <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">
-      {{ site.title }}
-    </a>
-
-    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
-
-    <!-- Desktop Search Bar -->
-    <form action="/search" method="get" class="desktop-search-form">
-      <input type="text" name="q" placeholder="Search..." aria-label="Search" class="desktop-search-input">
-    </form>
-
-    <ul class="nav-menu">
-      <li><a href="{{ '/' | relative_url }}">Blog</a></li>
-      <li><a href="{{ '/about' | relative_url }}">About</a></li>
-
-      <!-- Mobile Search Bar -->
-      <li class="search-bar-mobile">
-        <form action="/search" method="get">
-          <input type="text" name="q" placeholder="Search..." aria-label="Search">
-        </form>
-      </li>
-    </ul>
-  </nav>
-</header>
-
+  <header>
+    <nav class="navbar">
+      <a href="{{ '/' | relative_url }}" class="nav-brand">
+        <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">
+        {{ site.title }}
+      </a>
+  
+      <!-- Hamburger Button -->
+      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+  
+      <!-- Navbar Menu (left side) -->
+      <ul class="nav-menu">
+        <li><a href="{{ '/' | relative_url }}">Blog</a></li>
+        <li><a href="{{ '/about' | relative_url }}">About</a></li>
+  
+        <!-- Remove the desktop search bar here -->
+        <!-- <form action="/search" method="get" class="desktop-search-form">
+          <input type="text" name="q" placeholder="Search..." aria-label="Search" class="desktop-search-input">
+        </form> -->
+      </ul>
+  
+      <!-- Mobile Search Bar (inside the hamburger menu) -->
+      <ul class="nav-menu">
+        <li class="search-bar-mobile">
+          <form action="/search" method="get">
+            <input type="text" name="q" placeholder="Search..." aria-label="Search">
+          </form>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  
   <div class="content">
     {{ content }}
   </div>
