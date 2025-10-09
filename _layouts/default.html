@@ -35,7 +35,9 @@
       align-items: center;
       background-color: #fff59d;
       padding: 0.6rem 1rem; /*  slightly reduced padding for better fit */
-      position: relative;
+      position: sticky;  /* Make the navbar sticky */
+      top: 0;  /* Stick it to the top */
+      z-index: 1000;  /* Ensure the navbar stays above other content */
     }
 
     /*  Added: flex container for logo + site name */
