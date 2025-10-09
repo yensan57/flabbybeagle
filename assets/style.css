@@ -35,22 +35,47 @@ body {
   border-radius: 4px;
 }
 
-/* Mobile */
+/* Mobile layout adjustments */
 @media (max-width: 768px) {
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6rem 1rem;
+  }
+
+  /* Move search bar to the left of hamburger */
   .search-form {
     display: flex;
-    justify-content: center;
-    width: 100%;
+    align-items: center;
+    margin-right: auto; /* Align it to the left */
+    margin-left: 0.5rem; /* Optional: space between logo and search bar */
   }
 
   .search-input {
-    width: 120px; /* Mobile width */
-    font-size: 0.9rem;
+    width: 100px; /* Reduce width further */
+    font-size: 0.8rem;
+    padding: 0.3rem;
+    margin-right: 0.5rem; /* Space between input and button */
   }
 
   .search-button {
     padding: 0.3rem;
-    font-size: 1.2rem;
+    font-size: 1rem;
+    background-color: #fff59d;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  /* Hamburger button stays on the right */
+  .nav-toggle {
+    font-size: 1.8rem;
+  }
+
+  /* Nav menu adjustments */
+  .nav-menu {
+    display: flex;
   }
 }
 
