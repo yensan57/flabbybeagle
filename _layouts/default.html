@@ -208,25 +208,26 @@
 <body>
   <header>
     <nav class="navbar">
-      <!--  CHANGED: Added logo + linked brand -->
-      <a href="{{ '/' | relative_url }}" class="nav-brand">
-        <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">  <!-- your logo path -->
-        {{ site.title }}
-      </a>
-
-      <!--  CHANGED: Hamburger toggle button -->
-      <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
-
-      <ul class="nav-menu">
-        <li><a href="{{ '/' | relative_url }}">Blog</a></li>
-        <li><a href="{{ '/about' | relative_url }}">About</a></li>
-      </ul>
-
-      <form action="/search" method="get" class="search-form">
-        <input type="text" name="q" placeholder="Search..." class="search-input">
-        <button type="submit" class="search-button">🔍</button>
-      </form>
-      
+    <!-- Logo and Site Name -->
+    <a href="{{ '/' | relative_url }}" class="nav-brand">
+      <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">
+      {{ site.title }}
+    </a>
+  
+    <!-- Search bar moved here, before hamburger -->
+    <form action="/search" method="get" class="search-form">
+      <input type="text" name="q" placeholder="Search..." class="search-input">
+      <button type="submit" class="search-button">🔍</button>
+    </form>
+  
+    <!-- Hamburger menu toggle -->
+    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+  
+    <!-- Navigation menu -->
+    <ul class="nav-menu">
+      <li><a href="{{ '/' | relative_url }}">Blog</a></li>
+      <li><a href="{{ '/about' | relative_url }}">About</a></li>
+    </ul>
     </nav>
   </header>
 
