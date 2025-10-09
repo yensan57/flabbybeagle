@@ -21,7 +21,7 @@ You may **not**, without prior written permission:
 - Use this site’s content for AI training, scraping, or automated data gathering.
 
 If you wish to reuse or collaborate on any materials here, drop us a message on 
-**TikTok or Instagram**
+**[TikTok](https://www.tiktok.com/@flabbybeagle) or [Instagram](https://www.instagram.com/flabbybeagle)**
 
 ---
 
