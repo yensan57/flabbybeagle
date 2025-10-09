@@ -36,19 +36,19 @@
   border-radius: 8px;
   border: 1px solid #ccc;
   font-size: 1rem;
-  width: 200px;
+  width: 200px; /* Default width on desktop */
 }
 
 /* Mobile menu */
 @media (max-width: 768px) {
   .search-bar input {
-    width: 100%; /* Take up full width in the mobile menu */
+    width: 120px; /* Reduced width for mobile */
     padding: 0.5rem;
     font-size: 1rem;
     border-radius: 8px;
     border: 1px solid #ccc;
   }
-  
+
   .nav-menu.active .search-bar {
     display: block; /* Ensure it's displayed when menu is active */
     margin-top: 10px;
@@ -321,7 +321,7 @@ fetch("/search.json")
   });
 
 function performSearch() {
-  const query = document.getElementById("search-input").value.trim(); // Added trim to clean up the query
+  const query = document.getElementById("search-input").value.trim();
   if (!query) {
     document.getElementById("search-results").innerHTML = ""; // Clear results if query is empty
     return;
@@ -330,12 +330,14 @@ function performSearch() {
   const fuse = new Fuse(searchIndex, {
     keys: ["title", "content"],
     includeScore: true,
-    threshold: 0.3
+    threshold: 0.3 // Adjust threshold if needed
   });
 
   const results = fuse.search(query);
   const resultDiv = document.getElementById("search-results");
   resultDiv.innerHTML = ""; // Clear previous results
+
+  console.log(results); // Debugging: Check if Fuse is returning any results
 
   if (results.length > 0) {
     results.forEach(result => {
