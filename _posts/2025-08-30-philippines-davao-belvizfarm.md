@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Belviz Farms in Davao, Philippines"
+title: "Belviz Durian Farms in Davao, Philippines"
 date: 2025-08-30
 thumbnail: /assets/images/2025-08-30/IMG-20250830-WA0277_small.jpg
 ---
