@@ -208,36 +208,28 @@
 <body>
   <header>
     <nav class="navbar">
+      <!--  CHANGED: Added logo + linked brand -->
       <a href="{{ '/' | relative_url }}" class="nav-brand">
-        <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">
+        <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">  <!-- your logo path -->
         {{ site.title }}
       </a>
-  
-      <!-- Hamburger Button -->
+
+      <!--  CHANGED: Hamburger toggle button -->
       <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
-  
-      <!-- Navbar Menu (left side) -->
+
       <ul class="nav-menu">
         <li><a href="{{ '/' | relative_url }}">Blog</a></li>
         <li><a href="{{ '/about' | relative_url }}">About</a></li>
-  
-        <!-- Remove the desktop search bar here -->
-        <!-- <form action="/search" method="get" class="desktop-search-form">
-          <input type="text" name="q" placeholder="Search..." aria-label="Search" class="desktop-search-input">
-        </form> -->
       </ul>
-  
-      <!-- Mobile Search Bar (inside the hamburger menu) -->
-      <ul class="nav-menu">
-        <li class="search-bar-mobile">
-          <form action="/search" method="get">
-            <input type="text" name="q" placeholder="Search..." aria-label="Search">
-          </form>
-        </li>
-      </ul>
+
+      <form action="/search" method="get" class="search-form">
+        <input type="text" name="q" placeholder="Search..." class="search-input">
+        <button type="submit" class="search-button">🔍</button>
+      </form>
+      
     </nav>
   </header>
-  
+
   <div class="content">
     {{ content }}
   </div>
@@ -296,20 +288,21 @@
   </script>
 
   <script>
-  document.querySelector(".search-form").addEventListener("submit", function(e) {
-    e.preventDefault();
-    const query = document.querySelector(".search-input").value.toLowerCase();
-    const posts = document.querySelectorAll(".content h2 a"); // Adjust to match your content
-    posts.forEach(post => {
-      const postTitle = post.textContent.toLowerCase();
-      if (postTitle.includes(query)) {
-        post.closest("li").style.display = "";
-      } else {
-        post.closest("li").style.display = "none";
-      }
+    document.querySelector(".search-form").addEventListener("submit", function(e) {
+      e.preventDefault();
+      const query = document.querySelector(".search-input").value.toLowerCase();
+      const posts = document.querySelectorAll(".content h2 a"); // Adjust to match your content
+      posts.forEach(post => {
+        const postTitle = post.textContent.toLowerCase();
+        if (postTitle.includes(query)) {
+          post.closest("li").style.display = "";
+        } else {
+          post.closest("li").style.display = "none";
+        }
+      });
     });
-  });
   </script>
+  
   
 </body>
 </html>
