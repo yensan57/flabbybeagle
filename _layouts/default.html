@@ -206,37 +206,42 @@
   </style>
 </head>
 <body>
-  <header>
-      <nav class="navbar">
-        <!-- Logo and Site Name -->
-        <a href="{{ '/' | relative_url }}" class="nav-brand">
-          <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">
-          {{ site.title }}
-        </a>
-      
-        <!-- Search bar to the left of Blog and About -->
-        <form action="/search" method="get" class="search-form">
-          <input type="text" name="q" placeholder="Search..." class="search-input">
-          <button type="submit" class="search-button">🔍</button>
-        </form>
-      
-        <!-- In the mobile version, move this inside the hamburger menu -->
-        <ul class="nav-menu">
-          <li><a href="{{ '/' | relative_url }}">Blog</a></li>
-          <li><a href="{{ '/about' | relative_url }}">About</a></li>
-          <li class="search-item">
-            <form action="/search" method="get" class="search-form">
-              <input type="text" name="q" placeholder="Search..." class="search-input">
-              <button type="submit" class="search-button">🔍</button>
-            </form>
-          </li>
-        </ul>
-      
-        <!-- Hamburger menu toggle -->
-        <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
-      </nav>
+<header>
+  <nav class="navbar">
+    <!-- Logo and Site Name -->
+    <a href="{{ '/' | relative_url }}" class="nav-brand">
+      <img src="/assets/images/flabbybeagle_icon_words_png_70px.png" alt="FlabbyBeagle Logo">
+      {{ site.title }}
+    </a>
 
-  </header>
+    <!-- Desktop: Search bar to the left of Blog and About -->
+    <form action="/search" method="get" class="search-form desktop-search">
+      <input type="text" name="q" placeholder="Search..." class="search-input">
+      <button type="submit" class="search-button">🔍</button>
+    </form>
+
+    <!-- Navigation menu -->
+    <ul class="nav-menu">
+      <li><a href="{{ '/' | relative_url }}">Blog</a></li>
+      <li><a href="{{ '/about' | relative_url }}">About</a></li>
+    </ul>
+
+    <!-- Hamburger menu toggle -->
+    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
+  </nav>
+
+  <!-- Mobile: Search bar inside hamburger -->
+  <ul class="nav-menu mobile-search">
+    <li class="search-item">
+      <form action="/search" method="get" class="search-form">
+        <input type="text" name="q" placeholder="Search..." class="search-input">
+        <button type="submit" class="search-button">🔍</button>
+      </form>
+    </li>
+    <li><a href="{{ '/' | relative_url }}">Blog</a></li>
+    <li><a href="{{ '/about' | relative_url }}">About</a></li>
+  </ul>
+</header>
 
   <div class="content">
     {{ content }}
