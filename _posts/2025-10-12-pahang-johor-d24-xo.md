@@ -45,6 +45,8 @@ Enjoy some pictures of Johor XO:
 <img src="/assets/images/2025-10-12/20251012_182552_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_182554_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_184039_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/20251012_183139.jpg" class="small-img" alt="johor_xo">
+
 
 <u>D24 / Sultan</u>
 
@@ -69,7 +71,7 @@ Thus, it is very hard to say, a D24 will taste a certain way, but if we were to 
 - Flesh colour more yellow generally
 - Seed generally big and the usual hard durian seed, unlike Johor XO (but very rarely you may get small seeds sometimes; its a natural fruit come on)
 
-Enjoy some pictures of quality D24, supposedly high altitude Pahang D24 (as just mentioned, high altitude D24 may look unripe upon opening, like some pictures below, but oh mind you these were very very ripe, as per our taste test 😉):
+Enjoy some pictures of quality D24, supposedly high altitude Pahang D24 (as just mentioned, high altitude D24 may look unripe upon opening, like some pictures below, but oh mind you these were very very nicely ripe, as per our taste test 😉):
 
 <img src="/assets/images/2025-10-12/d24.jpg" class="small-img" alt="d24">
 <img src="/assets/images/2025-10-12/d24_1.jpg" class="small-img" alt="d24">
