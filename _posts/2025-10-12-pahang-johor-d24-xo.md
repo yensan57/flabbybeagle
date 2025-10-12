@@ -17,7 +17,7 @@ In our opinion, based on taste profiles, the only 2 real and vastly different ta
 - D24 (aka 'Sultan')
 - Johor XO
 
-Then, whether it is A) grown on Pahang, Johor, or elsewhere, B) altitude, determines the quality and degree of fermentation.
+Then, whether it is A) grown in Pahang, Johor, or elsewhere, B) altitude, determines the quality and degree of fermentation.
 
 <img src="/assets/images/2025-10-12/d24_xo_photo_collage_small.jpg" class="small-img" alt="d24_xo_collage">
 
@@ -55,7 +55,7 @@ D24 is grown over many places like Johor, Pahang, Cameron Highlands region, etc.
 
 It is also named Sultan, D24XO (with as many 'X' and 'O' as you want to add, or reverse the order to XOD24 also).
 
-Before Musang King D197 was registered in 1993 and popularised in early 2000s, D24 was the 'Musang King' of back then.
+Before Musang King D197 was registered in 1993 and popularised in early 2000s, D24 was the 'Musang King' of back then in terms of popularity.
 
 Usually, sellers append the 'XO' to the back of D24, to suggest high-altitudes and fermentation, e.g. D24XO, XOD24. And honestly, create some confusion. But it would be going rather too far to call it 'XO', and try to blatantly pass it off as Johor XO, because it would never achieve the same taste profile of Johor XO, a high level of alcoholism completely distinguishable and separate.
 
