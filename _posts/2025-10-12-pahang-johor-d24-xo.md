@@ -29,8 +29,8 @@ determines the quality and degree of fermentation.
 Let us start with the Johor XO. As named, grown in Johor, which is lower altitude than Pahang generally. So it seems it is not necessary for very altitudes to achieve high fermentation.
 
 Distinctive characteristics:
-- Very alcoholic, and not like a well-fermented D175 Red Prawn alcoholic. A totally different level, similar to a very diluted hard liquor. Personally describe it like diluted fruit soju
-- Very soft, runny like egg yolk once you burst the skin
+- Very alcoholic, and not like a well-fermented D175 Red Prawn alcoholic. A totally much much higher level, similar to a very diluted hard liquor. Personally would describe it like a diluted fruit soju
+- Very soft, once you break through the skin membrane, can be runny just like a broken egg yolk
 - Flesh colour is generally whiter than D24 (sometimes can be very white)
 
 Once you've had it, its not really possible to pass off any other sub-type as Johor XO. It is clearly in a taste profile of its own.
