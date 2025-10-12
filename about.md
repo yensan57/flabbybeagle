@@ -13,9 +13,10 @@ See more and reach out on
 
 
 
-Also, take some time to say aww at this cute cat, seen living near a river in the Philippines
+Also, take some time to say aww at this cute cat, found living near a river in the Philippines
 
 <img src="/assets/images/cat_placeholder_small.jpg" class="small-img" alt="cat_laguna_cavinti">
+
 
 
 
