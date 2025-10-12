@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pahang and Johor, D24 and XO"
+title: "D24 vs XO, Pahang vs Johor, and now D24XO or XOD24?"
 date: 2025-10-12
 thumbnail: /assets/images/2025-10-12/d24_xo_photo_collage_small.jpg
 ---
