@@ -46,6 +46,7 @@ Enjoy some pictures of Johor XO:
 <img src="/assets/images/2025-10-12/20251012_182554_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_184039_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_183139.jpg" class="small-img" alt="johor_xo">
+(see the quishy soft seed)
 
 
 <u>D24 / Sultan</u>
@@ -79,6 +80,4 @@ Enjoy some pictures of quality D24, supposedly high altitude Pahang D24 (as just
 <img src="/assets/images/2025-10-12/d24_3.jpg" class="small-img" alt="d24">
 <img src="/assets/images/2025-10-12/d24_4.jpg" class="small-img" alt="d24">
 <img src="/assets/images/2025-10-12/d24_5.jpg" class="small-img" alt="d24">
-
-
 
