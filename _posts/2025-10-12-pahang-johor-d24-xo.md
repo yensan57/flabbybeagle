@@ -23,7 +23,7 @@ Then, whether it is A) grown on Pahang, Johor, or elsewhere, B) altitude, determ
 
 <u>Johor XO</u>
 
-Let us start with the Johor XO. As named, grown in Johor, which is lower altitude than Pahang generally. So it seems it is not necessary for very altitudes to achieve high fermentation.
+Let us start with the Johor XO. As named, grown in Johor, which is lower altitude than Pahang generally. So it seems it is not necessary for very high altitudes to achieve high fermentation.
 
 Even though botanically a D24 cultivar, the taste characteristic is consistent, and a clear category of its own.
 
