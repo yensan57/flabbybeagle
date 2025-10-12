@@ -48,5 +48,13 @@ Enjoy some pictures of Johor XO.
 
 <u>D24 / Sultan</u>
 
+D24 preferred growing sources are Johor, Pahang, Cameron Highlands region, etc. 
+
+Also named Sultan, D24XO (with as many 'X' and 'O' as you want to add, or reverse the order to XOD24 also)
+
+The higher the altitude, the supposed better the quality, and level of fermentation. BUT, it is never to the level of alcoholism as Johor XO.
+
+Usually, sellers append the 'XO' to the back of D24, to suggest high-altitudes and fermentation, e.g. D24XO, XOD24. But it would be rather mis-naming to just call a non-Johor XO 'XO', because it would never achieve the same taste profile of Johor XO, a taste completely distinguishable and separate.
+
 
 
