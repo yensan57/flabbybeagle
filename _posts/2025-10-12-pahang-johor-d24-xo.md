@@ -33,7 +33,7 @@ Distinctive characteristics:
 - Flesh colour is generally whiter than D24 (sometimes can be very white)
 - Seeds generally smaller than others, and the seed is soft and easy to squish (must be from steeping in all that ethanol)
 
-Once you've tried it, you'll see that it's really not possible to pass off any other sub-type as Johor XO. It is clearly in a taste profile of its own.
+Once you've tried an authentic Johor XO, you'll see that it's really not possible to pass off any other sub-type as Johor XO. It is clearly in a taste profile of its own.
 
 Enjoy some pictures of Johor XO:
 
