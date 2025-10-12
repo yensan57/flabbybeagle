@@ -14,8 +14,8 @@ Yet because of different growing conditions (or other factors, but such secrets 
 However, seller marketing strategies result in confusing naming sometimes, and potentially even mis-naming (same happens with Musang King D197).
 
 In our opinion, based on taste profiles, the only 2 real and vastly different taste-types are:
-1. D24 (aka 'Sultan')
-2. Johor XO
+- D24 (aka 'Sultan')
+- Johor XO
 
 Then, whether it is 
 A) grown on Pahang, Johor, or elsewhere, 
