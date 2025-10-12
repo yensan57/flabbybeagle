@@ -57,8 +57,7 @@ It is also named Sultan, D24XO (with as many 'X' and 'O' as you want to add, or 
 
 Before Musang King D197 was registered in 1993 and popularised in early 2000s, D24 was the 'Musang King' of back then.
 
-Usually, sellers append the 'XO' to the back of D24, to suggest high-altitudes and fermentation, e.g. D24XO, XOD24. But it would be rather mis-naming to just call a non-Johor XO 'XO', because 
-it would never achieve the same taste profile of Johor XO, a high level of alcoholism completely distinguishable and separate.
+Usually, sellers append the 'XO' to the back of D24, to suggest high-altitudes and fermentation, e.g. D24XO, XOD24. And honestly, create some confusion. But it would be going rather too far to call it 'XO', and try to blatantly pass it off as Johor XO, because it would never achieve the same taste profile of Johor XO, a high level of alcoholism completely distinguishable and separate.
 
 The higher the altitude, the supposed better the quality, and level of fermentation. BUT, it is never to the level of alcoholism as Johor XO.
 
