@@ -35,7 +35,7 @@ Distinctive characteristics:
 
 Once you've had it, its not really possible to pass off any other sub-type as Johor XO. It is clearly in a taste profile of its own.
 
-Enjoy some pictures of Johor XO.
+Enjoy some pictures of Johor XO:
 
 <img src="/assets/images/2025-10-12/20251012_175622_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
