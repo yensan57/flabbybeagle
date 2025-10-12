@@ -35,7 +35,7 @@ Distinctive characteristics:
 
 Once you've tried an authentic Johor XO, you'll see that it's really not possible to pass off any other sub-type as Johor XO. It is clearly in a taste profile of its own.
 
-Enjoy some pictures of Johor XO:
+Enjoy some pictures of Johor XO (see the quishy soft seed):
 
 <img src="/assets/images/2025-10-12/20251012_175622_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
@@ -46,7 +46,7 @@ Enjoy some pictures of Johor XO:
 <img src="/assets/images/2025-10-12/20251012_182554_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_184039_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_183139.jpg" class="small-img" alt="johor_xo">
-(see the quishy soft seed)
+
 
 
 <u>D24 / Sultan</u>
