@@ -12,9 +12,11 @@ See more and reach out on
 - **[Instagram](https://www.instagram.com/flabbybeagle)**
 
 
-Also, take a look at this cute cat, seen living near a river in the Philippines
+
+Also, take some time admire this cute cat, seen living near a river in the Philippines
 
 <img src="/assets/images/cat_placeholder_small.jpg" class="small-img" alt="cat_laguna_cavinti">
+
 
 
 
