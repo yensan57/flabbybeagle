@@ -9,11 +9,11 @@ D24, XO, Pahang, Johor. Is it confusing? Not an expert, but sharing what we have
 
 Firstly, XO and D24 and technically the same cultivar, i.e. D24, as per registered under the Malaysian Department of Agriculture. Same species, same botanical variety.
 
-Yet because of different growing conditions, result in generally 2 vastly different taste profile categories.
+Yet because of different growing conditions (or other factors, but such secrets will only be known to the farmers), result in generally 2 vastly different taste profile categories.
 
-However, sellers and marketing result in sometimes confusing naming, and potentially mis-naming (same happens with Musang King D197).
+However, seller marketing strategies result in confusing naming sometimes, and potentially even mis-naming (same happens with Musang King D197).
 
-In our opinion, based on taste profiles, the only 2 real vastly different taste-types are:
+In our opinion, based on taste profiles, the only 2 real and vastly different taste-types are:
 1. D24 (aka 'Sultan')
 2. Johor XO
 
