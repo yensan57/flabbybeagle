@@ -5,7 +5,7 @@ date: 2025-10-12
 thumbnail: /assets/images/2025-10-12/d24_xo_photo_collage_small.jpg
 ---
 
-D24, XO, Pahang, Johor. Is it confusing? Not an expert, but sharing what we have heard and read, and ate.
+D24, XO, Pahang, Johor. There's also D24XO, what even is that? Sounds confusing? Not experts, but here we are sharing what we have learnt from hearing, reading, and eating of course, and hopefully it clears some things up.
 
 Firstly, XO and D24 and technically the same cultivar, i.e. D24, as per registered under the Malaysian Department of Agriculture. Same species, same botanical variety.
 
