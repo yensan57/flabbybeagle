@@ -19,6 +19,7 @@ In our opinion, based on taste profiles, the only 2 real and vastly different ta
 
 Then, whether it is A) grown in Pahang, Johor, or elsewhere, B) altitude, determines the quality and degree of fermentation.
 
+(left is D24, right is Johor XO)
 <img src="/assets/images/2025-10-12/d24_xo_photo_collage_small.jpg" class="small-img" alt="d24_xo_collage">
 
 <u>Johor XO</u>
