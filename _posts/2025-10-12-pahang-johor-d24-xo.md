@@ -37,7 +37,7 @@ Distinctive characteristics:
 
 Once you've tried an authentic Johor XO, you'll see that it's really not possible to pass off any other sub-type as Johor XO. It is clearly in a taste profile of its own.
 
-Johor XO can be an acquired taste. There are those who really love its uniqueness, and there are those who really find it's taste and texture off-putting. And that's okay.
+Johor XO can be an acquired taste. There are those who really love its uniqueness, and there are those who really find its taste and texture off-putting. And that's okay.
 
 Enjoy some pictures of Johor XO (see the squishy soft seed):
 
