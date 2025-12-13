@@ -159,7 +159,7 @@ S17 is really what it is most commonly known by. Also known as 'D17' (but it's n
 <img src="/assets/images/ongoingmycultivars/tupai3.jpg" class="small-img" alt="tupai king durian">
 <img src="/assets/images/ongoingmycultivars/tupai4.jpg" class="small-img" alt="tupai king durian">
 
-Okay, honestly, I may not have managed to try the real Tupai King. Apparently according to the stallholder, this Tupai King is supposedly a young graft in Johor, hence the different outer visuals; but they also doubt its authenticity. Oh well. However, the taste does kind of fit the profile that others describe Tupai King to be like. Naturally, I want to be able to try the obviously-authentic fruit in Penang when I have the time.
+Okay, actually, I may not have managed to try the real Tupai King. Apparently according to the stallholder, this Tupai King is supposedly a young graft in Johor, hence the different outer visuals; but they also doubt its authenticity. Oh well. However, the taste does kind of fit the profile that others describe Tupai King to be like. Naturally, I want to be able to try the obviously-authentic fruit in Penang when I have the time.
 - Brown muddy star pattern at base
 - Generally more blue-black bruising on flesh due to faster fermentation
 - Leaves long lasting sharp bitterness inside mouth
