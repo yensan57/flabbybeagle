@@ -166,6 +166,15 @@ Also known as Football or 美球 (Beautiful Ball).
 
 <u>D211 Kasap Merah</u>
 
+<img src="/assets/images/ongoingmycultivars/d211a.jpg" class="small-img" alt="d211 durian">
+<img src="/assets/images/ongoingmycultivars/d211b.jpg" class="small-img" alt="d211 durian">
+<img src="/assets/images/ongoingmycultivars/d211c.jpg" class="small-img" alt="d211 durian">
+<img src="/assets/images/ongoingmycultivars/d211d.jpg" class="small-img" alt="d211 durian">
+
+Also known as Ice Cream Durian
+- White flesh
+- Wet-ish texture
+- I think flavour profile varies; the one I had was quite bitter and had garlic aftertaste like Capri
 
 <u>D212 S17</u>
 
