@@ -32,7 +32,7 @@ It generally heralds the start of the Johor season, as its fruits fall first.
 <img src="/assets/images/ongoingmycultivars/d2c.jpg" class="small-img" alt="d2 durian">
 <img src="/assets/images/ongoingmycultivars/d2d.jpg" class="small-img" alt="d2 durian">
 
-Also known as Dream Lover. From Johor.
+Also known as Dream Lover.
 - Long-ish shape
 - Difficult to open, just like D160 Tekka
 - Seems generally quite wet-ish flesh
@@ -116,7 +116,7 @@ Also likes to be passed off as 'red prawn'.
 <img src="/assets/images/ongoingmycultivars/tekka3.jpg" class="small-img" alt="tekka green bamboo durian">
 <img src="/assets/images/ongoingmycultivars/tekka4.jpg" class="small-img" alt="tekka green bamboo durian">
 
-Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Usually from Johor. Popular among durian enthusiasts.
+Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among durian enthusiasts.
 - Bumpy orange inner stem fibre, similar to D200 Black Thorn
 - Extremely difficult to open, if not the most difficult, due to said inner stem fibre
 - Floral
@@ -196,7 +196,7 @@ Johor variety that is not common.
 
 <u>D198 Golden Phoenix</u>
 
-From Johor. An expensive variety, but Golden Phoenix has one of the highest meat yield ratios, due to its very small seed
+Usually from Johor. An expensive variety, but Golden Phoenix has one of the highest meat yield ratios, due to its very small seed
 - Tiny tiny seeds
 - Bittersweet to medium complex bitter
 - Round shape, usually small in size (<2kg)
