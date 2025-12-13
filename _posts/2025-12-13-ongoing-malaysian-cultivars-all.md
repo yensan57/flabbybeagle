@@ -20,7 +20,7 @@ Since listed here are those I have personally tried, I also give my own personal
 <img src="/assets/images/ongoingmycultivars/d1c.jpg" class="small-img" alt="d1 durian">
 <img src="/assets/images/ongoingmycultivars/d1d.jpg" class="small-img" alt="d1 durian">
 
-It generally heralds the start of the Johor season, since its fruits fall first.
+It generally heralds the start of the Johor season, as its fruits fall first.
 - Seeds small tadpole shaped, just like Black Pearl
 - Tastes mild bittersweet; I consider it a very light flavour, like D163 Hor Lor
 
