@@ -140,6 +140,20 @@ Also known as Football or 美球 (Beautiful Ball).
 
 S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi).
 
+<u>D214 Tupai King</u>
+
+<img src="/assets/images/ongoingmycultivars/tupai1.jpg" class="small-img" alt="tupai king durian">
+<img src="/assets/images/ongoingmycultivars/tupai2.jpg" class="small-img" alt="tupai king durian">
+<img src="/assets/images/ongoingmycultivars/tupai3.jpg" class="small-img" alt="tupai king durian">
+<img src="/assets/images/ongoingmycultivars/tupai4.jpg" class="small-img" alt="tupai king durian">
+
+Okay, honestly, I may not have managed to try the real Tupai King. Apparently according to the stallholder, this Tupai King is supposedly a young graft in Johor, hence the different outer visuals; but they also doubt its authenticity. Oh well. However, the taste does kind of fit the profile that others describe Tupai King to be like. Naturally, I want to be able to try the obviously-authentic fruit in Penang when I have the time.
+- Brown muddy star pattern at base
+- Generally more blue-black bruising on flesh due to faster fermentation
+- Leaves long lasting sharp bitterness inside mouth
+- Above medium level bitterness
+- Very floral at the same time
+
 <u>D232 Dong Lai</u>
 
 <img src="/assets/images/ongoingmycultivars/donglai1.jpg" class="small-img" alt="dong lai durian">
@@ -147,7 +161,7 @@ S17 is really what it is most commonly known by. Also known as 'D17' (but it's n
 <img src="/assets/images/ongoingmycultivars/donglai3.jpg" class="small-img" alt="dong lai durian">
 <img src="/assets/images/ongoingmycultivars/donglai4.jpg" class="small-img" alt="dong lai durian">
 
-A Johor cultivar, 东来 (Dong Lai or Come East), also known as 'Pineapple durian', because of the orange and yellow colour hues on the husk.
+A Johor cultivar, 东来 (Dong Lai or Come East) is also known as 'Pineapple durian', because of the orange and yellow colour hues on the husk.
 - Basically tastes like Khun Poh / Xiao Hong, orange citrus taste
 - Difference mainly in texture; Dong Lai is much dryer and more suitable for transport
 
@@ -162,7 +176,6 @@ A Johor cultivar, 东来 (Dong Lai or Come East), also known as 'Pineapple duria
 <img src="/assets/images/ongoingmycultivars/capri1.jpg" class="small-img" alt="capri durian">
 <img src="/assets/images/ongoingmycultivars/capri2.jpg" class="small-img" alt="capri durian">
 <img src="/assets/images/ongoingmycultivars/capri3.jpg" class="small-img" alt="capri durian">
-<img src="/assets/images/ongoingmycultivars/capri4.jpg" class="small-img" alt="capri durian">
 
 Well known among durian enthusiasts for its strong bitterness.
 - Unique rugged look
