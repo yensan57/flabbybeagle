@@ -93,6 +93,18 @@ Name is Hokkien for gourd.
 - Gourd-like shape as per the name
 - Light flavour; one of the lightest in my opinion and not suitable for non-beginners
 
+<u>D164 Khun Poh and Xiao Hong</u>
+
+<img src="/assets/images/ongoingmycultivars/kp1.jpg" class="small-img" alt="khun poh durian">
+<img src="/assets/images/ongoingmycultivars/kp2.jpg" class="small-img" alt="khun poh durian">
+<img src="/assets/images/ongoingmycultivars/kp3.jpg" class="small-img" alt="khun poh durian">
+<img src="/assets/images/ongoingmycultivars/kp4.jpg" class="small-img" alt="khun poh durian">
+
+Online articles say at 小红 (Xiao Hong, or Little Red) is an off-shoot of Khun Poh, that seems to be recognised as a separate cultivar.
+
+I tried both, side by side, as seen in the pictures. Personally, I was unable to distinguish between both by visual, or by taste. The stallholder told me to look at the base to see the difference in pattern, but I cannot remember the difference now sadly. 
+- Tastes like orange, really very unique, like eating an orange dessert
+
 <u>D165 Green Skin 15</u>
 
 
@@ -145,9 +157,17 @@ A Johor cultivar, 东来 (Dong Lai or Come East), also known as 'Pineapple duria
 
 <u><strong>Penang Varieties</strong></u>
 
-<u>Khun Poh and Xiao Hong</u>
-
 <u>Capri</u>
+
+<img src="/assets/images/ongoingmycultivars/capri1.jpg" class="small-img" alt="capri durian">
+<img src="/assets/images/ongoingmycultivars/capri2.jpg" class="small-img" alt="capri durian">
+<img src="/assets/images/ongoingmycultivars/capri3.jpg" class="small-img" alt="capri durian">
+<img src="/assets/images/ongoingmycultivars/capri4.jpg" class="small-img" alt="capri durian">
+
+Well known among durian enthusiasts for its strong bitterness.
+- Unique rugged look
+- Above medium bitterness
+- In my opinion, tastes very garlicky, with an aftertaste just like a strong garlic; actually not my personal preference
 
 <u><strong>Other Varieties</strong></u>
 
