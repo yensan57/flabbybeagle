@@ -288,7 +288,7 @@ Apparently there are so many types of Green Skin, such as D165 Green Skin 15 fro
 
 I have not eaten enough to know what exactly are the differences or how to distinguish. So just posting 2 types of Green Skin I've had so far, under the non 'D' section.
 - First 3 pictures belong to a yellow flesh GS with strong bitterness
-- Last picture is a white flesh GS that is very mild bitter, from another seller
+- Last picture is a white flesh GS that is very mildly bitter, from another seller
 
 
 <u>Capri</u>
@@ -304,14 +304,14 @@ A Penang cultivar. Well known among durian enthusiasts for its strong bitterness
 - In my opinion, tastes very garlicky, with an aftertaste just like a strong garlic; actually not my personal preference
 
 
-<u>Envy Flower 羡慕花</u>
+<u>Xian Mu Hua</u>
 
 <img src="/assets/images/ongoingmycultivars/envy1.jpg" class="small-img" alt="envy flower durian">
 <img src="/assets/images/ongoingmycultivars/envy2.jpg" class="small-img" alt="envy flower durian">
 <img src="/assets/images/ongoingmycultivars/envy3.jpg" class="small-img" alt="envy flower durian">
 <img src="/assets/images/ongoingmycultivars/envy4.jpg" class="small-img" alt="envy flower durian">
 
-I am guessing it is a Johor variety. Known to be rare, because of the limited trees.
+Xian Mu Hua (羡慕花, which means Envy Flower) is a Johor variety. Known to be rare, because of the limited trees.
 - White flesh
 - Very floral in smell and taste
 - Taste kind of reminds me of a less bitter and less strong Capri
