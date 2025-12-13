@@ -185,7 +185,7 @@ Johor variety that is not common.
 
 <u>D197 Musang King</u>
 
-猫山王, Blackgold, King of kings, Butter King, Old Tree... Really needs no elaboration. I must say that MSW has a very wide variety of tastes, textures, seeds, and costs, but the one thing that is common is always the star pattern.
+猫山王, Blackgold, King of kings, Butter King, Old Tree... Really needs no elaboration. Grown everywhere, but I think most people prefer the Pahang ones. I must say that MSW has a very wide variety of tastes, textures, seeds, and costs, but the one thing that is common is always the star pattern.
 - Easy to recognise from the star pattern at base
 - Yellow (never white flesh)
 - Quite bald in terms of thorns at the crown area
