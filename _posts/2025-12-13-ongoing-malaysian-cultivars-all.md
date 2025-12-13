@@ -67,7 +67,7 @@ Not yet tried.
 
 Also known as Sultan King, XO. Used to be the old 'Musang King' before Musang King was created.
 Wrote a much longer article on it here: [Read my D24/XO durian post]({{ "/2025/10/12/pahang-johor-d24-xo.html" | relative_url }})
-- Very sharp thorns; if you slip your hands you will likely bleed
+- Very sharp thorns; if your hands slip you will probably bleed
 
 <u>D25 to D77</u>
 
@@ -81,7 +81,7 @@ Not yet tried.
 <u>D101</u>
 
 Also likes to be passed off as 'red prawn'.
-- Insanely sharp thorns; probably one of the sharpest in my opinion. Get ready to bleed
+- Insanely sharp thorns; probably one of the sharpest in my opinion. Get ready to bleed :(
 
 <u>D160 Tekka</u>
 
