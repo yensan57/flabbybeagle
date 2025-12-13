@@ -70,6 +70,13 @@ Wrote a much longer article on it here:
 
 <u>D78 Sweetie</u>
 
+<img src="/assets/images/ongoingmycultivars/d78a.jpg" class="small-img" alt="d78 durian">
+<img src="/assets/images/ongoingmycultivars/d78b.jpg" class="small-img" alt="d78 durian">
+<img src="/assets/images/ongoingmycultivars/d78c.jpg" class="small-img" alt="d78 durian">
+
+- Bittersweet
+- Dry texture
+
 <u>D88</u>
 
 <u>D101</u>
@@ -130,9 +137,17 @@ Also known as Penang Red Prawn ('True Red Prawn').
 
 
 
-<u>D196</u>
+<u>D196 Simpang Permata</u>
 
+<img src="/assets/images/ongoingmycultivars/d196a.jpg" class="small-img" alt="d196 durian">
+<img src="/assets/images/ongoingmycultivars/d196b.jpg" class="small-img" alt="d196 durian">
+<img src="/assets/images/ongoingmycultivars/d196c.jpg" class="small-img" alt="d196 durian">
+<img src="/assets/images/ongoingmycultivars/d196d.jpg" class="small-img" alt="d196 durian">
 
+Johor variety that is not common.
+- Bittersweet
+- Slightly fermented
+- Quite a lot of fleshy meat
 
 <u>D197 Musang King</u>
 
