@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ongoing Documentation - Malaysian Cultivars"
+title: "[Ongoing] A Documentation on Malaysian Durian Cultivars"
 date: 2025-10-12
 thumbnail: /assets/images/ongoingmycultivars/collage.jpg
 ---
