@@ -32,7 +32,7 @@ It generally heralds the start of the Johor season, as its fruits fall first.
 <img src="/assets/images/ongoingmycultivars/d2c.jpg" class="small-img" alt="d2 durian">
 <img src="/assets/images/ongoingmycultivars/d2d.jpg" class="small-img" alt="d2 durian">
 
-Also known as Dream Lover.
+Also known as Dream Lover. From Johor.
 - Long-ish shape
 - Difficult to open, just like D160 Tekka
 - Seems generally quite wet-ish flesh
@@ -59,7 +59,7 @@ Also known as 'Johor Red Prawn'.
 <img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
 
-Also known as Sultan King, XO. Used to be the old 'Musang King' before Musang King was created.
+Also known as Sultan King, XO. Grown everywhere. Used to be the old 'Musang King' before Musang King was created.
 
 Wrote a much longer article on it here: 
 <a href="{% post_url 2025-10-12-pahang-johor-d24-xo %}"
@@ -116,7 +116,7 @@ Also likes to be passed off as 'red prawn'.
 <img src="/assets/images/ongoingmycultivars/tekka3.jpg" class="small-img" alt="tekka green bamboo durian">
 <img src="/assets/images/ongoingmycultivars/tekka4.jpg" class="small-img" alt="tekka green bamboo durian">
 
-Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among durian enthusiasts.
+Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Usually from Johor. Popular among durian enthusiasts.
 - Bumpy orange inner stem fibre, similar to D200 Black Thorn
 - Extremely difficult to open, if not the most difficult, due to said inner stem fibre
 - Floral
@@ -141,7 +141,7 @@ Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among duria
 <img src="/assets/images/ongoingmycultivars/d163b.jpg" class="small-img" alt="d163 durian">
 <img src="/assets/images/ongoingmycultivars/d163c.jpg" class="small-img" alt="d163 durian">
 
-Name is Hokkien for gourd.
+Name is Hokkien for gourd. From Penang.
 - Gourd-like shape as per the name
 - Light flavour; one of the lightest in my opinion and not suitable for non-beginners
 
@@ -153,7 +153,7 @@ Name is Hokkien for gourd.
 <img src="/assets/images/ongoingmycultivars/kp3.jpg" class="small-img" alt="khun poh durian">
 <img src="/assets/images/ongoingmycultivars/kp4.jpg" class="small-img" alt="khun poh durian">
 
-Online articles say at 小红 (Xiao Hong, or Little Red) is an off-shoot of Khun Poh, that seems to be recognised as a separate cultivar.
+From Penang. Online articles say at 小红 (Xiao Hong, or Little Red) is an off-shoot of Khun Poh, that seems to be recognised as a separate cultivar.
 
 I tried both, side by side, as seen in the pictures. Personally, I was unable to distinguish between both by visual, or by taste. The stallholder told me to look at the base to see the difference in pattern, but I cannot remember the difference now sadly. 
 - Tastes like orange, really very unique, like eating an orange dessert
@@ -196,7 +196,7 @@ Johor variety that is not common.
 
 <u>D198 Golden Phoenix</u>
 
-An expensive variety, but Golden Phoenix has one of the highest meat yield ratios, due to its very small seed
+From Johor. An expensive variety, but Golden Phoenix has one of the highest meat yield ratios, due to its very small seed
 - Tiny tiny seeds
 - Bittersweet to medium complex bitter
 - Round shape, usually small in size (<2kg)
@@ -209,7 +209,7 @@ An expensive variety, but Golden Phoenix has one of the highest meat yield ratio
 <img src="/assets/images/ongoingmycultivars/d199a.jpg" class="small-img" alt="d199 durian">
 <img src="/assets/images/ongoingmycultivars/d199b.jpg" class="small-img" alt="d199 durian">
 
-Also known as Football or 美球 (Beautiful Ball).
+From Johor. Also known as Football or 美球 (Beautiful Ball).
 - Ball shape as per the name
 - Bittersweet to mild bitter
 - Fleshy pasty texture
@@ -217,7 +217,7 @@ Also known as Football or 美球 (Beautiful Ball).
 
 <u>D200 Black Thorn</u>
 
-The most expensive accessible cultivar now (other than Tupai King but it isn't easily accessible).
+From Penang. The most expensive accessible cultivar now (other than Tupai King but it isn't easily accessible).
 - Obvious pumpkin shape; big and heavy usually
 - Star pattern below and remains of the black stigma sometimes
 - Bumpy orange inner stem fibre just like D160 Tekka (but unlike Tekka, easy to open)
@@ -233,7 +233,7 @@ The most expensive accessible cultivar now (other than Tupai King but it isn't e
 <img src="/assets/images/ongoingmycultivars/d211c.jpg" class="small-img" alt="d211 durian">
 <img src="/assets/images/ongoingmycultivars/d211d.jpg" class="small-img" alt="d211 durian">
 
-Also known as Ice Cream Durian
+From Johor. Also known as Ice Cream Durian
 - White flesh
 - Wet-ish texture
 - I think flavour profile varies; the one I had was quite bitter and had garlic aftertaste like Capri
@@ -241,7 +241,7 @@ Also known as Ice Cream Durian
 
 <u>D212 S17</u>
 
-S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi), or Coffee Durian due to its taste profile.
+From Johor. S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi), or Coffee Durian due to its taste profile.
 - Rugged husk look (rugged like Capri and Tawa)
 - Tastes like soy bean to me (I have never tasted the 'coffee')
 - Generally big seeds
@@ -254,7 +254,7 @@ S17 is really what it is most commonly known by. Also known as 'D17' (but it's n
 <img src="/assets/images/ongoingmycultivars/tupai3.jpg" class="small-img" alt="tupai king durian">
 <img src="/assets/images/ongoingmycultivars/tupai4.jpg" class="small-img" alt="tupai king durian">
 
-Okay, actually, I may not have managed to try the real Tupai King. Apparently according to the stallholder, this Tupai King is supposedly a young graft in Johor, hence the different outer visuals; but they also doubt its authenticity. Oh well. However, the taste does kind of fit the profile that others describe Tupai King to be like. Naturally, I want to be able to try the obviously-authentic fruit in Penang when I have the time.
+From Penang. Okay, actually, I may not have managed to try the real Tupai King. Apparently according to the stallholder, this Tupai King is supposedly a young graft in Johor, hence the different outer visuals; but they also doubt its authenticity. Oh well. However, the taste does kind of fit the profile that others describe Tupai King to be like. Naturally, I want to be able to try the obviously-authentic fruit in Penang when I have the time.
 - Brown muddy star pattern at base
 - Generally more blue-black bruising on flesh due to faster fermentation
 - Leaves long lasting sharp bitterness inside mouth
