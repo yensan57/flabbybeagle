@@ -2,7 +2,7 @@
 layout: post
 title: "[Ongoing] A Documentation on Malaysian Durian Cultivars"
 date: 2025-10-12
-thumbnail: /assets/images/ongoingmycultivars/collage.jpg
+thumbnail: /assets/images/ongoingmycultivars/collage2.jpg
 ---
 
 This is an ongoing WIP document, mainly for my own personal records of what Malaysian durian cultivars I've personally tried. 
