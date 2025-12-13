@@ -117,6 +117,14 @@ Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among duria
 
 <u>D162 Tawa</u>
 
+<img src="/assets/images/ongoingmycultivars/d162a.jpg" class="small-img" alt="d162 durian">
+<img src="/assets/images/ongoingmycultivars/d162b.jpg" class="small-img" alt="d162 durian">
+<img src="/assets/images/ongoingmycultivars/d162c.jpg" class="small-img" alt="d162 durian">
+<img src="/assets/images/ongoingmycultivars/d162d.jpg" class="small-img" alt="d162 durian">
+
+- Rugged-looking if you know what I mean (like how Capri and Tupai King have that rugged look)
+- Taste-wise had complex bitterness
+- Mild fermentation
 
 <u>D163 Hor Lor</u>
 
