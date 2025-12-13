@@ -6,7 +6,9 @@ thumbnail: /assets/images/ongoingmycultivars/collage.jpg
 ---
 
 This is an ongoing WIP document, mainly for my own personal records of what Malaysian durian cultivars I've personally tried. 
+
 And also what I haven't tried (which is the much more massively longer list). If only I lived in Malaysia; would be so much easier to complete this haha.
+
 Starting in numerical 'D' order, followed by other varieties not registered with the Malaysian Agricultural Research and Development Institute (Mardi)
 
 Hence can also give my own personal views on each variety. Naturally different people and tastes will feel differently from me.
