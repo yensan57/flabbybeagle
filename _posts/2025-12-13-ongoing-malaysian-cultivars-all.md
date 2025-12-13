@@ -129,9 +129,9 @@ Also known as Football, Bola, or 美球 (Beautiful Ball).
 
 S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi).
 
-<u>**Not Mardi registered cultivars**</u>
+<u><strong>Not Mardi registered cultivars</strong>u>
 
-<u>**Penang Varieties**</u>
+<u><strong>Penang Varieties</strong></u>
 
 <u>Khun Poh and Xiao Hong</u>
 
@@ -139,7 +139,7 @@ S17 is really what it is most commonly known by. Also known as 'D17' (but it's n
 
 <u>Capri</u>
 
-<u>**Other Varieties**</u>
+<u><strong>Other Varieties</strong></u>
 
 <u>Envy Flower 羡慕花</u>
 
