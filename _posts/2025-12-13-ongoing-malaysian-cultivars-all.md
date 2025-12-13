@@ -128,8 +128,6 @@ Online articles say at 小红 (Xiao Hong, or Little Red) is an off-shoot of Khun
 I tried both, side by side, as seen in the pictures. Personally, I was unable to distinguish between both by visual, or by taste. The stallholder told me to look at the base to see the difference in pattern, but I cannot remember the difference now sadly. 
 - Tastes like orange, really very unique, like eating an orange dessert
 
-<u>D165 Green Skin 15</u>
-
 
 <u>D175 Red Prawn</u>
 
@@ -209,11 +207,25 @@ A Johor cultivar, 东来 (Dong Lai or Come East) is also known as 'Pineapple dur
 
 <u><strong>Not Mardi registered cultivars</strong></u>
 
+<u>Green Skin</u>
+
+<img src="/assets/images/ongoingmycultivars/gstdt1.jpg" class="small-img" alt="green skin durian">
+<img src="/assets/images/ongoingmycultivars/gstdt2.jpg" class="small-img" alt="green skin durian">
+<img src="/assets/images/ongoingmycultivars/gstdt3.jpg" class="small-img" alt="green skin durian">
+<img src="/assets/images/ongoingmycultivars/gsmarcus1.jpg" class="small-img" alt="green skin durian">
+
+Apparently there are so many types of Green Skin, such as D165 Green Skin 15 from Penang, Green Skin 3, Green Skin Son, etc.
+
+I have not eaten enough to know what exactly are the differences or how to distinguish. So just posting 2 types of Green Skin I've had so far, under the non 'D' section.
+- First 3 pictures belong to a yellow flesh GS with strong bitterness
+- Last picture is a white flesh GS that is very mild bitter, from another seller
+
 <u>Capri</u>
 
 <img src="/assets/images/ongoingmycultivars/capri1.jpg" class="small-img" alt="capri durian">
 <img src="/assets/images/ongoingmycultivars/capri2.jpg" class="small-img" alt="capri durian">
 <img src="/assets/images/ongoingmycultivars/capri3.jpg" class="small-img" alt="capri durian">
+<img src="/assets/images/ongoingmycultivars/capri4.jpg" class="small-img" alt="capri durian">
 
 A Penang cultivar. Well known among durian enthusiasts for its strong bitterness.
 - Unique rugged look
