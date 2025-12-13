@@ -65,7 +65,14 @@ Not yet tried.
 <img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
 
 Also known as Sultan King, XO. Used to be the old 'Musang King' before Musang King was created.
-Wrote a much longer article on it here: [Read my D24/XO durian post]({{ "/2025/10/12/pahang-johor-d24-xo.html" | relative_url }})
+
+Wrote a much longer article on it here: 
+<a href="{% post_url 2025-10-12-pahang-johor-d24-xo %}"
+   target="_blank"
+   rel="noopener noreferrer">
+  Read my post about D24/XO
+</a>
+
 - Very sharp thorns; if your hands slip you will probably bleed
 
 <u>D25 to D77</u>
