@@ -28,7 +28,6 @@ It generally heralds the start of the Johor season, since its fruits fall first.
 <img src="/assets/images/ongoingmycultivars/d2b.jpg" class="small-img" alt="d2 durian">
 <img src="/assets/images/ongoingmycultivars/d2c.jpg" class="small-img" alt="d2 durian">
 <img src="/assets/images/ongoingmycultivars/d2d.jpg" class="small-img" alt="d2 durian">
-<img src="/assets/images/ongoingmycultivars/d2e.jpg" class="small-img" alt="d2 durian">
 
 Also known as Dream Lover.
 - Long-ish shape
@@ -47,7 +46,6 @@ Not yet tried.
 <img src="/assets/images/ongoingmycultivars/d13b.jpg" class="small-img" alt="d13 durian">
 <img src="/assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
 <img src="/assets/images/ongoingmycultivars/d13d.jpg" class="small-img" alt="d13 durian">
-<img src="/assets/images/ongoingmycultivars/d13e.jpg" class="small-img" alt="d13 durian">
 
 Also known as 'Johor Red Prawn'.
 - Generally sweet to bittersweet
@@ -63,7 +61,6 @@ Not yet tried.
 <img src="/assets/images/2025-10-12/d24_1.jpg" class="small-img" alt="d24 durian">
 <img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
-<img src="/assets/images/2025-10-12/20251012_182101_small.jpg" class="small-img" alt="johor_xo">
 
 Also known as Sultan King, XO. Used to be the old 'Musang King' before Musang King was created.
 Wrote a much longer article on it here: [Read my D24/XO durian post]({{ "/2025/10/12/pahang-johor-d24-xo.html" | relative_url }})
