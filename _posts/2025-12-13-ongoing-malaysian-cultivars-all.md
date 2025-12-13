@@ -65,7 +65,7 @@ Wrote a much longer article on it here:
   Read my post about D24/XO
 </a>
 
-- Very sharp thorns; if your hands slip you will probably bleed
+- D24 has very sharp thorns; if your hands slip you will probably bleed
 - A good D24 tastes like vanilla; a good Johor XO tastes like sweet alcohol with egg-yolk texture
 
 <u>D78 Sweetie</u>
@@ -73,6 +73,10 @@ Wrote a much longer article on it here:
 <u>D88</u>
 
 <u>D101</u>
+
+<img src="/assets/images/ongoingmycultivars/d101a.jpg" class="small-img" alt="d101 durian">
+<img src="/assets/images/ongoingmycultivars/d101b.jpg" class="small-img" alt="d101 durian">
+<img src="/assets/images/ongoingmycultivars/d101c.jpg" class="small-img" alt="d101 durian">
 
 Also likes to be passed off as 'red prawn'.
 - Insanely sharp thorns; probably one of the sharpest in my opinion. Get ready to bleed :(
