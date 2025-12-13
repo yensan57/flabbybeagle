@@ -66,6 +66,7 @@ Wrote a much longer article on it here:
 </a>
 
 - Very sharp thorns; if your hands slip you will probably bleed
+- A good D24 tastes like vanilla; a good Johor XO tastes like sweet alcohol with egg-yolk texture
 
 <u>D78 Sweetie</u>
 
@@ -75,10 +76,21 @@ Wrote a much longer article on it here:
 
 Also likes to be passed off as 'red prawn'.
 - Insanely sharp thorns; probably one of the sharpest in my opinion. Get ready to bleed :(
+- Tastes sweet to mild bittersweet
+- With a milky aftertaste
 
 <u>D160 Tekka</u>
 
-Also known as Green Bamboo (Tekka in Hokkien), Musang Queen.
+<img src="/assets/images/ongoingmycultivars/tekka1.jpg" class="small-img" alt="tekka green bamboo durian">
+<img src="/assets/images/ongoingmycultivars/tekka2.jpg" class="small-img" alt="tekka green bamboo durian">
+<img src="/assets/images/ongoingmycultivars/tekka3.jpg" class="small-img" alt="tekka green bamboo durian">
+<img src="/assets/images/ongoingmycultivars/tekka4.jpg" class="small-img" alt="tekka green bamboo durian">
+
+Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among durian enthusiasts.
+- Bumpy orange inner stem fibre, similar to D200 Black Thorn
+- Extremely difficult to open, if not the most difficult, due to said inner stem fibre
+- Floral
+- Taste profile ranges from bittersweet to medium bitter
 
 <u>D162 Tawa</u>
 
