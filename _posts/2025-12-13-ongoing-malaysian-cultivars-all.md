@@ -38,6 +38,7 @@ Also known as Dream Lover.
 - Medium bittersweet
 
 <u>D3 to D12</u>
+
 Not yet tried.
 
 <u>D13</u>
@@ -53,6 +54,7 @@ Also known as 'Johor Red Prawn'.
 - Generally big seeds
 
 <u>D14 to D23</u>
+
 Not yet tried.
 
 <u>D24</u>
@@ -68,6 +70,7 @@ Wrote a much longer article on it here: [Read my D24/XO durian post]({{ "/2025/1
 - Very sharp thorns; if you slip your hands you will likely bleed
 
 <u>D25 to D77</u>
+
 Not yet tried.
 
 <u>D78 Sweetie</u>
@@ -76,22 +79,26 @@ Not yet tried.
 <u>D88</u>
 
 <u>D101</u>
+
 Also likes to be passed off as 'red prawn'.
 - Insanely sharp thorns; probably one of the sharpest in my opinion. Get ready to bleed
 
 <u>D160 Tekka</u>
+
 Also known as Green Bamboo (Tekka in Hokkien), Musang Queen.
 
 <u>D162 Tawa</u>
 
 
 <u>D163 Hor Lor</u>
+
 Name is Hokkien for gourd.
 
 <u>D165 Green Skin 15</u>
 
 
 <u>D175 Red Prawn</u>
+
 Also known as Penang Red Prawn ('True Red Prawn').
 
 
@@ -101,6 +108,7 @@ Also known as Penang Red Prawn ('True Red Prawn').
 
 
 <u>D197 Musang King</u>
+
 猫山王, Blackgold, King of kings, Butter King, Old Tree...
 Really needs no elaboration.
 
@@ -108,6 +116,7 @@ Really needs no elaboration.
 
 
 <u>D199 Bola</u>
+
 Also known as Football, Bola, or 美球 (Beautiful Ball).
 
 <u>D200 Black Thorn</u>
@@ -117,11 +126,13 @@ Also known as Football, Bola, or 美球 (Beautiful Ball).
 
 
 <u>D212 S17</u>
+
 S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi).
 
 <u>**Not Mardi registered cultivars**</u>
 
 <u>**Penang Varieties**</u>
+
 <u>Khun Poh and Xiao Hong</u>
 
 <u>Dong Lai</u>
@@ -129,6 +140,7 @@ S17 is really what it is most commonly known by. Also known as 'D17' (but it's n
 <u>Capri</u>
 
 <u>**Other Varieties**</u>
+
 <u>Envy Flower 羡慕花</u>
 
 
