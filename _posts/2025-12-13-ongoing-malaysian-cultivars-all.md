@@ -269,7 +269,7 @@ From Penang. Okay, actually, I may not have managed to try the real Tupai King. 
 <img src="/assets/images/ongoingmycultivars/donglai3.jpg" class="small-img" alt="dong lai durian">
 <img src="/assets/images/ongoingmycultivars/donglai4.jpg" class="small-img" alt="dong lai durian">
 
-A Johor cultivar, 东来 (Dong Lai or Come East) is also known as 'Pineapple durian', because of the orange and yellow colour hues on the husk.
+A Johor cultivar, Dong Lai (东来 means Come East) is also known as 'Pineapple durian', because of the orange and yellow colour hues on the husk.
 - Basically tastes like Khun Poh / Xiao Hong, orange citrus taste
 - Difference mainly in texture; Dong Lai is much dryer and more suitable for transport
 
@@ -311,7 +311,7 @@ A Penang cultivar. Well known among durian enthusiasts for its strong bitterness
 <img src="/assets/images/ongoingmycultivars/envy3.jpg" class="small-img" alt="envy flower durian">
 <img src="/assets/images/ongoingmycultivars/envy4.jpg" class="small-img" alt="envy flower durian">
 
-Xian Mu Hua (羡慕花, which means Envy Flower) is a Johor variety. Known to be rare, because of the limited trees.
+Xian Mu Hua (羡慕花 means Envy Flower) is a Johor variety. Known to be rare, because of the limited trees.
 - White flesh
 - Very floral in smell and taste
 - Taste kind of reminds me of a less bitter and less strong Capri
