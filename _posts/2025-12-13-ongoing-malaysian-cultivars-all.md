@@ -106,7 +106,7 @@ So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort
 Also likes to be passed off as 'red prawn'.
 - Insanely sharp thorns; probably one of the sharpest in my opinion. Get ready to bleed :(
 - Tastes sweet to mild bittersweet
-- With a milky aftertaste
+- With a milky aftertaste, reminds me of a white rabbit candy
 
 
 <u>D160 Tekka</u>
