@@ -79,6 +79,18 @@ Wrote a much longer article on it here:
 
 <u>D88</u>
 
+<img src="/assets/images/ongoingmycultivars/d88a.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88b.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88c.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88d.jpg" class="small-img" alt="d88 durian">
+
+So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort of similar, I guess
+- Very fleshy and meaty; you will likely be full just from 1 fruit (that is a very distinctive feature of this cultivar for me, very value-for-money)
+- Yellow meat in general (whereas D24 is more white-ish)
+- Can be fermented sometimes
+- Bittersweeet to medium bitter
+- Does not have the vanilla taste of D24, in my opinion (that would be a key difference to D24, besides the sharpness of D24 thorns)
+
 <u>D101</u>
 
 <img src="/assets/images/ongoingmycultivars/d101a.jpg" class="small-img" alt="d101 durian">
@@ -157,7 +169,13 @@ Really needs no elaboration.
 
 <u>D199 Bola</u>
 
+<img src="/assets/images/ongoingmycultivars/d199a.jpg" class="small-img" alt="d199 durian">
+<img src="/assets/images/ongoingmycultivars/d199b.jpg" class="small-img" alt="d199 durian">
+
 Also known as Football or 美球 (Beautiful Ball).
+- Ball shape as per the name
+- Bittersweet to mild bitter
+- Fleshy pasty texture
 
 <u>D200 Black Thorn</u>
 
