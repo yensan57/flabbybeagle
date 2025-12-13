@@ -24,6 +24,7 @@ It generally heralds the start of the Johor season, as its fruits fall first.
 - Seeds small tadpole shaped, just like Black Pearl
 - Tastes mild bittersweet; I consider it a very light flavour, like D163 Hor Lor
 
+
 <u>D2 Dato Nina</u>
 
 <img src="/assets/images/ongoingmycultivars/d2a.jpg" class="small-img" alt="d2 durian">
@@ -38,6 +39,7 @@ Also known as Dream Lover.
 - Good ones are quite fermented
 - Medium bittersweet
 
+
 <u>D13</u>
 
 <img src="/assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
@@ -48,6 +50,7 @@ Also known as Dream Lover.
 Also known as 'Johor Red Prawn'.
 - Generally sweet to bittersweet
 - Generally big seeds
+
 
 <u>D24</u>
 
@@ -68,6 +71,7 @@ Wrote a much longer article on it here:
 - D24 has very sharp thorns; if your hands slip you will probably bleed
 - A good D24 tastes like vanilla; a good Johor XO tastes like sweet alcohol with egg-yolk texture
 
+
 <u>D78 Sweetie</u>
 
 <img src="/assets/images/ongoingmycultivars/d78a.jpg" class="small-img" alt="d78 durian">
@@ -76,6 +80,7 @@ Wrote a much longer article on it here:
 
 - Bittersweet
 - Dry texture
+
 
 <u>D88</u>
 
@@ -91,6 +96,7 @@ So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort
 - Bittersweeet to medium bitter
 - Does not have the vanilla taste of D24, in my opinion (that would be a key difference to D24, besides the sharpness of D24 thorns)
 
+
 <u>D101</u>
 
 <img src="/assets/images/ongoingmycultivars/d101a.jpg" class="small-img" alt="d101 durian">
@@ -101,6 +107,7 @@ Also likes to be passed off as 'red prawn'.
 - Insanely sharp thorns; probably one of the sharpest in my opinion. Get ready to bleed :(
 - Tastes sweet to mild bittersweet
 - With a milky aftertaste
+
 
 <u>D160 Tekka</u>
 
@@ -115,6 +122,7 @@ Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among duria
 - Floral
 - Taste profile ranges from bittersweet to medium bitter
 
+
 <u>D162 Tawa</u>
 
 <img src="/assets/images/ongoingmycultivars/d162a.jpg" class="small-img" alt="d162 durian">
@@ -126,6 +134,7 @@ Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among duria
 - Taste-wise had complex bitterness
 - Mild fermentation
 
+
 <u>D163 Hor Lor</u>
 
 <img src="/assets/images/ongoingmycultivars/d163a.jpg" class="small-img" alt="d163 durian">
@@ -135,6 +144,7 @@ Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among duria
 Name is Hokkien for gourd.
 - Gourd-like shape as per the name
 - Light flavour; one of the lightest in my opinion and not suitable for non-beginners
+
 
 <u>D164 Khun Poh and Xiao Hong</u>
 
@@ -152,7 +162,12 @@ I tried both, side by side, as seen in the pictures. Personally, I was unable to
 <u>D175 Red Prawn</u>
 
 Also known as Penang Red Prawn ('True Red Prawn').
-
+- Rugby shape
+- Usually ash gray husk colour (not because it is not fresh)
+- Bittersweet
+- Frequently has fermentation
+- Low meat yield. The inner stem fibre takes up so much space
+- Weak thorns
 
 
 <u>D196 Simpang Permata</u>
@@ -167,12 +182,26 @@ Johor variety that is not common.
 - Slightly fermented
 - Quite a lot of fleshy meat
 
+
 <u>D197 Musang King</u>
 
-猫山王, Blackgold, King of kings, Butter King, Old Tree...
-Really needs no elaboration.
+猫山王, Blackgold, King of kings, Butter King, Old Tree... Really needs no elaboration. I must say that MSW has a very wide variety of tastes, textures, seeds, and costs, but the one thing that is common is always the star pattern.
+- Easy to recognise from the star pattern at base
+- Yellow (never white flesh)
+- Quite bald in terms of thorns at the crown area
+- Ranges from sweet to bitter
+- Ranges from small to big seed
+- Ranges from fibrous to wet (for blackgold)
+
 
 <u>D198 Golden Phoenix</u>
+
+An expensive variety, but Golden Phoenix has one of the highest meat yield ratios, due to its very small seed
+- Tiny tiny seeds
+- Bittersweet to medium complex bitter
+- Round shape, usually small in size (<2kg)
+- White flesh
+- Thorns converge into a rose at the base
 
 
 <u>D199 Bola</u>
@@ -185,7 +214,16 @@ Also known as Football or 美球 (Beautiful Ball).
 - Bittersweet to mild bitter
 - Fleshy pasty texture
 
+
 <u>D200 Black Thorn</u>
+
+The most expensive accessible cultivar now (other than Tupai King but it isn't easily accessible).
+- Obvious pumpkin shape; big and heavy usually
+- Star pattern below and remains of the black stigma sometimes
+- Bumpy orange inner stem fibre just like D160 Tekka (but unlike Tekka, easy to open)
+- Complex bittersweet
+- Usually very creamy and thick flesh (very filling)
+- Good ones have bruising with fermentation
 
 
 <u>D211 Kasap Merah</u>
@@ -200,9 +238,14 @@ Also known as Ice Cream Durian
 - Wet-ish texture
 - I think flavour profile varies; the one I had was quite bitter and had garlic aftertaste like Capri
 
+
 <u>D212 S17</u>
 
-S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi).
+S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi), or Coffee Durian due to its taste profile.
+- Rugged husk look (rugged like Capri and Tawa)
+- Tastes like soy bean to me (I have never tasted the 'coffee')
+- Generally big seeds
+
 
 <u>D214 Tupai King</u>
 
@@ -217,6 +260,7 @@ Okay, actually, I may not have managed to try the real Tupai King. Apparently ac
 - Leaves long lasting sharp bitterness inside mouth
 - Above medium level bitterness
 - Very floral at the same time
+
 
 <u>D232 Dong Lai</u>
 
@@ -246,6 +290,7 @@ I have not eaten enough to know what exactly are the differences or how to disti
 - First 3 pictures belong to a yellow flesh GS with strong bitterness
 - Last picture is a white flesh GS that is very mild bitter, from another seller
 
+
 <u>Capri</u>
 
 <img src="/assets/images/ongoingmycultivars/capri1.jpg" class="small-img" alt="capri durian">
@@ -257,6 +302,7 @@ A Penang cultivar. Well known among durian enthusiasts for its strong bitterness
 - Unique rugged look
 - Above medium bitterness
 - In my opinion, tastes very garlicky, with an aftertaste just like a strong garlic; actually not my personal preference
+
 
 <u>Envy Flower 羡慕花</u>
 
