@@ -13,10 +13,10 @@ Hence can also give my own personal views on each variety. Naturally different p
 
 <u>D1 江海 (Gang Hai)</u>
 
-<img src="assets/images/ongoingmycultivars/d1a.jpg" class="small-img" alt="d1 durian">
-<img src="assets/images/ongoingmycultivars/d1b.jpg" class="small-img" alt="d1 durian">
-<img src="assets/images/ongoingmycultivars/d1c.jpg" class="small-img" alt="d1 durian">
-<img src="assets/images/ongoingmycultivars/d1d.jpg" class="small-img" alt="d1 durian">
+<img src="/assets/images/ongoingmycultivars/d1a.jpg" class="small-img" alt="d1 durian">
+<img src="/assets/images/ongoingmycultivars/d1b.jpg" class="small-img" alt="d1 durian">
+<img src="/assets/images/ongoingmycultivars/d1c.jpg" class="small-img" alt="d1 durian">
+<img src="/assets/images/ongoingmycultivars/d1d.jpg" class="small-img" alt="d1 durian">
 
 It generally heralds the start of the Johor season, since its fruits fall first.
 - Seeds small tadpole shaped, just like Black Pearl
@@ -24,11 +24,11 @@ It generally heralds the start of the Johor season, since its fruits fall first.
 
 <u>D2 Dato Nina</u>
 
-<img src="assets/images/ongoingmycultivars/d2a.jpg" class="small-img" alt="d2 durian">
-<img src="assets/images/ongoingmycultivars/d2b.jpg" class="small-img" alt="d2 durian">
-<img src="assets/images/ongoingmycultivars/d2c.jpg" class="small-img" alt="d2 durian">
-<img src="assets/images/ongoingmycultivars/d2d.jpg" class="small-img" alt="d2 durian">
-<img src="assets/images/ongoingmycultivars/d2e.jpg" class="small-img" alt="d2 durian">
+<img src="/assets/images/ongoingmycultivars/d2a.jpg" class="small-img" alt="d2 durian">
+<img src="/assets/images/ongoingmycultivars/d2b.jpg" class="small-img" alt="d2 durian">
+<img src="/assets/images/ongoingmycultivars/d2c.jpg" class="small-img" alt="d2 durian">
+<img src="/assets/images/ongoingmycultivars/d2d.jpg" class="small-img" alt="d2 durian">
+<img src="/assets/images/ongoingmycultivars/d2e.jpg" class="small-img" alt="d2 durian">
 
 Also known as Dream Lover.
 - Long-ish shape
@@ -43,11 +43,11 @@ Not yet tried.
 
 <u>D13</u>
 
-<img src="assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
-<img src="assets/images/ongoingmycultivars/d13b.jpg" class="small-img" alt="d13 durian">
-<img src="assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
-<img src="assets/images/ongoingmycultivars/d13d.jpg" class="small-img" alt="d13 durian">
-<img src="assets/images/ongoingmycultivars/d13e.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13b.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13d.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13e.jpg" class="small-img" alt="d13 durian">
 
 Also known as 'Johor Red Prawn'.
 - Generally sweet to bittersweet
