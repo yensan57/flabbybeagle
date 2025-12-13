@@ -11,7 +11,7 @@ And also easily lets me see what I haven't tried (which is the massively longer 
 
 Starts in numerical 'D' order, followed by other varieties not registered with the Malaysian Agricultural Research and Development Institute (Mardi)
 
-Since listed here are those I have personally tried, I also give my own personal views on each variety. Take it with a pinch of salt; naturally different people have their own opinions and taste preferences.
+Since listed here are those I have personally tried, I also give my own personal views on each variety. Take it with a pinch of salt; naturally everyone has their own opinions and taste preferences.
 
 <u>D1 江海 (Gang Hai)</u>
 
