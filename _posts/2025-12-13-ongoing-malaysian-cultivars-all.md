@@ -85,7 +85,13 @@ Also known as Green Bamboo (Tekka in Hokkien), Musang Queen.
 
 <u>D163 Hor Lor</u>
 
+<img src="/assets/images/ongoingmycultivars/d163a.jpg" class="small-img" alt="d163 durian">
+<img src="/assets/images/ongoingmycultivars/d163b.jpg" class="small-img" alt="d163 durian">
+<img src="/assets/images/ongoingmycultivars/d163c.jpg" class="small-img" alt="d163 durian">
+
 Name is Hokkien for gourd.
+- Gourd-like shape as per the name
+- Light flavour; one of the lightest in my opinion and not suitable for non-beginners
 
 <u>D165 Green Skin 15</u>
 
@@ -110,7 +116,7 @@ Really needs no elaboration.
 
 <u>D199 Bola</u>
 
-Also known as Football, Bola, or 美球 (Beautiful Ball).
+Also known as Football or 美球 (Beautiful Ball).
 
 <u>D200 Black Thorn</u>
 
@@ -122,13 +128,24 @@ Also known as Football, Bola, or 美球 (Beautiful Ball).
 
 S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi).
 
+<u>D232 Dong Lai</u>
+
+<img src="/assets/images/ongoingmycultivars/donglai1.jpg" class="small-img" alt="dong lai durian">
+<img src="/assets/images/ongoingmycultivars/donglai2.jpg" class="small-img" alt="dong lai durian">
+<img src="/assets/images/ongoingmycultivars/donglai3.jpg" class="small-img" alt="dong lai durian">
+<img src="/assets/images/ongoingmycultivars/donglai4.jpg" class="small-img" alt="dong lai durian">
+
+A Johor cultivar, 东来 (Dong Lai or Come East), also known as 'Pineapple durian', because of the orange and yellow colour hues on the husk.
+- Basically tastes like Khun Poh / Xiao Hong, orange citrus taste
+- Difference mainly in texture; Dong Lai is much dryer and more suitable for transport
+
+
+
 <u><strong>Not Mardi registered cultivars</strong></u>
 
 <u><strong>Penang Varieties</strong></u>
 
 <u>Khun Poh and Xiao Hong</u>
-
-<u>Dong Lai</u>
 
 <u>Capri</u>
 
