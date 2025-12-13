@@ -136,6 +136,15 @@ S17 is really what it is most commonly known by. Also known as 'D17' (but it's n
 
 <u>Envy Flower 羡慕花</u>
 
+<img src="/assets/images/ongoingmycultivars/envy1.jpg" class="small-img" alt="envy flower durian">
+<img src="/assets/images/ongoingmycultivars/envy2.jpg" class="small-img" alt="envy flower durian">
+<img src="/assets/images/ongoingmycultivars/envy3.jpg" class="small-img" alt="envy flower durian">
+<img src="/assets/images/ongoingmycultivars/envy4.jpg" class="small-img" alt="envy flower durian">
+
+I am guessing it is a Johor variety. Known to be rare, because of the limited trees.
+- White flesh
+- Very floral in smell and taste
+- Taste kind of reminds me of a less bitter and less strong Capri
 
 
 
