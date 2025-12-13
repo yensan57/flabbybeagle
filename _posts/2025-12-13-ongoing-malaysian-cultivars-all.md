@@ -2,7 +2,7 @@
 layout: post
 title: "Ongoing Documentation - Malaysian Cultivars"
 date: 2025-10-12
-thumbnail: /assets/images/2025-13-12/xxx.jpg
+thumbnail: /assets/images/ongoingmycultivars/collage.jpg
 ---
 
 This is an ongoing WIP document, mainly for my own personal records of what Malaysian durian cultivars I've personally tried. 
@@ -12,6 +12,7 @@ Starting in numerical 'D' order, followed by other varieties not registered with
 Hence can also give my own personal views on each variety. Naturally different people and tastes will feel differently from me.
 
 <u>D1 江海 (Gang Hai)</u>
+
 <img src="assets/images/ongoingmycultivars/d1a.jpg" class="small-img" alt="d1 durian">
 <img src="assets/images/ongoingmycultivars/d1b.jpg" class="small-img" alt="d1 durian">
 <img src="assets/images/ongoingmycultivars/d1c.jpg" class="small-img" alt="d1 durian">
@@ -22,6 +23,7 @@ It generally heralds the start of the Johor season, since its fruits fall first.
 - Tastes mild bittersweet; I consider it a very light flavour, like D163 Hor Lor
 
 <u>D2 Dato Nina</u>
+
 <img src="assets/images/ongoingmycultivars/d2a.jpg" class="small-img" alt="d2 durian">
 <img src="assets/images/ongoingmycultivars/d2b.jpg" class="small-img" alt="d2 durian">
 <img src="assets/images/ongoingmycultivars/d2c.jpg" class="small-img" alt="d2 durian">
@@ -39,6 +41,7 @@ Also known as Dream Lover.
 Not yet tried.
 
 <u>D13</u>
+
 <img src="assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
 <img src="assets/images/ongoingmycultivars/d13b.jpg" class="small-img" alt="d13 durian">
 <img src="assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
@@ -53,6 +56,7 @@ Also known as 'Johor Red Prawn'.
 Not yet tried.
 
 <u>D24</u>
+
 <img src="/assets/images/2025-10-12/d24_2.jpg" class="small-img" alt="d24 durian">
 <img src="/assets/images/2025-10-12/d24_1.jpg" class="small-img" alt="d24 durian">
 <img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
