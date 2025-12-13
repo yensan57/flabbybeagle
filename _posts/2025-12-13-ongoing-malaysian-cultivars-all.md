@@ -181,20 +181,16 @@ A Johor cultivar, 东来 (Dong Lai or Come East) is also known as 'Pineapple dur
 
 <u><strong>Not Mardi registered cultivars</strong></u>
 
-<u><strong>Penang Varieties</strong></u>
-
 <u>Capri</u>
 
 <img src="/assets/images/ongoingmycultivars/capri1.jpg" class="small-img" alt="capri durian">
 <img src="/assets/images/ongoingmycultivars/capri2.jpg" class="small-img" alt="capri durian">
 <img src="/assets/images/ongoingmycultivars/capri3.jpg" class="small-img" alt="capri durian">
 
-Well known among durian enthusiasts for its strong bitterness.
+A Penang cultivar. Well known among durian enthusiasts for its strong bitterness.
 - Unique rugged look
 - Above medium bitterness
 - In my opinion, tastes very garlicky, with an aftertaste just like a strong garlic; actually not my personal preference
-
-<u><strong>Other Varieties</strong></u>
 
 <u>Envy Flower 羡慕花</u>
 
