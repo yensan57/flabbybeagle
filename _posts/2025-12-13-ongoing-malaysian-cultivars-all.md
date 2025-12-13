@@ -38,10 +38,6 @@ Also known as Dream Lover.
 - Good ones are quite fermented
 - Medium bittersweet
 
-<u>D3 to D12</u>
-
-Not yet tried.
-
 <u>D13</u>
 
 <img src="/assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
@@ -52,10 +48,6 @@ Not yet tried.
 Also known as 'Johor Red Prawn'.
 - Generally sweet to bittersweet
 - Generally big seeds
-
-<u>D14 to D23</u>
-
-Not yet tried.
 
 <u>D24</u>
 
@@ -75,12 +67,7 @@ Wrote a much longer article on it here:
 
 - Very sharp thorns; if your hands slip you will probably bleed
 
-<u>D25 to D77</u>
-
-Not yet tried.
-
 <u>D78 Sweetie</u>
-
 
 <u>D88</u>
 
