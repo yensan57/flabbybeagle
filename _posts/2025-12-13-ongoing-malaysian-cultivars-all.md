@@ -161,6 +161,11 @@ I tried both, side by side, as seen in the pictures. Personally, I was unable to
 
 <u>D175 Red Prawn</u>
 
+<img src="/assets/images/ongoingmycultivars/d175a.jpg" class="small-img" alt="red prawn durian">
+<img src="/assets/images/ongoingmycultivars/d175b.jpg" class="small-img" alt="red prawn durian">
+<img src="/assets/images/ongoingmycultivars/d175c.jpg" class="small-img" alt="red prawn durian">
+<img src="/assets/images/ongoingmycultivars/d175d.jpg" class="small-img" alt="red prawn durian">
+
 Also known as Penang Red Prawn ('True Red Prawn').
 - Rugby shape
 - Usually ash gray husk colour (not because it is not fresh)
@@ -185,6 +190,11 @@ Johor variety that is not common.
 
 <u>D197 Musang King</u>
 
+<img src="/assets/images/ongoingmycultivars/d197a.jpg" class="small-img" alt="musang king durian">
+<img src="/assets/images/ongoingmycultivars/d197b.jpg" class="small-img" alt="musang king durian">
+<img src="/assets/images/ongoingmycultivars/d197c.jpg" class="small-img" alt="musang king durian">
+<img src="/assets/images/ongoingmycultivars/d197d.jpg" class="small-img" alt="musang king durian">
+
 猫山王, Blackgold, King of kings, Butter King, Old Tree... Really needs no elaboration. Grown everywhere, but I think most people prefer the Pahang ones. I must say that MSW has a very wide variety of tastes, textures, seeds, and costs, but the one thing that is common is always the star pattern.
 - Easy to recognise from the star pattern at base
 - Yellow (never white flesh)
@@ -195,6 +205,11 @@ Johor variety that is not common.
 
 
 <u>D198 Golden Phoenix</u>
+
+<img src="/assets/images/ongoingmycultivars/d198a.jpg" class="small-img" alt="golden phoenix durian">
+<img src="/assets/images/ongoingmycultivars/d198b.jpg" class="small-img" alt="golden phoenix durian">
+<img src="/assets/images/ongoingmycultivars/d198c.jpg" class="small-img" alt="golden phoenix durian">
+<img src="/assets/images/ongoingmycultivars/d198d.jpg" class="small-img" alt="golden phoenix durian">
 
 Usually from Johor. An expensive variety, but Golden Phoenix has one of the highest meat yield ratios, due to its very small seed
 - Tiny tiny seeds
@@ -216,6 +231,11 @@ From Johor. Also known as Football or 美球 (Beautiful Ball).
 
 
 <u>D200 Black Thorn</u>
+
+<img src="/assets/images/ongoingmycultivars/d200a.jpg" class="small-img" alt="black thorn durian">
+<img src="/assets/images/ongoingmycultivars/d200b.jpg" class="small-img" alt="black thorn durian">
+<img src="/assets/images/ongoingmycultivars/d200c.jpg" class="small-img" alt="black thorn durian">
+<img src="/assets/images/ongoingmycultivars/d200d.jpg" class="small-img" alt="black thorn durian">
 
 From Penang. The most expensive accessible cultivar now (other than Tupai King but it isn't easily accessible).
 - Obvious pumpkin shape; big and heavy usually
@@ -240,6 +260,11 @@ From Johor. Also known as Ice Cream Durian
 
 
 <u>D212 S17</u>
+
+<img src="/assets/images/ongoingmycultivars/s17a.jpg" class="small-img" alt="s17 durian">
+<img src="/assets/images/ongoingmycultivars/s17b.jpg" class="small-img" alt="s17 durian">
+<img src="/assets/images/ongoingmycultivars/s17c.jpg" class="small-img" alt="s17 durian">
+<img src="/assets/images/ongoingmycultivars/s17d.jpg" class="small-img" alt="s17 durian">
 
 From Johor. S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi), or Coffee Durian due to its taste profile.
 - Rugged husk look (rugged like Capri and Tawa)
@@ -317,4 +342,38 @@ Xian Mu Hua (羡慕花 means Envy Flower) is a Johor variety. Known to be rare, 
 - Taste kind of reminds me of a less bitter and less strong Capri
 
 
+<u>Kim Leng</u>
 
+<img src="/assets/images/ongoingmycultivars/kl1.jpg" class="small-img" alt="kim leng durian">
+<img src="/assets/images/ongoingmycultivars/kl2.jpg" class="small-img" alt="kim leng durian">
+<img src="/assets/images/ongoingmycultivars/kl3.jpg" class="small-img" alt="kim leng durian">
+<img src="/assets/images/ongoingmycultivars/kl4.jpg" class="small-img" alt="kim leng durian">
+
+From Penang. Kim Leng (金龙, or Kim Leng in Hokkien, means golden dragon) 
+- Long-ish shape
+- Nicely complex bittersweet
+
+
+<u>Black Pearl</u>
+
+<img src="/assets/images/ongoingmycultivars/bp1.jpg" class="small-img" alt="black pearl durian">
+<img src="/assets/images/ongoingmycultivars/bp2.jpg" class="small-img" alt="black pearl durian">
+<img src="/assets/images/ongoingmycultivars/bp3.jpg" class="small-img" alt="black pearl durian">
+
+From Johor. 黑珍珠 means Black Pearl; also known as 太原 Taiyuan.
+- Seeds classically tadpole shaped, similar to D1 Gang Hai
+- White flesh
+- Long-ish shape
+- Mildly bitter
+
+
+<u>Glutinous Rice</u>
+
+<img src="/assets/images/ongoingmycultivars/gr1.jpg" class="small-img" alt="glutinous rice durian">
+<img src="/assets/images/ongoingmycultivars/gr2.jpg" class="small-img" alt="glutinous rice durian">
+<img src="/assets/images/ongoingmycultivars/gr3.jpg" class="small-img" alt="glutinous rice durian">
+
+From Johor. 糯米 in Chinese
+- White flesh
+- Sticky and thick flesh exactly like the name suggests
+- Mildly bitter
