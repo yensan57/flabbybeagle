@@ -104,7 +104,7 @@ So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort
 <img src="/assets/images/ongoingmycultivars/d101c.jpg" class="small-img" alt="d101 durian">
 
 Also likes to be passed off as 'red prawn'.
-- Insanely sharp thorns; probably one of the sharpest in my opinion. Get ready to bleed :(
+- Insanely sharp thorns; probably one of the sharpest in my opinion. Looks dangerous and is dangerous; get ready to bleed if not careful.
 - Tastes sweet to mild bittersweet
 - With a milky aftertaste, reminds me of a white rabbit candy
 
