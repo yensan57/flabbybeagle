@@ -45,7 +45,7 @@ Also known as Dream Lover.
 <img src="/assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
 <img src="/assets/images/ongoingmycultivars/d13b.jpg" class="small-img" alt="d13 durian">
 <img src="/assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
-<img src="/assets/images/ongoingmycultivars/d13d.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13e.jpg" class="small-img" alt="d13 durian">
 
 Also known as 'Johor Red Prawn'.
 - Generally sweet to bittersweet
@@ -138,9 +138,10 @@ Also known as Green Bamboo (Tekka in Hokkien), Musang Queen. Popular among duria
 
 <u>D163 Hor Lor</u>
 
-<img src="/assets/images/ongoingmycultivars/d163a.jpg" class="small-img" alt="d163 durian">
-<img src="/assets/images/ongoingmycultivars/d163b.jpg" class="small-img" alt="d163 durian">
-<img src="/assets/images/ongoingmycultivars/d163c.jpg" class="small-img" alt="d163 durian">
+<img src="/assets/images/ongoingmycultivars/d163a.jpg" class="small-img" alt="d163 hor lor durian">
+<img src="/assets/images/ongoingmycultivars/d163b.jpg" class="small-img" alt="d163 hor lor durian">
+<img src="/assets/images/ongoingmycultivars/d163c.jpg" class="small-img" alt="d163 hor lor durian">
+<img src="/assets/images/ongoingmycultivars/d163d.jpg" class="small-img" alt="d163 hor lor durian">
 
 Name is Hokkien for gourd. From Penang.
 - Gourd-like shape as per the name
@@ -163,8 +164,8 @@ I tried both, side by side, as seen in the pictures. Personally, I was unable to
 <u>D175 Red Prawn</u>
 
 <img src="/assets/images/ongoingmycultivars/d175a.jpg" class="small-img" alt="red prawn durian">
+<img src="/assets/images/ongoingmycultivars/d175e.jpg" class="small-img" alt="red prawn durian">
 <img src="/assets/images/ongoingmycultivars/d175b.jpg" class="small-img" alt="red prawn durian">
-<img src="/assets/images/ongoingmycultivars/d175c.jpg" class="small-img" alt="red prawn durian">
 <img src="/assets/images/ongoingmycultivars/d175d.jpg" class="small-img" alt="red prawn durian">
 
 Also known as Penang Red Prawn ('True Red Prawn').
@@ -184,12 +185,13 @@ Also known as Penang Red Prawn ('True Red Prawn').
 
 Johor variety that is not common.
 - Bittersweet
+- Mildly fermented
 
 
 <u>D197 Musang King</u>
 
 <img src="/assets/images/ongoingmycultivars/d197a.jpg" class="small-img" alt="musang king durian">
-<img src="/assets/images/ongoingmycultivars/d197b.jpg" class="small-img" alt="musang king durian">
+<img src="/assets/images/ongoingmycultivars/d197e.jpg" class="small-img" alt="musang king durian">
 <img src="/assets/images/ongoingmycultivars/d197c.jpg" class="small-img" alt="musang king durian">
 <img src="/assets/images/ongoingmycultivars/d197d.jpg" class="small-img" alt="musang king durian">
 
@@ -205,9 +207,9 @@ Johor variety that is not common.
 <u>D198 Golden Phoenix</u>
 
 <img src="/assets/images/ongoingmycultivars/d198a.jpg" class="small-img" alt="golden phoenix durian">
+<img src="/assets/images/ongoingmycultivars/d198e.jpg" class="small-img" alt="golden phoenix durian">
 <img src="/assets/images/ongoingmycultivars/d198b.jpg" class="small-img" alt="golden phoenix durian">
 <img src="/assets/images/ongoingmycultivars/d198c.jpg" class="small-img" alt="golden phoenix durian">
-<img src="/assets/images/ongoingmycultivars/d198d.jpg" class="small-img" alt="golden phoenix durian">
 
 Usually from Johor. An expensive variety, but Golden Phoenix has one of the highest meat yield ratios, due to its very small seed
 - Tiny tiny seeds
@@ -221,6 +223,7 @@ Usually from Johor. An expensive variety, but Golden Phoenix has one of the high
 
 <img src="/assets/images/ongoingmycultivars/d199a.jpg" class="small-img" alt="d199 durian">
 <img src="/assets/images/ongoingmycultivars/d199b.jpg" class="small-img" alt="d199 durian">
+<img src="/assets/images/ongoingmycultivars/d199c.jpg" class="small-img" alt="d199 durian">
 
 From Johor. Also known as Football or 美球 (Beautiful Ball).
 - Ball shape as per the name
