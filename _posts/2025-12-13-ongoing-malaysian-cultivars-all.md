@@ -240,7 +240,7 @@ From Johor. Also known as Football or 美球 (Beautiful Ball).
 
 From Penang. The most expensive accessible cultivar now (other than Tupai King but it isn't easily accessible).
 - Obvious pumpkin shape; big and heavy usually
-- Star pattern below and remains of the black stigma sometimes
+- Star pattern below with occasional visible remains of the black stigma (the 'black thorn')
 - Bumpy orange inner stem fibre just like D160 Tekka (but unlike Tekka, easy to open)
 - Complex bittersweet
 - Usually very creamy and thick flesh (very filling)
