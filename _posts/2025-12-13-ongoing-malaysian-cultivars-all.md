@@ -77,9 +77,9 @@ Wrote a much longer article on it here:
 <img src="/assets/images/ongoingmycultivars/d78a.jpg" class="small-img" alt="d78 durian">
 <img src="/assets/images/ongoingmycultivars/d78b.jpg" class="small-img" alt="d78 durian">
 <img src="/assets/images/ongoingmycultivars/d78c.jpg" class="small-img" alt="d78 durian">
+<img src="/assets/images/ongoingmycultivars/d78d.jpg" class="small-img" alt="d78 durian">
 
 - Bittersweet
-- Dry texture
 
 
 <u>D88</u>
@@ -180,7 +180,6 @@ Also known as Penang Red Prawn ('True Red Prawn').
 <img src="/assets/images/ongoingmycultivars/d196a.jpg" class="small-img" alt="d196 durian">
 <img src="/assets/images/ongoingmycultivars/d196b.jpg" class="small-img" alt="d196 durian">
 <img src="/assets/images/ongoingmycultivars/d196c.jpg" class="small-img" alt="d196 durian">
-<img src="/assets/images/ongoingmycultivars/d196d.jpg" class="small-img" alt="d196 durian">
 
 Johor variety that is not common.
 - Bittersweet
