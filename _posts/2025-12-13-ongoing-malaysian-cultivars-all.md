@@ -80,6 +80,7 @@ Wrote a much longer article on it here:
 <img src="/assets/images/ongoingmycultivars/d78e.jpg" class="small-img" alt="d78 durian">
 
 - Bittersweet
+- Slightly fermented
 
 
 <u>D88</u>
@@ -183,8 +184,6 @@ Also known as Penang Red Prawn ('True Red Prawn').
 
 Johor variety that is not common.
 - Bittersweet
-- Slightly fermented
-- Quite a lot of fleshy meat
 
 
 <u>D197 Musang King</u>
