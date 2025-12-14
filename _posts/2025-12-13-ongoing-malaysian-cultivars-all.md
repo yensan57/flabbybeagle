@@ -13,14 +13,14 @@ Starts in numerical 'D' order, followed by other varieties not registered with t
 
 Since listed here are those I have personally tried, I also give my own personal views on each variety. Take it with a pinch of salt; naturally everyone has their own opinions and taste preferences.
 
-<u>D1 江海 (Gang Hai)</u>
+<u>D1 Gang Hai</u>
 
 <img src="/assets/images/ongoingmycultivars/d1a.jpg" class="small-img" alt="d1 durian">
 <img src="/assets/images/ongoingmycultivars/d1b.jpg" class="small-img" alt="d1 durian">
 <img src="/assets/images/ongoingmycultivars/d1c.jpg" class="small-img" alt="d1 durian">
 <img src="/assets/images/ongoingmycultivars/d1d.jpg" class="small-img" alt="d1 durian">
 
-It generally heralds the start of the Johor season, as its fruits fall first.
+Gang Hai / Jiang Hai (江海 means river sea), generally heralds the start of the Johor season, as its fruits fall first.
 - Seeds small tadpole shaped, just like Black Pearl
 - Tastes mild bittersweet; I consider it a very light flavour, like D163 Hor Lor
 
