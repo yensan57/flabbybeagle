@@ -337,7 +337,7 @@ I have not eaten enough to know what exactly are the differences or how to disti
 <img src="/assets/images/2025-10-12/20251012_175622_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
-<img src="/assets/images/2025-10-12/20251012_182101_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/20251012_183139.jpg" class="small-img" alt="johor_xo">
 
 Apparently, true Johor XO is likely a different cultivar from D24 / D24XO. Also known as 六两肉 (six two meat), and is from Labis Johor.
 Read more about Johor XO in this longer article: 
