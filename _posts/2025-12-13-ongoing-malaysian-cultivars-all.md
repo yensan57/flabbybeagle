@@ -349,6 +349,7 @@ Read more about Johor XO in this longer article:
 - A good Johor XO tastes like sweet alcohol with egg-yolk texture
 - Small seeds that are soft and easily squished
 
+
 <u>Capri</u>
 
 <img src="/assets/images/ongoingmycultivars/capri1.jpg" class="small-img" alt="capri durian">
