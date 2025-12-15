@@ -56,10 +56,10 @@ Also known as 'Johor Red Prawn'.
 
 <img src="/assets/images/2025-10-12/d24_2.jpg" class="small-img" alt="d24 durian">
 <img src="/assets/images/2025-10-12/d24_1.jpg" class="small-img" alt="d24 durian">
-<img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
-<img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/d24.jpg" class="small-img" alt="d24">
+<img src="/assets/images/2025-10-12/d24_3.jpg" class="small-img" alt="d24">
 
-Also known as Sultan King, XO. Grown everywhere. Used to be the old 'Musang King' before Musang King was created.
+Also known as Sultan King, "XO", D24XO, XOD24. But there is a distinction between D24/D24XO and Johor XO. Apparently, Johor XO is possibly a different cultivar. As for D24, it is grown everywhere. And used to be the old 'Musang King' before Musang King was created. 
 
 Wrote a much longer article on it here: 
 <a href="{% post_url 2025-10-12-pahang-johor-d24-xo %}"
@@ -69,7 +69,9 @@ Wrote a much longer article on it here:
 </a>
 
 - D24 has very sharp thorns; if your hands slip you will probably bleed
-- A good D24 tastes like vanilla; a good Johor XO tastes like sweet alcohol with egg-yolk texture
+- A good D24 tastes like vanilla
+- Usually bigger seeds
+- Stereotype is that D24 ranges widely in quality and attributes; sometimes very yellow and sometimes very white flesh; sometimes very bitter sometimes mild; and apparently tastes better during rainy season and when the fruit is smaller
 
 
 <u>D78 Sweetie</u>
@@ -98,16 +100,17 @@ So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort
 - Does not have the vanilla taste of D24, in my opinion (that would be a key difference to D24, besides the sharpness of D24 thorns)
 
 
-<u>D101</u>
+<u>D123 Chanee</u>
 
-<img src="/assets/images/ongoingmycultivars/d101a.jpg" class="small-img" alt="d101 durian">
-<img src="/assets/images/ongoingmycultivars/d101b.jpg" class="small-img" alt="d101 durian">
-<img src="/assets/images/ongoingmycultivars/d101c.jpg" class="small-img" alt="d101 durian">
+<img src="/assets/images/ongoingmycultivars/d123a.jpg" class="small-img" alt="chanee durian">
+<img src="/assets/images/ongoingmycultivars/d123b.jpg" class="small-img" alt="chanee durian">
+<img src="/assets/images/ongoingmycultivars/d123c.jpg" class="small-img" alt="chanee durian">
+<img src="/assets/images/ongoingmycultivars/d123d.jpg" class="small-img" alt="chanee durian">
 
-Also likes to be passed off as 'red prawn'.
-- Insanely sharp thorns; probably one of the sharpest in my opinion. Looks dangerous and is dangerous; get ready to bleed if not careful.
-- Tastes sweet to mild bittersweet
-- With a milky aftertaste, reminds me of a white rabbit candy
+Originated from Thailand, seems it also has a Mardi registration, as it can also be grown in Malaysia and ripened and tree-dropped the usual Malaysian harvesting way. After awhile, the outer shape of Chanee is usually unmistakeable, given its very aggressive rugged shape.
+- Rugged and gourd-like husk shape, slightly like a S17 (but larger thorns than S17)
+- Usually tree-cut if from Thailand, so uneven ripening via chemical agents, or unripe
+- If ripe, can be very bitter, but seems to be a flat non-complex bitter
 
 
 <u>D160 Tekka</u>
@@ -161,6 +164,18 @@ I tried both, side by side, as seen in the pictures. Personally, I was unable to
 - Tastes like orange, really very unique, like eating an orange dessert
 
 
+<u>D168 D101</u>
+
+<img src="/assets/images/ongoingmycultivars/d101a.jpg" class="small-img" alt="d101 durian">
+<img src="/assets/images/ongoingmycultivars/d101b.jpg" class="small-img" alt="d101 durian">
+<img src="/assets/images/ongoingmycultivars/d101c.jpg" class="small-img" alt="d101 durian">
+
+Apparently, is Mardi registered as D168, but due to various reasons got known as D101, IOI (eye-oh-eye). D101 is the most common term for it. D101 in Mardi is another durian altogether. Also likes to be passed off as 'red prawn'.
+- Insanely sharp thorns; probably one of the sharpest in my opinion. Looks dangerous and is dangerous; get ready to bleed if not careful.
+- Tastes sweet to mild bittersweet
+- With a milky aftertaste, reminds me of a white rabbit candy
+
+
 <u>D175 Red Prawn</u>
 
 <img src="/assets/images/ongoingmycultivars/d175a.jpg" class="small-img" alt="red prawn durian">
@@ -195,7 +210,7 @@ Johor variety that is not common.
 <img src="/assets/images/ongoingmycultivars/d197c.jpg" class="small-img" alt="musang king durian">
 <img src="/assets/images/ongoingmycultivars/d197d.jpg" class="small-img" alt="musang king durian">
 
-猫山王, Blackgold, King of kings, Butter King, Old Tree... Really needs no elaboration. Grown everywhere, but I think most people prefer the Pahang ones. I must say that MSW has a very wide variety of tastes, textures, seeds, and costs, but the one thing that is common is always the star pattern.
+猫山王, 王中王, Blackgold, King of kings, Butter King, Raja Kunyit, Old Tree... Really needs no elaboration. Grown everywhere, but I think most people prefer the Pahang ones. I must say that MSW has a very wide variety of tastes, textures, seeds, and costs, but the one thing that is common is always the star pattern.
 - Easy to recognise from the star pattern at base
 - Yellow (never white flesh)
 - Quite bald in terms of thorns at the crown area
@@ -316,6 +331,23 @@ I have not eaten enough to know what exactly are the differences or how to disti
 - First 3 pictures belong to a yellow flesh GS with strong bitterness
 - Last picture is a white flesh GS that is very mildly bitter, from another seller
 
+
+<u>Johor XO</u>
+
+<img src="/assets/images/2025-10-12/20251012_175622_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/20251012_182101_small.jpg" class="small-img" alt="johor_xo">
+
+Apparently, true Johor XO is likely a different cultivar from D24 / D24XO. Also known as 六两肉 (six two meat), and is from Labis Johor.
+Read more about Johor XO in this longer article: 
+<a href="{% post_url 2025-10-12-pahang-johor-d24-xo %}"
+   target="_blank"
+   rel="noopener noreferrer">
+  Separate post about D24/XO
+</a>
+- A good Johor XO tastes like sweet alcohol with egg-yolk texture
+- Small seeds that are soft and easily squished
 
 <u>Capri</u>
 
