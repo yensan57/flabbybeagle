@@ -7,17 +7,13 @@ thumbnail: /assets/images/2025-10-12/d24_xo_photo_collage_small.jpg
 
 D24, XO, Pahang, Johor. There's also D24XO, what even is that? Sounds confusing? Not experts, but here we are sharing what we have learnt from hearing, reading, and eating of course, and hopefully it clears some things up.
 
-Firstly, XO and D24 and technically the same cultivar, i.e. D24, as per registered under the Malaysian Department of Agriculture. Same species, same botanical variety.
+Apparently, D24 and Johor XO are possibly different cultivars. With Johor XO not registered under Malaysian Agricultural Research and Development Institute (Mardi). D24 and Johor XO have vastly different taste profile categories and physical attributes.
 
-Yet because of different growing conditions (or other factors, but such secrets will only be known to the farmers), result in generally 2 vastly different taste profile categories.
-
-However, seller marketing strategies result in confusing naming sometimes, and potentially even mis-naming (same happens with Musang King D197).
-
-In our opinion, based on taste profiles, the only 2 real and vastly different taste-types are:
+The only 2 real and vastly different profiles (and likely cultivars) are:
 - D24 (aka 'Sultan')
 - Johor XO
 
-Then, whether it is A) grown in Pahang, Johor, or elsewhere, B) altitude, determines the quality and degree of fermentation.
+Meanwhile, D24 as per registered under Mardi, depending on geographical growing location (Pahang, Johor, or elsewhere) and quality (altitude), can be further classified into more taste and quality profiles (just like Musang King, Black Gold, Raja Kunyit, etc). And the more fermented versions of D24 get called things like D24XO, XOD24, which further confuses the relationship between D24 and Johor XO.
 
 (left is D24, right is Johor XO)
 
@@ -25,14 +21,14 @@ Then, whether it is A) grown in Pahang, Johor, or elsewhere, B) altitude, determ
 
 <u>Johor XO</u>
 
-Let us start with the Johor XO. As named, grown in Johor, which is lower altitude than Pahang generally. So it seems it is not necessary for very high altitudes to achieve high fermentation.
+Let us start with the Johor XO. As named, grown in Johor, which is lower altitude than Pahang generally (so it seems it is not necessary for very high altitudes to achieve high fermentation).
 
-Even though botanically a D24 cultivar, the taste characteristic is consistent, and a clear category of its own.
+Its taste characteristic is consistent, and a clear category of its own.
 
 Distinctive characteristics:
 - Very alcoholic, and not like a well-fermented D175 Red Prawn alcoholic. A totally much much higher level, similar to a very diluted hard liquor. Personally would describe it like a diluted fruit soju
 - Very soft, once you break through the skin membrane, can be runny just like a broken egg yolk
-- Flesh colour is generally whiter than D24 (sometimes can be very white)
+- Flesh colour is generally white
 - Seeds generally smaller than others, and the seed is soft and easy to squish (must be from steeping in all that ethanol)
 
 Once you've tried an authentic Johor XO, you'll see that it's really not possible to pass off any other sub-type as Johor XO. It is clearly in a taste profile of its own.
@@ -53,7 +49,7 @@ Enjoy some pictures of Johor XO (see the squishy soft seed):
 
 
 
-<u>D24 / Sultan</u>
+<u>D24 / Sultan / D24XO / XOD24</u>
 
 D24 is grown over many places like Johor, Pahang, Cameron Highlands region, etc. 
 
