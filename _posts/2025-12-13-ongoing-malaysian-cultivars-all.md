@@ -69,9 +69,9 @@ Wrote a much longer article on it here:
 </a>
 
 - D24 has very sharp thorns; if your hands slip you will probably bleed
-- A good D24 tastes like vanilla
+- Stereotype is that D24 ranges widely in quality and attributes; flesh can be yellow or white; taste can be very bitter or mild; and apparently tastes better during rainy season and when the fruit is smaller
+- The better quality D24 I've had were very bitter, with aftertaste of vanilla
 - Usually bigger seeds
-- Stereotype is that D24 ranges widely in quality and attributes; sometimes very yellow and sometimes very white flesh; sometimes very bitter sometimes mild; and apparently tastes better during rainy season and when the fruit is smaller
 
 
 <u>D78 Sweetie</u>
@@ -107,10 +107,8 @@ So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort
 <img src="/assets/images/ongoingmycultivars/d123c.jpg" class="small-img" alt="chanee durian">
 <img src="/assets/images/ongoingmycultivars/d123d.jpg" class="small-img" alt="chanee durian">
 
-Originated from Thailand, seems it also has a Mardi registration, as it can also be grown in Malaysia and ripened and tree-dropped the usual Malaysian harvesting way. After awhile, the outer shape of Chanee is usually unmistakeable, given its very aggressive rugged shape.
-- Rugged and gourd-like husk shape, slightly like a S17 (but larger thorns than S17)
-- Usually tree-cut if from Thailand, so uneven ripening via chemical agents, or unripe
-- If ripe, can be very bitter, but seems to be a flat non-complex bitter
+Actually a Thai durian and originated from Thailand, but seems it also has a Mardi registration, as it can also be grown in Malaysia and ripened and tree-dropped the usual Malaysian harvesting way. In fact, there are Malaysian durian varieties that have origins and offshoots from Chanee, e.g. D165 Green Skin 15. Regarding Chanee, those from Thailand are green, and have a very very aggressive rugged shape. While Chanee grown in Malaysian are apparently more brown in colour with a 'softer' look, and usually grown in Penang, but I have yet to try those.
+- For Thai version: usually rugged and gourd-like looking (slightly like a S17), and given that its tree-cut it will be unevenly ripe or unripe even with ripening agents, with a flat non-complex bitter if ripe
 
 
 <u>D160 Tekka</u>
@@ -183,7 +181,7 @@ Apparently, is Mardi registered as D168, but due to various reasons got known as
 <img src="/assets/images/ongoingmycultivars/d175b.jpg" class="small-img" alt="red prawn durian">
 <img src="/assets/images/ongoingmycultivars/d175d.jpg" class="small-img" alt="red prawn durian">
 
-Also known as Penang Red Prawn ('True Red Prawn').
+Also known as Penang Red Prawn ('True Red Prawn'). Some people try to pass off Thai Puangmanee as D175 (but Puangmanee is very green and tastes of a flat sweet, while D175 is usually ash gray and has a complex bittersweet with light fermentation)
 - Rugby shape
 - Usually ash gray husk colour (not because it is not fresh)
 - Bittersweet
