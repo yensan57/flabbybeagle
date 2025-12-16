@@ -107,8 +107,8 @@ So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort
 <img src="/assets/images/ongoingmycultivars/d123c.jpg" class="small-img" alt="chanee durian">
 <img src="/assets/images/ongoingmycultivars/d123d.jpg" class="small-img" alt="chanee durian">
 
-Actually a Thai durian and originated from Thailand, but seems it also has a Mardi registration, as it can also be grown in Malaysia and ripened and tree-dropped the usual Malaysian harvesting way. In fact, there are Malaysian durian varieties that have origins and offshoots from Chanee, e.g. D165 Green Skin 15. Regarding Chanee, those from Thailand are green, and have a very very aggressive rugged shape. While Chanee grown in Malaysian are apparently more brown in colour with a 'softer' look, and usually grown in Penang, but I have yet to try those.
-- For Thai version: usually rugged and gourd-like looking (slightly like a S17), and given that its tree-cut it will be unevenly ripe or unripe even with ripening agents, with a flat non-complex bitter if ripe
+Actually a Thai durian and originates from Thailand, but seems it also has a Mardi registration, as it can also be grown in Malaysia and tree-dropped the usual Malaysian harvesting way. In fact, there are Malaysian varieties that have origins and offshoots from Chanee, e.g. D165 Green Skin 15. Regarding Chanee, those from Thailand are green, and have a very aggressive rugged shape. While Chanee grown in Malaysian are apparently more brown in colour with a 'softer' look, and usually grown in Penang, but I have yet to try those.
+- For Thai version: rugged and gourd-like looking (slightly like S17), and tree-cut meaning uneven ripeness or unripe even with ripening agents (even if ripe tastes flat non-complex bitter)
 
 
 <u>D160 Tekka</u>
