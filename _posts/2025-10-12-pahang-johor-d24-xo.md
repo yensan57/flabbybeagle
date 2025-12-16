@@ -66,7 +66,7 @@ In addition, the high altitude can also be identified by a white dust over the d
 It is very hard to proclaim a single 'taste profile' for D24. Some sellers and durian enthusiasts would tell you, that D24 is one of the most inconsistent in quality, and varied in taste profiles. This cultivar is also said to have many supposed mysteries, such as tasting better during rainy season (unlike other cultivars), and the smaller the fruit the better the taste, and so on.
 
 Thus, it is very hard to say, a D24 will taste a certain way, but if we were to attempt to highlight some more commonly encountered characteristics:
-- Taste of high altitude quality D24 can have strong vanilla flavour
+- Taste of high altitude quality D24 can have strong vanilla aftertaste
 - Higher the altitude, the more white powder, and the more firm the flesh (see pictures below for an idea)
 - Flesh colour more yellow generally
 - Seed generally big and the usual hard durian seed, unlike Johor XO (but very rarely you may get small seeds sometimes; its a natural fruit come on)
