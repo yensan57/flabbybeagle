@@ -316,24 +316,6 @@ A Johor cultivar, Dong Lai (东来 means Come East) is also known as 'Pineapple 
 
 <u><strong>Not Mardi registered cultivars</strong></u>
 
-<u>Johor XO</u>
-
-<img src="/assets/images/2025-10-12/20251012_175622_small.jpg" class="small-img" alt="johor_xo">
-<img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
-<img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
-<img src="/assets/images/2025-10-12/20251012_183139.jpg" class="small-img" alt="johor_xo">
-
-Apparently, true Johor XO is likely a different cultivar from D24 / D24XO. Also known as 六两肉 (means 'pork neck meat' which is supposedly tender and has nice texture), and is from Labis Johor.
-Read more about Johor XO in this longer article: 
-<a href="{% post_url 2025-10-12-pahang-johor-d24-xo %}"
-   target="_blank"
-   rel="noopener noreferrer">
-  Separate post about D24/XO
-</a>
-- A good Johor XO tastes like sweet alcohol with egg-yolk texture
-- Small seeds that are soft and easily squished
-
-
 <u>Capri</u>
 
 <img src="/assets/images/ongoingmycultivars/capri1.jpg" class="small-img" alt="capri durian">
@@ -395,6 +377,24 @@ From Johor. 糯米 in Chinese
 - White flesh
 - Sticky and thick flesh exactly like the name suggests
 - Mildly bitter
+
+
+<u>Johor XO</u>
+
+<img src="/assets/images/2025-10-12/20251012_175622_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/20251012_175706_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/20251012_183139.jpg" class="small-img" alt="johor_xo">
+
+Apparently, true Johor XO is likely a different cultivar from D24 / D24XO. Also known as 六两肉 (means 'pork neck meat' which is supposedly tender and has nice texture), and is from Labis Johor.
+Read more about Johor XO in this longer article: 
+<a href="{% post_url 2025-10-12-pahang-johor-d24-xo %}"
+   target="_blank"
+   rel="noopener noreferrer">
+  Separate post about D24/XO
+</a>
+- A good Johor XO tastes like sweet alcohol with egg-yolk texture
+- Small seeds that are soft and easily squished
 
 
 <u>Green Skin</u>
