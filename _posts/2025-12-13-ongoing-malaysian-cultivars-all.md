@@ -316,20 +316,6 @@ A Johor cultivar, Dong Lai (东来 means Come East) is also known as 'Pineapple 
 
 <u><strong>Not Mardi registered cultivars</strong></u>
 
-<u>Green Skin</u>
-
-<img src="/assets/images/ongoingmycultivars/gstdt1.jpg" class="small-img" alt="green skin durian">
-<img src="/assets/images/ongoingmycultivars/gstdt2.jpg" class="small-img" alt="green skin durian">
-<img src="/assets/images/ongoingmycultivars/gstdt3.jpg" class="small-img" alt="green skin durian">
-<img src="/assets/images/ongoingmycultivars/gsmarcus1.jpg" class="small-img" alt="green skin durian">
-
-Apparently there are so many types of Green Skin, such as D165 Green Skin 15 from Penang, Green Skin 3, Green Skin Son, etc.
-
-I have not eaten enough to know what exactly are the differences or how to distinguish. So just posting 2 types of Green Skin I've had so far, under the non 'D' section.
-- First 3 pictures belong to a yellow flesh GS with strong bitterness
-- Last picture is a white flesh GS that is very mildly bitter, from another seller
-
-
 <u>Johor XO</u>
 
 <img src="/assets/images/2025-10-12/20251012_175622_small.jpg" class="small-img" alt="johor_xo">
@@ -409,3 +395,17 @@ From Johor. 糯米 in Chinese
 - White flesh
 - Sticky and thick flesh exactly like the name suggests
 - Mildly bitter
+
+
+<u>Green Skin</u>
+
+<img src="/assets/images/ongoingmycultivars/gstdt1.jpg" class="small-img" alt="green skin durian">
+<img src="/assets/images/ongoingmycultivars/gstdt2.jpg" class="small-img" alt="green skin durian">
+<img src="/assets/images/ongoingmycultivars/gstdt3.jpg" class="small-img" alt="green skin durian">
+<img src="/assets/images/ongoingmycultivars/gsmarcus1.jpg" class="small-img" alt="green skin durian">
+
+Apparently there are so many types of Green Skin, such as D165 Green Skin 15 from Penang, Green Skin 3, Green Skin Son, etc.
+
+I have not eaten enough to know what exactly are the differences or how to distinguish. So just posting 2 types of Green Skin I've had so far, under the non 'D' section.
+- First 3 pictures belong to a yellow flesh GS with strong bitterness
+- Last picture is a white flesh GS that is very mildly bitter, from another seller
