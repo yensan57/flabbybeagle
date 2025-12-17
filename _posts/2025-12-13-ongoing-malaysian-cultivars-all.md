@@ -337,7 +337,7 @@ I have not eaten enough to know what exactly are the differences or how to disti
 <img src="/assets/images/2025-10-12/20251012_180454_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_183139.jpg" class="small-img" alt="johor_xo">
 
-Apparently, true Johor XO is likely a different cultivar from D24 / D24XO. Also known as 六两肉 (means 'pork neck meat' which is supposedly tender and nice texture), and is from Labis Johor.
+Apparently, true Johor XO is likely a different cultivar from D24 / D24XO. Also known as 六两肉 (means 'pork neck meat' which is supposedly tender and has nice texture), and is from Labis Johor.
 Read more about Johor XO in this longer article: 
 <a href="{% post_url 2025-10-12-pahang-johor-d24-xo %}"
    target="_blank"
