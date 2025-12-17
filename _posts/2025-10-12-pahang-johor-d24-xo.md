@@ -23,7 +23,7 @@ Meanwhile, D24 as per registered under Mardi, depending on geographical growing 
 
 Let us start with the Johor XO. As named, grown in Johor, which is lower altitude than Pahang generally (so it seems it is not necessary for very high altitudes to achieve high fermentation).
 
-Its taste characteristic is consistent, and a clear category of its own.
+Its taste characteristic is consistent, and a clear category of its own. It is also known as 六两肉, Chinese for 'pork neck meat' (which is supposedly tender and has nice texture).
 
 Distinctive characteristics:
 - Very alcoholic, and not like a well-fermented D175 Red Prawn alcoholic. A totally much much higher level, similar to a very diluted hard liquor. Personally would describe it like a diluted fruit soju
