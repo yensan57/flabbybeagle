@@ -46,6 +46,8 @@ Enjoy some pictures of Johor XO (see the squishy soft seed):
 <img src="/assets/images/2025-10-12/20251012_182554_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_184039_small.jpg" class="small-img" alt="johor_xo">
 <img src="/assets/images/2025-10-12/20251012_183139.jpg" class="small-img" alt="johor_xo">
+<img src="/assets/images/2025-10-12/xo1.jpg" class="small-img" alt="johor_xo durian">
+<img src="/assets/images/2025-10-12/xo2.jpg" class="small-img" alt="johor_xo durian">
 
 
 
