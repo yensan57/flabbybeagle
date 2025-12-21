@@ -45,7 +45,7 @@ Also known as Dream Lover.
 <img src="/assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
 <img src="/assets/images/ongoingmycultivars/d13b.jpg" class="small-img" alt="d13 durian">
 <img src="/assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
-<img src="/assets/images/ongoingmycultivars/d13e.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13f.jpg" class="small-img" alt="d13 durian">
 
 Also known as 'Johor Red Prawn'.
 - Generally sweet to bittersweet
@@ -87,10 +87,10 @@ Wrote a much longer article on it here:
 
 <u>D88</u>
 
+<img src="/assets/images/ongoingmycultivars/d88e.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88f.jpg" class="small-img" alt="d88 durian">
 <img src="/assets/images/ongoingmycultivars/d88a.jpg" class="small-img" alt="d88 durian">
 <img src="/assets/images/ongoingmycultivars/d88b.jpg" class="small-img" alt="d88 durian">
-<img src="/assets/images/ongoingmycultivars/d88c.jpg" class="small-img" alt="d88 durian">
-<img src="/assets/images/ongoingmycultivars/d88d.jpg" class="small-img" alt="d88 durian">
 
 So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort of similar, I guess
 - Very fleshy and meaty; you will likely be full just from 1 fruit (that is a very distinctive feature of this cultivar for me, very value-for-money)
@@ -278,7 +278,7 @@ From Johor. Also known as Ice Cream Durian
 <img src="/assets/images/ongoingmycultivars/s17a.jpg" class="small-img" alt="s17 durian">
 <img src="/assets/images/ongoingmycultivars/s17b.jpg" class="small-img" alt="s17 durian">
 <img src="/assets/images/ongoingmycultivars/s17c.jpg" class="small-img" alt="s17 durian">
-<img src="/assets/images/ongoingmycultivars/s17d.jpg" class="small-img" alt="s17 durian">
+<img src="/assets/images/ongoingmycultivars/s17e.jpg" class="small-img" alt="s17 durian">
 
 From Johor. S17 is really what it is most commonly known by. Also known as 'D17' (but it's not the actual official D17 registered in Mardi), or Coffee Durian due to its taste profile.
 - Rugged husk look (rugged like Capri and Tawa)
