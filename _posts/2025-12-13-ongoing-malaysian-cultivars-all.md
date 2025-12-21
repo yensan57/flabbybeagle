@@ -336,11 +336,11 @@ A Penang cultivar. Well known among durian enthusiasts for its strong bitterness
 <img src="/assets/images/ongoingmycultivars/envy3.jpg" class="small-img" alt="envy flower durian">
 <img src="/assets/images/ongoingmycultivars/envy4.jpg" class="small-img" alt="envy flower durian">
 
-Xian Mu Hua (羡慕花 means Envy Flower) is a Johor variety. Known to be rare, because of the limited trees.
+Xian Mu Hua (羡慕花 means Envy Flower) is a Johor variety. Known to be rare, because of the limited trees. Yet high demand.
 - White flesh
 - Very floral in smell and taste
 - Taste kind of reminds me of a less bitter and less strong Capri
-- Overall experience would describe as maybe good Tekka mixed with a milder Capri (which to me is a good flavour)
+- Overall experience is very good; would describe as maybe a good Tekka mixed with a milder Capri
 
 
 <u>Kim Leng</u>
