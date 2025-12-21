@@ -340,6 +340,7 @@ Xian Mu Hua (羡慕花 means Envy Flower) is a Johor variety. Known to be rare, 
 - White flesh
 - Very floral in smell and taste
 - Taste kind of reminds me of a less bitter and less strong Capri
+- Overall experience would describe as maybe good Tekka mixed with a milder Capri (which to me is a good flavour)
 
 
 <u>Kim Leng</u>
