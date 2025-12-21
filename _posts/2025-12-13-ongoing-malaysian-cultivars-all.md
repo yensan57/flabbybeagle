@@ -156,10 +156,10 @@ Name is Hokkien for gourd. From Penang.
 <img src="/assets/images/ongoingmycultivars/kp3.jpg" class="small-img" alt="khun poh durian">
 <img src="/assets/images/ongoingmycultivars/kp4.jpg" class="small-img" alt="khun poh durian">
 
-From Penang. Online articles say at 小红 (Xiao Hong, or Little Red) is an off-shoot of Khun Poh, that seems to be recognised as a separate cultivar.
+From Penang. Online articles say that 小红 (Xiao Hong, or Little Red) is an off-shoot of Khun Poh Ang Bak (坤宝红肉), and seems to be recognised as a separate cultivar. For the sake of convenience I am lumping them together here.
 
-I tried both, side by side, as seen in the pictures. Personally, I was unable to distinguish between both by visual, or by taste. The stallholder told me to look at the base to see the difference in pattern, but I cannot remember the difference now sadly. 
-- Tastes like orange, really very unique, like eating an orange dessert
+I tried both Khun Poh and Xiao Hong, side by side, as seen in the pictures. Personally, I was unable to distinguish between both by visual, or by taste. The stallholder told me to look at the base to see the difference in pattern, but I cannot remember the difference now sadly. 
+- Tastes citrus-y and orange-y, really very unique, like eating an orange dessert
 
 
 <u>D168 D101</u>
