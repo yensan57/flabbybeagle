@@ -395,8 +395,9 @@ Read more about Johor XO in this longer article:
    rel="noopener noreferrer">
   Separate post about D24/XO
 </a>
-- A good Johor XO tastes like sweet alcohol with egg-yolk texture
-- Small seeds that are soft and easily squished
+- A good Johor XO tastes like sweet alcohol (extremely high fermentation maybe even to the point of umeshu or cider level)
+- Egg-yolk runny texture
+- Small seeds that are soft and easily squished (probably broken down due to all that ethanol)
 
 
 <u>Green Skin</u>
