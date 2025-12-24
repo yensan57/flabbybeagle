@@ -164,9 +164,10 @@ I tried both Khun Poh and Xiao Hong, side by side, as seen in the pictures. Pers
 
 <u>D168 D101</u>
 
+<img src="/assets/images/ongoingmycultivars/d101d.jpg" class="small-img" alt="d101 durian">
 <img src="/assets/images/ongoingmycultivars/d101a.jpg" class="small-img" alt="d101 durian">
+<img src="/assets/images/ongoingmycultivars/d101e.jpg" class="small-img" alt="d101 durian">
 <img src="/assets/images/ongoingmycultivars/d101b.jpg" class="small-img" alt="d101 durian">
-<img src="/assets/images/ongoingmycultivars/d101c.jpg" class="small-img" alt="d101 durian">
 
 Apparently, is Mardi registered as D168, but due to various reasons got known as D101, IOI (eye-oh-eye). D101 is the most common term for it. D101 in Mardi is another durian altogether. Also likes to be passed off as 'red prawn'.
 - Insanely sharp thorns; probably one of the sharpest in my opinion. Looks dangerous and is dangerous; get ready to bleed if not careful.
