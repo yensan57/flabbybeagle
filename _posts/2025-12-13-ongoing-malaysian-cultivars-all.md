@@ -372,14 +372,16 @@ From Johor. 黑珍珠 means Black Pearl; also known as 太原 Taiyuan.
 
 <u>Glutinous Rice</u>
 
+<img src="/assets/images/ongoingmycultivars/gr4.jpg" class="small-img" alt="glutinous rice durian">
 <img src="/assets/images/ongoingmycultivars/gr1.jpg" class="small-img" alt="glutinous rice durian">
 <img src="/assets/images/ongoingmycultivars/gr2.jpg" class="small-img" alt="glutinous rice durian">
-<img src="/assets/images/ongoingmycultivars/gr3.jpg" class="small-img" alt="glutinous rice durian">
+<img src="/assets/images/ongoingmycultivars/gr5.jpg" class="small-img" alt="glutinous rice durian">
 
 From Johor. 糯米 in Chinese
 - White flesh
 - Sticky and thick flesh exactly like the name suggests
 - Mildly bitter
+- Seems to lightly smell and taste of glutinous rice, which is nice
 
 
 <u>Johor XO</u>
