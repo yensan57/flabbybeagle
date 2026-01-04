@@ -297,7 +297,7 @@ From Penang. Okay, actually, I may not have managed to try the real Tupai King. 
 <img src="/assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
 <img src="/assets/images/ongoingmycultivars/d13f.jpg" class="small-img" alt="d13 durian">
 
-One of those confusing situations where supposedly for historical reasons got very well-known as D13, but was never MARDI registered until later, as D226. Also known as 'Johor Red Prawn'.
+One of those confusing situations where supposedly for historical reasons got very well-known as D13, but was never MARDI registered until later, as D226. Also known as 'Johor Red Prawn', Hock (Beng) 13.
 - Generally sweet to bittersweet
 - Generally big seeds
 
