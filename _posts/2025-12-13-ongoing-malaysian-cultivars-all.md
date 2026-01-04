@@ -40,18 +40,6 @@ Also known as Dream Lover.
 - Medium bittersweet
 
 
-<u>D13</u>
-
-<img src="/assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
-<img src="/assets/images/ongoingmycultivars/d13b.jpg" class="small-img" alt="d13 durian">
-<img src="/assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
-<img src="/assets/images/ongoingmycultivars/d13f.jpg" class="small-img" alt="d13 durian">
-
-Also known as 'Johor Red Prawn'.
-- Generally sweet to bittersweet
-- Generally big seeds
-
-
 <u>D24</u>
 
 <img src="/assets/images/2025-10-12/d24_2.jpg" class="small-img" alt="d24 durian">
@@ -300,6 +288,18 @@ From Penang. Okay, actually, I may not have managed to try the real Tupai King. 
 - Leaves long lasting sharp bitterness inside mouth
 - Above medium level bitterness
 - Very floral at the same time
+
+
+<u>D226 D13</u>
+
+<img src="/assets/images/ongoingmycultivars/d13a.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13b.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
+<img src="/assets/images/ongoingmycultivars/d13f.jpg" class="small-img" alt="d13 durian">
+
+One of those confusing situations where supposedly for historical reasons got very well-known as D13, but was never MARDI registered until later, as D226. Also known as 'Johor Red Prawn'.
+- Generally sweet to bittersweet
+- Generally big seeds
 
 
 <u>D232 Dong Lai</u>
