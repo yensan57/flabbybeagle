@@ -403,6 +403,17 @@ Read more about Johor XO in this longer article:
 - Small seeds that are soft and easily squished (probably broken down due to all that ethanol)
 
 
+<u>Forget Me Not</u>
+
+<img src="/assets/images/ongoingmycultivars/wbl1.jpg" class="small-img" alt="forget me not durian">
+<img src="/assets/images/ongoingmycultivars/wbl2.jpg" class="small-img" alt="forget me not durian">
+
+忘不了 in Chinese. Probably from Johor. 
+- This fruit in particular, some locules tasted like D13, some tasted like black thorn
+- Nice light orange colour similar to D13
+- Much smaller seeds than D13
+
+
 <u>Green Skin</u>
 
 <img src="/assets/images/ongoingmycultivars/gstdt1.jpg" class="small-img" alt="green skin durian">
