@@ -237,7 +237,7 @@ From Penang. The most expensive accessible cultivar now (other than Tupai King b
 - Good ones have bruising with fermentation
 
 
-<u>D208 D1 Gang Hai</u>
+<u>D208 Gang Hai 'D1'</u>
 
 <img src="/assets/images/ongoingmycultivars/d1a.jpg" class="small-img" alt="d1 durian">
 <img src="/assets/images/ongoingmycultivars/d1b.jpg" class="small-img" alt="d1 durian">
