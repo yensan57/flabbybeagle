@@ -159,7 +159,7 @@ Also known as Penang Red Prawn ('True Red Prawn'). Some people try to pass off T
 <img src="/assets/images/ongoingmycultivars/d88a.jpg" class="small-img" alt="d88 durian">
 <img src="/assets/images/ongoingmycultivars/d88b.jpg" class="small-img" alt="d88 durian">
 
-MARDI registered as D190 1992, it is more commonly known as MDUR88 or D88. And it is supposedly a cross between D24 and D10. And so far I've heard D88 being compared to D24 quite a bit in taste. Having tried it, taste profiles are sort of similar I guess.
+MARDI registered as D190 in 1992, it is more commonly known as MDUR88 or D88. And it is supposedly a cross between D24 and D10. And so far I've heard D88 being compared to D24 quite a bit in taste. Having tried it, taste profiles are sort of similar I guess.
 - Very fleshy and meaty; you will likely be full just from 1 fruit (that is a very distinctive feature of this cultivar for me, very value-for-money)
 - Yellow meat in general (whereas D24 is more white-ish)
 - Can be fermented sometimes
