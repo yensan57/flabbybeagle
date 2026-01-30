@@ -13,18 +13,6 @@ Starts in numerical 'D' order, followed by other varieties not registered with t
 
 Since listed here are those I have personally tried, I also give my own personal views on each variety. Take it with a pinch of salt; naturally everyone has their own opinions and taste preferences.
 
-<u>D1 Gang Hai</u>
-
-<img src="/assets/images/ongoingmycultivars/d1a.jpg" class="small-img" alt="d1 durian">
-<img src="/assets/images/ongoingmycultivars/d1b.jpg" class="small-img" alt="d1 durian">
-<img src="/assets/images/ongoingmycultivars/d1c.jpg" class="small-img" alt="d1 durian">
-<img src="/assets/images/ongoingmycultivars/d1d.jpg" class="small-img" alt="d1 durian">
-
-Gang Hai / Jiang Hai (江海 means river sea), generally heralds the start of the Johor season, as its fruits fall first.
-- Seeds small tadpole shaped, just like Black Pearl
-- Tastes mild bittersweet; I consider it a very light flavour, like D163 Hor Lor
-
-
 <u>D2 Dato Nina</u>
 
 <img src="/assets/images/ongoingmycultivars/d2a.jpg" class="small-img" alt="d2 durian">
@@ -71,21 +59,6 @@ Wrote a much longer article on it here:
 
 - Bittersweet
 - Slightly fermented
-
-
-<u>D88</u>
-
-<img src="/assets/images/ongoingmycultivars/d88e.jpg" class="small-img" alt="d88 durian">
-<img src="/assets/images/ongoingmycultivars/d88f.jpg" class="small-img" alt="d88 durian">
-<img src="/assets/images/ongoingmycultivars/d88a.jpg" class="small-img" alt="d88 durian">
-<img src="/assets/images/ongoingmycultivars/d88b.jpg" class="small-img" alt="d88 durian">
-
-So far I've heard D88 being compared to D24 quite a bit. Taste profiles are sort of similar, I guess
-- Very fleshy and meaty; you will likely be full just from 1 fruit (that is a very distinctive feature of this cultivar for me, very value-for-money)
-- Yellow meat in general (whereas D24 is more white-ish)
-- Can be fermented sometimes
-- Bittersweeet to medium bitter
-- Does not have the vanilla taste of D24, in my opinion (that would be a key difference to D24, besides the sharpness of D24 thorns)
 
 
 <u>D123 Chanee</u>
@@ -179,6 +152,21 @@ Also known as Penang Red Prawn ('True Red Prawn'). Some people try to pass off T
 - Weak thorns
 
 
+<u>D190 MDUR88 'D88'</u>
+
+<img src="/assets/images/ongoingmycultivars/d88e.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88f.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88a.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88b.jpg" class="small-img" alt="d88 durian">
+
+MARDI registered as D190 1992, it is more commonly known as MDUR88 or D88. And it is supposedly a cross between D24 and D10. And so far I've heard D88 being compared to D24 quite a bit in taste. Having tried it, taste profiles are sort of similar I guess.
+- Very fleshy and meaty; you will likely be full just from 1 fruit (that is a very distinctive feature of this cultivar for me, very value-for-money)
+- Yellow meat in general (whereas D24 is more white-ish)
+- Can be fermented sometimes
+- Bittersweeet to medium bitter
+- Does not have the vanilla taste of D24, in my opinion (that would be a key difference to D24, besides the sharpness of D24 thorns)
+
+
 <u>D196 Simpang Permata</u>
 
 <img src="/assets/images/ongoingmycultivars/d196a.jpg" class="small-img" alt="d196 durian">
@@ -249,6 +237,18 @@ From Penang. The most expensive accessible cultivar now (other than Tupai King b
 - Good ones have bruising with fermentation
 
 
+<u>D208 D1 Gang Hai</u>
+
+<img src="/assets/images/ongoingmycultivars/d1a.jpg" class="small-img" alt="d1 durian">
+<img src="/assets/images/ongoingmycultivars/d1b.jpg" class="small-img" alt="d1 durian">
+<img src="/assets/images/ongoingmycultivars/d1c.jpg" class="small-img" alt="d1 durian">
+<img src="/assets/images/ongoingmycultivars/d1d.jpg" class="small-img" alt="d1 durian">
+
+Officially MARDI registered as D208 in 2019, but everyone knows it as D1, or Gang Hai / Jiang Hai (江海 means river sea). It generally heralds the start of the Johor season, as its fruits fall first.
+- Seeds small tadpole shaped, just like Black Pearl
+- Tastes mild bittersweet; I consider it a very light flavour, like D163 Hor Lor
+
+
 <u>D211 Kasap Merah</u>
 
 <img src="/assets/images/ongoingmycultivars/d211a.jpg" class="small-img" alt="d211 durian">
@@ -297,7 +297,7 @@ From Penang. Okay, actually, I may not have managed to try the real Tupai King. 
 <img src="/assets/images/ongoingmycultivars/d13c.jpg" class="small-img" alt="d13 durian">
 <img src="/assets/images/ongoingmycultivars/d13f.jpg" class="small-img" alt="d13 durian">
 
-One of those confusing situations where supposedly for historical reasons got very well-known as D13, but was never MARDI registered until later, as D226. Also known as 'Johor Red Prawn', Hock (Beng) 13.
+One of those confusing situations where supposedly for historical reasons got very well-known as D13, but was never MARDI registered until later, as D226 in 2022. Also known as 'Johor Red Prawn', or Hock (Beng) 13.
 - Generally sweet to bittersweet
 - Generally big seeds
 
