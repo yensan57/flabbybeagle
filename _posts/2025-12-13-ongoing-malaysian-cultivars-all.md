@@ -302,14 +302,14 @@ One of those confusing situations where supposedly for historical reasons got ve
 - Generally big seeds
 
 
-<u>D232 Dong Lai</u>
+<u>D232 Tang Lai</u>
 
 <img src="/assets/images/ongoingmycultivars/donglai1.jpg" class="small-img" alt="dong lai durian">
 <img src="/assets/images/ongoingmycultivars/donglai2.jpg" class="small-img" alt="dong lai durian">
 <img src="/assets/images/ongoingmycultivars/donglai3.jpg" class="small-img" alt="dong lai durian">
 <img src="/assets/images/ongoingmycultivars/donglai4.jpg" class="small-img" alt="dong lai durian">
 
-A Johor cultivar, Dong Lai (东来 means Come East) is also known as 'Pineapple durian', because of the orange and yellow colour hues on the husk.
+A Johor cultivar, also known as Dong Lai (东来 means Come East) is also known as 'Pineapple durian', because of the orange and yellow colour hues on the husk.
 - Basically tastes like Khun Poh / Xiao Hong, orange citrus taste
 - Difference mainly in texture; Dong Lai is much dryer and more suitable for transport
 
