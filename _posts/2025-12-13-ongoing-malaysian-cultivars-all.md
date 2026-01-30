@@ -28,7 +28,7 @@ Also known as Dream Lover.
 - Medium bittersweet
 
 
-<u>D24</u>
+<u>D24 Sultan</u>
 
 <img src="/assets/images/2025-10-12/d24_2.jpg" class="small-img" alt="d24 durian">
 <img src="/assets/images/2025-10-12/d24_1.jpg" class="small-img" alt="d24 durian">
