@@ -9,7 +9,7 @@ This is an ongoing WIP document, mainly for my own personal records of what Mala
 
 And also easily lets me see what I haven't tried (which is the massively longer list). If I lived in Malaysia, it would be much easier to complete this list haha.
 
-Starts in numerical 'D' order, followed by other varieties not registered with the Malaysian Agricultural Research and Development Institute (Mardi)
+Starts in numerical 'D' order, followed by other varieties not registered with the Malaysian Agricultural Research and Development Institute (Mardi). Mardi records are mainly with regards to only 1 species, durio zibethinus. Other species like the red orange Sabah Sarawak durio graveolens, are not part of Mardi D number scheme.
 
 Since listed here are those I have personally tried, I also give my own personal views on each variety. Take it with a pinch of salt; naturally everyone has their own opinions and taste preferences.
 
