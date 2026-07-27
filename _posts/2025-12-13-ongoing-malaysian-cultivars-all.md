@@ -61,6 +61,21 @@ Wrote a much longer article on it here:
 - Slightly fermented
 
 
+<u>D88</u>
+
+<img src="/assets/images/ongoingmycultivars/d88e.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88f.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88a.jpg" class="small-img" alt="d88 durian">
+<img src="/assets/images/ongoingmycultivars/d88b.jpg" class="small-img" alt="d88 durian">
+
+Apparently not to be confused with MDUR88 (Mardi Durian 88), which is registered as D190 in 1992. So far I've heard D88 being compared to D24 quite a bit in taste. Having tried it, taste profiles are sort of similar I guess.
+- Very fleshy and meaty; you will likely be full just from 1 fruit (that is a very distinctive feature of this cultivar for me, very value-for-money)
+- Yellow meat in general (whereas D24 is more white-ish)
+- Can be fermented sometimes
+- Bittersweeet to medium bitter
+- Does not have the vanilla taste of D24, in my opinion (that would be a key difference to D24, besides the sharpness of D24 thorns)
+
+
 <u>D123 Chanee</u>
 
 <img src="/assets/images/ongoingmycultivars/d123a.jpg" class="small-img" alt="chanee durian">
@@ -150,21 +165,6 @@ Also known as Penang Red Prawn ('True Red Prawn'). Some people try to pass off T
 - Frequently has fermentation
 - Low meat yield. The inner stem fibre takes up so much space
 - Weak thorns
-
-
-<u>D190 MDUR88 'D88'</u>
-
-<img src="/assets/images/ongoingmycultivars/d88e.jpg" class="small-img" alt="d88 durian">
-<img src="/assets/images/ongoingmycultivars/d88f.jpg" class="small-img" alt="d88 durian">
-<img src="/assets/images/ongoingmycultivars/d88a.jpg" class="small-img" alt="d88 durian">
-<img src="/assets/images/ongoingmycultivars/d88b.jpg" class="small-img" alt="d88 durian">
-
-MARDI registered as D190 in 1992, it is more commonly known as MDUR88 (Mardi Durian 88) or D88. And it is supposedly a cross between D24 and D10. And so far I've heard D88 being compared to D24 quite a bit in taste. Having tried it, taste profiles are sort of similar I guess.
-- Very fleshy and meaty; you will likely be full just from 1 fruit (that is a very distinctive feature of this cultivar for me, very value-for-money)
-- Yellow meat in general (whereas D24 is more white-ish)
-- Can be fermented sometimes
-- Bittersweeet to medium bitter
-- Does not have the vanilla taste of D24, in my opinion (that would be a key difference to D24, besides the sharpness of D24 thorns)
 
 
 <u>D196 Simpang Permata</u>
